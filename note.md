@@ -8,6 +8,15 @@ FSL is applied in the following three typical scenarios:
 - Learning for rare cases. 
 - Reducing data gathering effort and computational cost. 
 
-
+Some algorithms relatdFew-Shot Learning相关的
 Transfer learning transfers knowledge from the source domain/task, where training data is abundant, to the target domain/task, where training data is scarce. 
 Imbalanced learning learns from experience E with a skewed distribution for y. 
+
+
+
+
+## Table of Contents
++ [Papers](#Papers)
++ [Datasets](#Datasets)
++ [Starter code for ZSL](#Starter-Code)
++ [Other Resources](#Other-resources)
