@@ -2,7 +2,7 @@
 
 ## Few-Shot Learning
 few-shot learning比普通机器学习的不同之处是它可以利用前验知识。
-Few-Shot Learning (FSL) is a type of machine learning problems (specified by emperience E, task T and performance measure P), where E contains only a limited number of examples with supervised information for the target T[1](#Papers).
+Few-Shot Learning (FSL) is a type of machine learning problems (specified by emperience E, task T and performance measure P), where E contains only a limited number of examples with supervised information for the target T[[1](#Papers)].
 FSL is applied in the following three typical scenarios:
 - Acting as a test bed for learning like human. 
 - Learning for rare cases. 
