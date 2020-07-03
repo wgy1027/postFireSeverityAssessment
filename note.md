@@ -2,7 +2,7 @@
 
 ## Few-Shot Learning
 few-shot learning比普通机器学习的不同之处是它可以利用前验知识。
-Few-Shot Learning (FSL) is a type of machine learning problems (specified by emperience E, task T and performance measure P), where E contains only a limited number of examples with supervised information for the target T[[1](#Wang2019)].
+Few-Shot Learning (FSL) is a type of machine learning problems (specified by emperience E, task T and performance measure P), where E contains only a limited number of examples with supervised information for the target T[[Wang2019](#Wang2019)].
 FSL is applied in the following three typical scenarios:
 - Acting as a test bed for learning like human. 
 - Learning for rare cases. 
@@ -12,7 +12,7 @@ Some algorithms related to Few-Shot Learning:
 - Weakly supervised learning [163] learns from experience E containing only weak supervision (such as incomplete, inexact, inaccurate or noisy supervised information). 
 - Imbalanced learning learns from experience E with a skewed distribution for y. 
 - Transfer learning transfers knowledge from the source domain/task, where training data is abundant, to the target domain/task, where training data is scarce. 
--  Meta-learning improves the performance measure P of the new task T by the provided data set and the metaknowledge extracted across tasks by a meta-learner [2[Hochreiter2001].
+-  Meta-learning improves the performance measure P of the new task T by the provided data set and the metaknowledge extracted across tasks by a meta-learner [[Hochreiter2001[#Hochreiter2001]].
 
 
 
