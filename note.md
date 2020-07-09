@@ -1,18 +1,4 @@
-![](https://latex.codecogs.com/gif.latex?\begin{aligned}j\\\\i\end{aligned})
 
-![](https://latex.codecogs.com/gif.latex?\begin{aligned}\\hat{\mathbf{h}}_t,\mathbf{c}_t&=\\text{LSTM}(f'(\mathbf{x}),[\mathbf{h}_{t-1},\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\\mathbf{h}_t&=\\hat{\mathbf{h}}_t+f'(\mathbf{x})\\\\\mathbf{r}_{t-1}&=\sum_{i=1}^ka(\mathbf{h}_{t-1},g(\mathbf{x}_i))g(\mathbf{x}_i)\\\\a(\mathbf{h}_{t-1},g(\mathbf{x}_i))&=\\text{softmax}(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))}\end{aligned})
-
-![](https://latex.codecogs.com/gif.latex?a(\mathbf{h}_{t-1},g(\mathbf{x}_i))=\\text{softmax}(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))})
-
-^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))})
-
-% <![CDATA[
-\begin{aligned}
-  \hat{\mathbf{h}}_t, \mathbf{c}_t &= \text{LSTM}(f'(\mathbf{x}), [\mathbf{h}_{t-1}, \mathbf{r}_{t-1}], \mathbf{c}_{t-1}) \\
-  \mathbf{h}_t &= \hat{\mathbf{h}}_t + f'(\mathbf{x}) \\
-  \mathbf{r}_{t-1} &= \sum_{i=1}^k a(\mathbf{h}_{t-1}, g(\mathbf{x}_i)) g(\mathbf{x}_i) \\
-  a(\mathbf{h}_{t-1}, g(\mathbf{x}_i)) &= \text{softmax}(\mathbf{h}_{t-1}^\top g(\mathbf{x}_i)) = \frac{\exp(\mathbf{h}_{t-1}^\top g(\mathbf{x}_i))}{\sum_{j=1}^k \exp(\mathbf{h}_{t-1}^\top g(\mathbf{x}_j))}
-  \end{aligned} %]]>
 
 课题还是需要解决实际问题。我关心：（1）小样本问题；（2）样本不匀衡问题；（3）已有经验模型的迁移问题。
 
@@ -41,14 +27,9 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 1. First the test sample goes through a simple neural network, such as a CNN, to extract basic features, ![](http://latex.codecogs.com/gif.latex?f'(x)).
 
 2. Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
-![](https://latex.codecogs.com/gif.latex?\begin{aligned}ji\\ji\end{aligned})
+![](https://latex.codecogs.com/gif.latex?\begin{aligned}\\hat{\mathbf{h}}_t,\mathbf{c}_t&=\\text{LSTM}(f'(\mathbf{x}),[\mathbf{h}_{t-1},\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\\mathbf{h}_t&=\\hat{\mathbf{h}}_t+f'(\mathbf{x})\\\\\mathbf{r}_{t-1}&=\sum_{i=1}^ka(\mathbf{h}_{t-1},g(\mathbf{x}_i))g(\mathbf{x}_i)\\\\a(\mathbf{h}_{t-1},g(\mathbf{x}_i))&=\\text{softmax}(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))}\end{aligned})
 
-
-![](http://latex.codecogs.com/gif.latex?\\begin{aligned}\\hat{\\mathbf{h}}_t, \\mathbf{c}_t &= \\text{LSTM}(f'(\\mathbf{x}), [\\mathbf{h}_{t-1}, \\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\  \\mathbf{h}_t &= \\hat{\\mathbf{h}}_t + f'(\\mathbf{x}) \\\\  \\mathbf{r}_{t-1} &= \\sum_{i=1}^k a(\\mathbf{h}_{t-1}, g(\\mathbf{x}_i)) g(\\mathbf{x}_i) \\\\
-  a(\\mathbf{h}_{t-1}, g(\\mathbf{x}_i)) &= \\text{softmax}(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_i)) = \\frac{\\exp(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_i))}{\\sum_{j=1}^k \\exp(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_j))}  \\end{aligned})
-
-h^t,cthtrt−1a(ht−1,g(xi))=LSTM(f′(x),[ht−1,rt−1],ct−1)=h^t+f′(x)=∑i=1ka(ht−1,g(xi))g(xi)=softmax(h⊤t−1g(xi))=exp(h⊤t−1g(xi))∑kj=1exp(h⊤t−1g(xj))
-Eventually f(x,S)=hK if we do K steps of “read”.
+3. Eventually f(x,S)=hK if we do K steps of “read”.
 
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
