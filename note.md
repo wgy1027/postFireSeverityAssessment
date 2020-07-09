@@ -20,7 +20,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 
 ### Matching Learing
 
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda\\xtheta_k^{(j)})
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 ![](https://latex.codecogs.com/gif.latex?g_%5Ctheta%20%28x_i%2C%20S%29) uses a bidirectional LSTM to encode ![](https://latex.codecogs.com/gif.latex?i_x) in the context of the entire support set S.
 fθ(x,S) encodes the test sample x visa an LSTM with read attention over the support set S.
