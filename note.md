@@ -19,13 +19,9 @@ A survey post about Meta-Learning:[Meta-Learning: Learning to Learn Fast](https:
 Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of learning long-term dependencies. LSTMs were introduced by Hochreiter & Schmidhuber [[Hochreiter, 1997][#Hochreiter1997]]. Refer to the post by colah: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems, providing additional context to the network and resulting in faster and even fuller learning on the problem, whitch is detailed in the post [How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras](https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/#:~:text=Last%20Updated%20on%20January%208,LSTMs%20on%20the%20input%20sequence.).
 
 ### Matching Learing
+![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-
-![](http://latex.codecogs.com/gif.latex?P_\\theta)
-
-![](https://latex.codecogs.com/gif.latex?g_%5Ctheta%20%28x_i%2C%20S%29) uses a bidirectional LSTM to encode ![](https://latex.codecogs.com/gif.latex?i_x) in the context of the entire support set S.
-fθ(x,S) encodes the test sample x visa an LSTM with read attention over the support set S.
+![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample x visa an LSTM with read attention over the support set S.
 First the test sample goes through a simple neural network, such as a CNN, to extract basic features, f′(x).
 Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
 h^t,cthtrt−1a(ht−1,g(xi))=LSTM(f′(x),[ht−1,rt−1],ct−1)=h^t+f′(x)=∑i=1ka(ht−1,g(xi))g(xi)=softmax(h⊤t−1g(xi))=exp(h⊤t−1g(xi))∑kj=1exp(h⊤t−1g(xj))
