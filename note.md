@@ -4,7 +4,7 @@
 
 ![](https://latex.codecogs.com/gif.latex?a(\mathbf{h}_{t-1},g(\mathbf{x}_i))=\\text{softmax}(\mathbf{h}_{t-1}^j))
 
-^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_j))})
+^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))})
 
 % <![CDATA[
 \begin{aligned}
