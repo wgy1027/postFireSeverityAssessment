@@ -25,7 +25,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 1. First the test sample goes through a simple neural network, such as a CNN, to extract basic features, ![](http://latex.codecogs.com/gif.latex?f'(x)).
 
 2. Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
-![](http://latex.codecogs.com/gif.latex?\\begin{aligned}ji\\ ji\\end{aligned})
+![](http://latex.codecogs.com/gif.latex?\\begin{aligned}ji\\\\ ji\\end{aligned})
 
 ![](http://latex.codecogs.com/gif.latex?\\begin{aligned}\\hat{\\mathbf{h}}_t, \\mathbf{c}_t &= \\text{LSTM}(f'(\\mathbf{x}), [\\mathbf{h}_{t-1}, \\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\  \\mathbf{h}_t &= \\hat{\\mathbf{h}}_t + f'(\\mathbf{x}) \\\\  \\mathbf{r}_{t-1} &= \\sum_{i=1}^k a(\\mathbf{h}_{t-1}, g(\\mathbf{x}_i)) g(\\mathbf{x}_i) \\\\
   a(\\mathbf{h}_{t-1}, g(\\mathbf{x}_i)) &= \\text{softmax}(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_i)) = \\frac{\\exp(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_i))}{\\sum_{j=1}^k \\exp(\\mathbf{h}_{t-1}^\\top g(\\mathbf{x}_j))}  \\end{aligned})
