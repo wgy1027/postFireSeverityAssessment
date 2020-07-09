@@ -20,7 +20,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 
 ### Matching Learing
 $x$
-$g_\theta (x_i, S)$  uses a bidirectional LSTM to encode xi in the context of the entire support set S.
+![](https://latex.codecogs.com/gif.latex?g_%5Ctheta%20%28x_i%2C%20S%29)$g_\theta (x_i, S)$  uses a bidirectional LSTM to encode xi in the context of the entire support set S.
 fθ(x,S) encodes the test sample x visa an LSTM with read attention over the support set S.
 First the test sample goes through a simple neural network, such as a CNN, to extract basic features, f′(x).
 Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
