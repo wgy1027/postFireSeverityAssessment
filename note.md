@@ -1,3 +1,6 @@
+![](https://latex.codecogs.com/gif.latex?\begin{aligned}ji\\ji\end{aligned})
+
+
 课题还是需要解决实际问题。我关心：（1）小样本问题；（2）样本不匀衡问题；（3）已有经验模型的迁移问题。
 
 ## Few-Shot Learning
