@@ -29,7 +29,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 2. Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
 ![](https://latex.codecogs.com/gif.latex?\begin{aligned}\\hat{\mathbf{h}}_t,\mathbf{c}_t&=\\text{LSTM}(f'(\mathbf{x}),[\mathbf{h}_{t-1},\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\\mathbf{h}_t&=\\hat{\mathbf{h}}_t+f'(\mathbf{x})\\\\\mathbf{r}_{t-1}&=\sum_{i=1}^ka(\mathbf{h}_{t-1},g(\mathbf{x}_i))g(\mathbf{x}_i)\\\\a(\mathbf{h}_{t-1},g(\mathbf{x}_i))&=\\text{softmax}(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))}\end{aligned})
 
-3. Eventually ![](\https://latex.codecogs.com/gis.latex?f(\mathbf{x},S)=\mathbf{h}_K) if we do ![](\https://latex.codecogs.com/gis.latex?K) steps of “read”.
+3. Eventually ![](https://latex.codecogs.com/gif.latex?f(\mathbf{x},S)=\mathbf{h}_K) if we do ![](\https://latex.codecogs.com/gis.latex?K) steps of “read”.
 
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
