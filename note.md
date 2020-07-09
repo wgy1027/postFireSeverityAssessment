@@ -19,11 +19,20 @@ A survey post about Meta-Learning:[Meta-Learning: Learning to Learn Fast](https:
 Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of learning long-term dependencies. LSTMs were introduced by Hochreiter & Schmidhuber [[Hochreiter, 1997][#Hochreiter1997]]. Refer to the post by colah: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems, providing additional context to the network and resulting in faster and even fuller learning on the problem, whitch is detailed in the post [How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras](https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/#:~:text=Last%20Updated%20on%20January%208,LSTMs%20on%20the%20input%20sequence.).
 
 ### Matching Learing
-![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
+- ![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
+- ![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample ![](http://latex.codecogs.com/gif.latex?x) visa an LSTM with read attention over the support set ![](http://latex.codecogs.com/gif.latex?S).
 
-![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample x visa an LSTM with read attention over the support set S.
-First the test sample goes through a simple neural network, such as a CNN, to extract basic features, f′(x).
-Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
+1. First the test sample goes through a simple neural network, such as a CNN, to extract basic features, ![](http://latex.codecogs.com/gif.latex?f'(x)).
+
+2. Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
+![](http://latex.codecogs.com/gif.latex?
+\begin{aligned}
+  \hat{\mathbf{h}}_t, \mathbf{c}_t &= \text{LSTM}(f'(\mathbf{x}), [\mathbf{h}_{t-1}, \mathbf{r}_{t-1}], \mathbf{c}_{t-1}) \\
+  \mathbf{h}_t &= \hat{\mathbf{h}}_t + f'(\mathbf{x}) \\
+  \mathbf{r}_{t-1} &= \sum_{i=1}^k a(\mathbf{h}_{t-1}, g(\mathbf{x}_i)) g(\mathbf{x}_i) \\
+  a(\mathbf{h}_{t-1}, g(\mathbf{x}_i)) &= \text{softmax}(\mathbf{h}_{t-1}^\top g(\mathbf{x}_i)) = \frac{\exp(\mathbf{h}_{t-1}^\top g(\mathbf{x}_i))}{\sum_{j=1}^k \exp(\mathbf{h}_{t-1}^\top g(\mathbf{x}_j))}
+  \end{aligned})
+
 h^t,cthtrt−1a(ht−1,g(xi))=LSTM(f′(x),[ht−1,rt−1],ct−1)=h^t+f′(x)=∑i=1ka(ht−1,g(xi))g(xi)=softmax(h⊤t−1g(xi))=exp(h⊤t−1g(xi))∑kj=1exp(h⊤t−1g(xj))
 Eventually f(x,S)=hK if we do K steps of “read”.
 
