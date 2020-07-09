@@ -19,8 +19,15 @@ A survey post about Meta-Learning:[Meta-Learning: Learning to Learn Fast](https:
 Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of learning long-term dependencies. LSTMs were introduced by Hochreiter & Schmidhuber [[Hochreiter, 1997][#Hochreiter1997]]. Refer to the post by colah: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems, providing additional context to the network and resulting in faster and even fuller learning on the problem, whitch is detailed in the post [How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras](https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/#:~:text=Last%20Updated%20on%20January%208,LSTMs%20on%20the%20input%20sequence.).
 
 ### Matching Learing
-$x$
-![](https://latex.codecogs.com/gif.latex?g_%5Ctheta%20%28x_i%2C%20S%29)$g_\theta (x_i, S)$  uses a bidirectional LSTM to encode xi in the context of the entire support set S.
+
+![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
+
+作者：Deep Reader
+链接：https://www.zhihu.com/question/26887527/answer/43166739
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+![](https://latex.codecogs.com/gif.latex?g_%5Ctheta%20%28x_i%2C%20S%29) uses a bidirectional LSTM to encode ![](https://latex.codecogs.com/gif.latex?i_x) in the context of the entire support set S.
 fθ(x,S) encodes the test sample x visa an LSTM with read attention over the support set S.
 First the test sample goes through a simple neural network, such as a CNN, to extract basic features, f′(x).
 Then an LSTM is trained with a read attention vector over the support set as part of the hidden state:
@@ -31,3 +38,25 @@ Eventually f(x,S)=hK if we do K steps of “read”.
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
 <span id="Hochreiter2001">[Hochreiter2001] S. Hochreiter, A. S. Younger, and P. R. Conwell. 2001. Learning to learn using gradient descent. In International Conference on Artificial Neural Networks. 87–94.</span>
 <span id="Hochreiter1997">[Hochreiter1997] Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
