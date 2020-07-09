@@ -14,6 +14,8 @@ Some algorithms related to Few-Shot Learning:
 - Transfer learning transfers knowledge from the source domain/task, where training data is abundant, to the target domain/task, where training data is scarce. 
 -  Meta-learning improves the performance measure P of the new task T by the provided data set and the metaknowledge extracted across tasks by a meta-learner [[Hochreiter, 2001](#Hochreiter2001)].
 
+A survey post about Meta-Learning:[Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+
 Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of learning long-term dependencies. LSTMs were introduced by Hochreiter & Schmidhuber [[Hochreiter, 1997][#Hochreiter1997]]. Refer to the post by colah: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems, providing additional context to the network and resulting in faster and even fuller learning on the problem, whitch is detailed in the post [How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras](https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/#:~:text=Last%20Updated%20on%20January%208,LSTMs%20on%20the%20input%20sequence.).
 
 ## Reference
