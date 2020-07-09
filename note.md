@@ -1,6 +1,6 @@
 ![](https://latex.codecogs.com/gif.latex?\begin{aligned}j\\\\i\end{aligned})
 
-![](https://latex.codecogs.com/gif.latex?\begin{aligned}\hat{\mathbf{h}}_t, \mathbf{c}_t &= \text{LSTM}(f'(\mathbf{x}), [\mathbf{h}_{t-1}, \mathbf{r}_{t-1}], \mathbf{c}_{t-1}))
+![](https://latex.codecogs.com/gif.latex?\begin{aligned}\hat{\mathbf{h}}_t,\mathbf{c}_t&=\text{LSTM}(f'(\mathbf{x}),[\mathbf{h}_{t-1},\mathbf{r}_{t-1}],\mathbf{c}_{t-1}))
 
   \hat{\mathbf{h}}_t, \mathbf{c}_t &= \text{LSTM}(f'(\mathbf{x}), [\mathbf{h}_{t-1}, \mathbf{r}_{t-1}], \mathbf{c}_{t-1}) \\
   \mathbf{h}_t &= \hat{\mathbf{h}}_t + f'(\mathbf{x}) \\
