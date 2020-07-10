@@ -22,7 +22,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 
 ### Matching Learing
 The task of Matching Networks [[Vinyals et al., 2016](#Vinyals2016)] is to learn a classifier ![](https://latex.codecogs.com/gif.latex?c_S) for any given (small) support set ![](https://latex.codecogs.com/gif.latex?S=\\{x_i,y_i\\}^k_{i=1}) (k-shot classification). This classifier defines a probability distribution over output labels ![](https://latex.codecogs.com/gif.latex?y) given a test example ![](https://latex.codecogs.com/gif.latex?\mathbf{x}). Similar to other metric-based models, the classifier output is defined as a sum of labels of support samples weighted by attention kernel ![](https://latex.codecogs.com/gif.latex?a(\mathbf{x},\mathbf{x}_i)) - which should be proportional to the similarity between ![](https://latex.codecogs.com/gif.latex?\mathbf{x}) and ![](https://latex.codecogs.com/gif.latex?\mathbf{x}_i).
-
+<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ![](https://latex.codecogs.com/gif.latex?c_S(\mathbf{x})=P(y\vert\mathbf{x},S)=\sum_{i=1}^ka(\mathbf{x},\mathbf{x}_i)y_i,\\,\\,\\text{where}S=\\{(\mathbf{x}_i,y_i)\\}_{i=1}^k)
 
 The attention kernel depends on two embedding functions, ![](https://latex.codecogs.com/gif.latex?f) and ![](https://latex.codecogs.com/gif.latex?g), for encoding the test sample and the support set samples respectively. The attention weight between two data points is the cosine similarity, ![](https://latex.codecogs.com/gif.latex?cosine(.)), between their embedding vectors, normalized by softmax:
