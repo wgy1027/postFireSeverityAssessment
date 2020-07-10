@@ -40,6 +40,10 @@ There are the following two kind of embedding functions:
 In the simple version, an embedding function is a neural network with a single data sample as input. Potentially we can set ![](https://latex.codecogs.com/gif.latex?f=g).
 
 (2) Full Context Embeddings
+the embedding function for an example ![](https://latex.codecogs.com/gif.latex?\hat{x}) in the predictoin set (or query set) ![](https://latex.codecogs.com/gif.latex?B) is as follows:
+
+![](https://latex.codecogs.com/gif.latex?f(\hat{x};S)=\\text{attLSTM}(f'(\hat{x});g(S);K))
+
 - ![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
 - ![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample ![](http://latex.codecogs.com/gif.latex?x) visa an LSTM with read attention over the support set ![](http://latex.codecogs.com/gif.latex?S).
 
