@@ -45,8 +45,11 @@ The above embedding method is called “Full Contextual Embeddings (FCE)”. Int
 
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
+
 <span id="Hochreiter2001">[Hochreiter2001] S. Hochreiter, A. S. Younger, and P. R. Conwell. 2001. Learning to learn using gradient descent. In International Conference on Artificial Neural Networks. 87–94.</span>
+
 <span id="Hochreiter1997">[Hochreiter1997] Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780.</span>
+
 <span id="Vinyals2016">[Vinyals2016] Vinyals, Oriol, et al. "Matching networks for one shot learning." Advances in neural information processing systems. 2016.</span>
 
 
