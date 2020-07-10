@@ -28,6 +28,8 @@ Fig. The architecture of Matching Networks. (Image source: [[Vinyals et al., 201
 
 ![](https://latex.codecogs.com/gif.latex?c_S(\mathbf{x})=P(y\vert\mathbf{x},S)=\sum_{i=1}^ka(\mathbf{x},\mathbf{x}_i)y_i,\\,\\,\\text{where}S=\\{(\mathbf{x}_i,y_i)\\}_{i=1}^k)
 
+where ![](https://latex.codecogs.com/gif.latex?x_i), ![](https://latex.codecogs.com/gif.latex?y_i) are the samples and labels from the support set ![](https://latex.codecogs.com/gif.latex?S=\\{x_i,y_i\\}^k_{i=1}), and a is an attention mechanism.
+
 The attention kernel ![](https://latex.codecogs.com/gif.latex?a(\cdot,\cdot)) depends on two embedding functions, ![](https://latex.codecogs.com/gif.latex?f) and ![](https://latex.codecogs.com/gif.latex?g), for encoding the test sample and the support set samples respectively. The attention weight between two data points is the cosine similarity, ![](https://latex.codecogs.com/gif.latex?cosine(.)), between their embedding vectors, normalized by softmax:
 
 ![](https://latex.codecogs.com/gif.latex?a(\mathbf{x},\mathbf{x}_i)=\frac{\exp(\\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_{i})))}{\sum_{j=1}^k\exp(\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_j)))})
