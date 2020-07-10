@@ -24,6 +24,7 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 The task of Matching Networks [[Vinyals et al., 2016](#Vinyals2016)] is to learn a classifier ![](https://latex.codecogs.com/gif.latex?c_S) for any given (small) support set ![](https://latex.codecogs.com/gif.latex?S=\\{x_i,y_i\\}^k_{i=1}) (k-shot classification). This classifier defines a probability distribution over output labels ![](https://latex.codecogs.com/gif.latex?y) given a test example ![](https://latex.codecogs.com/gif.latex?\mathbf{x}). Similar to other metric-based models, the classifier output is defined as a sum of labels of support samples weighted by attention kernel ![](https://latex.codecogs.com/gif.latex?a(\mathbf{x},\mathbf{x}_i)) - which should be proportional to the similarity between ![](https://latex.codecogs.com/gif.latex?\mathbf{x}) and ![](https://latex.codecogs.com/gif.latex?\mathbf{x}_i).
 
 <p align="center"><img align="center" width="500" src="https://lilianweng.github.io/lil-log/assets/images/matching-networks.png"></p>
+Fig. The architecture of Matching Networks. (Image source: [[Vinyals et al., 2016](#Vinyals2016)])
 
 ![](https://latex.codecogs.com/gif.latex?c_S(\mathbf{x})=P(y\vert\mathbf{x},S)=\sum_{i=1}^ka(\mathbf{x},\mathbf{x}_i)y_i,\\,\\,\\text{where}S=\\{(\mathbf{x}_i,y_i)\\}_{i=1}^k)
 
@@ -31,6 +32,7 @@ The attention kernel ![](https://latex.codecogs.com/gif.latex?a(\cdot,\cdot)) de
 
 ![](https://latex.codecogs.com/gif.latex?a(\mathbf{x},\mathbf{x}_i)=\frac{\exp(\\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_{i})))}{\sum_{j=1}^k\exp(\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_j)))})
 
+There are the following two kind of embedding functions:
 (1) Simple Embedding
 
 In the simple version, an embedding function is a neural network with a single data sample as input. Potentially we can set ![](https://latex.codecogs.com/gif.latex?f=g).
