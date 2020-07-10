@@ -22,6 +22,9 @@ Long Short Term Memory networks (LSTMs) are a special kind of RNN, capable of le
 
 ### Matching Learing
 
+The attention kernel depends on two embedding functions, ![](https://latex.codecogs.com/gif.latex?f) and ![](https://latex.codecogs.com/gif.latex?g), for encoding the test sample and the support set samples respectively. The attention weight between two data points is the cosine similarity, ![](https://latex.codecogs.com/gif.latex?cosine(.)), between their embedding vectors, normalized by softmax:
+![](https://latex.codecogs.com/gif.latex?a(\mathbf{x},\mathbf{x}_i)=\frac{\exp(\\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\text{cosine}(f(\mathbf{x}),g(\mathbf{x}_j))})
+
 (1) Simple Embedding
 
 In the simple version, an embedding function is a neural network with a single data sample as input. Potentially we can set ![](https://latex.codecogs.com/gif.latex?f=g).
