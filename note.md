@@ -71,6 +71,14 @@ The model parameters are trained by optimizing for the performance of ![](https:
 
 ![](https://latex.codecogs.com/gif.latex?\underset{\theta}{\text{min}}\sum_{T_ip(T)}L_{T_i}(f_{\theta'_i})=\sum_{T_ip(T)}L_{T_i}(f_{\theta-\alpha{j_\theta}L_{T_i}(f_\theta)}))
 
+Note that the meta-optimization is performed over the model parameters ![](https://latex.codecogs.com/gif.latex?\theta), whereas the objective is computed using the updated model parameters ![](https://latex.codecogs.com/gif.latex?\theta'). In effect, our proposed method aims to optimize the model parameters such that one or a small number of gradient steps on a new task will produce maximally effective behavior on that task.
+
+The meta-optimization across tasks is performed via stochastic gradient descent (SGD), such that the model parameters ![](https://latex.codecogs.com/gif.latex?\theta) are updated as follows:
+
+![](https://latex.codecogs.com/gif.latex?\theta\leftarrow\theta-\beta\nabla_{\theta}\sum_{\mathcal{T}_{i}\sim{p(\mathcal{T})}}\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\theta_{i}^{\prime}}\right))
+
+where ![](https://latex.codecogs.com/gif.latex?\beta) is the meta step size.
+
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
 
