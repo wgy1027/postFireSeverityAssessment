@@ -63,7 +63,7 @@ The above embedding method is called “Full Contextual Embeddings (FCE)”. Int
 ### Model-Agnostic Meta-Learning (MAML)
 we consider a model represented by a parametrized function ![](https://latex.codecogs.com/gif.latex?f_\theta) with parameters ![](https://latex.codecogs.com/gif.latex?\theta). When adapting to a new task ![](https://latex.codecogs.com/gif.latex?T_i), the model’s parameters ![](https://latex.codecogs.com/gif.latex?\theta) become ![](https://latex.codecogs.com/gif.latex?\theta_i^'). In our method, the updated parameter vector ![](https://latex.codecogs.com/gif.latex?\theta_i^') is computed using one or more gradient descent updates on task ![](https://latex.codecogs.com/gif.latex?T_i). For example, when using one gradient update,
 
-![](https://latex.codecogs.com/gif.latex?\theta^'_i)
+![](https://latex.codecogs.com/gif.latex?\\theta^'_i)
 
 Where, the step size ![](https://latex.codecogs.com/gif.latex?\alpha) may be fixed as a hyperparameter or metalearned.
 
