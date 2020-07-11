@@ -40,21 +40,23 @@ There are the following two kind of embedding functions:
 In the simple version, an embedding function is a neural network with a single data sample as input. Potentially we can set ![](https://latex.codecogs.com/gif.latex?f=g).
 
 (2) Full Context Embeddings
-the embedding function ![](https://latex.codecogs.com/gif.latex?f) for an example ![](https://latex.codecogs.com/gif.latex?\hat{x}) in the predictoin set (or query set) ![](https://latex.codecogs.com/gif.latex?B) is as follows:
+The embedding function ![](https://latex.codecogs.com/gif.latex?f) for an example ![](https://latex.codecogs.com/gif.latex?\hat{x}) in the predictoin set (or query set) ![](https://latex.codecogs.com/gif.latex?B) is as follows:
 
 ![](https://latex.codecogs.com/gif.latex?f(\hat{x};S)=\\text{attLSTM}(f'(\hat{x});g(S);K))
 
 where, ![](https://latex.codecogs.com/gif.latex?f') is a neural network (e.g., VGG or Inception networks), ![](https://latex.codecogs.com/gif.latex?K) is the number of processing steps in this embedding function ![](https://latex.codecogs.com/gif.latex?f). ![](https://latex.codecogs.com/gif.latex?g(S)) represents the embedding function ![](https://latex.codecogs.com/gif.latex?g) applied to each element ![](https://latex.codecogs.com/gif.latex?x_i) from the support set ![](https://latex.codecogs.com/gif.latex?S).
 
-- ![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
-- ![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample ![](http://latex.codecogs.com/gif.latex?x) visa an LSTM with read attention over the support set ![](http://latex.codecogs.com/gif.latex?S).
-
+Its calculate steps is as following:
 1. First the test sample goes through a simple neural network, such as a CNN, to extract basic features, ![](http://latex.codecogs.com/gif.latex?f'(x)).
 
 2. Then an LSTM is trained with a read attention vector over the support set ![](https://latex.codecogs.com/gif.latex?S) as part of the hidden state:
 ![](https://latex.codecogs.com/gif.latex?\begin{aligned}\\hat{\mathbf{h}}_t,\mathbf{c}_t&=\\text{LSTM}(f'(\mathbf{x}),[\mathbf{h}_{t-1},\mathbf{r}_{t-1}],\mathbf{c}_{t-1})\\\\\mathbf{h}_t&=\\hat{\mathbf{h}}_t+f'(\mathbf{x})\\\\\mathbf{r}_{t-1}&=\sum_{i=1}^ka(\mathbf{h}_{t-1},g(\mathbf{x}_i))g(\mathbf{x}_i)\\\\a(\mathbf{h}_{t-1},g(\mathbf{x}_i))&=\\text{softmax}(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))=\frac{\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_i))}{\sum_{j=1}^k\exp(\mathbf{h}_{t-1}^{\\top}g(\mathbf{x}_{\\top}))}\end{aligned})
 
-3. Eventually ![](https://latex.codecogs.com/gif.latex?f_\\theta(\mathbf{x},S)=\mathbf{h}_K) if we do ![](https://latex.codecogs.com/gif.latex?K) steps of “read”.
+3. Eventually ![](https://latex.codecogs.com/gif.latex?f_\\theta(\mathbf{x},S)=\mathbf{h}_K) if we do ![](https://latex.codecogs.com/gif.latex?K)  processing steps.
+
+Noting that ![](https://latex.codecogs.com/gif.latex?a) is commonly referred to as a content based attention, and the above softmax normalizes ![](https://latex.codecogs.com/gif.latex?g(x_i)).
+
+For the embedding function ![](https://latex.codecogs.com/gif.latex?g), we described the encoding function ![](https://latex.codecogs.com/gif.latex?g(x_i;S)) for the elements in the support set ![](https://latex.codecogs.com/gif.latex?S) as a bidirectional LSTM.
 
 The above embedding method is called “Full Contextual Embeddings (FCE)”. Interestingly it does help improve the performance on a hard task (few-shot classification on mini ImageNet), but makes no difference on a simple task (Omniglot).
 
