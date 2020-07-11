@@ -69,7 +69,7 @@ Where, the step size ![](https://latex.codecogs.com/gif.latex?\alpha) may be fix
 
 The model parameters are trained by optimizing for the performance of ![](https://latex.codecogs.com/gif.latex?f_{\theta'_i}) with respect to ![](https://latex.codecogs.com/gif.latex?\theta) across tasks sampled from ![](https://latex.codecogs.com/gif.latex?p(T)). More concretely, the meta-objective is as follows:
 
-![](https://latex.codecogs.com/gif.latex?\text{min})
+![](https://latex.codecogs.com/gif.latex?\underset{\theta}{\text{min}})
 
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
