@@ -40,9 +40,11 @@ There are the following two kind of embedding functions:
 In the simple version, an embedding function is a neural network with a single data sample as input. Potentially we can set ![](https://latex.codecogs.com/gif.latex?f=g).
 
 (2) Full Context Embeddings
-the embedding function for an example ![](https://latex.codecogs.com/gif.latex?\hat{x}) in the predictoin set (or query set) ![](https://latex.codecogs.com/gif.latex?B) is as follows:
+the embedding function ![](https://latex.codecogs.com/gif.latex?f) for an example ![](https://latex.codecogs.com/gif.latex?\hat{x}) in the predictoin set (or query set) ![](https://latex.codecogs.com/gif.latex?B) is as follows:
 
 ![](https://latex.codecogs.com/gif.latex?f(\hat{x};S)=\\text{attLSTM}(f'(\hat{x});g(S);K))
+
+where, ![](https://latex.codecogs.com/gif.latex?f') is a neural network (e.g., VGG or Inception networks), ![](https://latex.codecogs.com/gif.latex?K) is the number of processing steps in this embedding function ![](https://latex.codecogs.com/gif.latex?f). ![](https://latex.codecogs.com/gif.latex?g(S)) represents the embedding function ![](https://latex.codecogs.com/gif.latex?g) applied to each element ![](https://latex.codecogs.com/gif.latex?x_i) from the support set ![](https://latex.codecogs.com/gif.latex?S).
 
 - ![](http://latex.codecogs.com/gif.latex?g_\\theta(x_i,S)) uses a bidirectional LSTM to encode ![](http://latex.codecogs.com/gif.latex?x_i) in the context of the entire support set ![](http://latex.codecogs.com/gif.latex?S).
 - ![](http://latex.codecogs.com/gif.latex?f_\\theta(x,S)) encodes the test sample ![](http://latex.codecogs.com/gif.latex?x) visa an LSTM with read attention over the support set ![](http://latex.codecogs.com/gif.latex?S).
