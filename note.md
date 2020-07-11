@@ -79,6 +79,8 @@ The meta-optimization across tasks is performed via stochastic gradient descent 
 
 where ![](https://latex.codecogs.com/gif.latex?\beta) is the meta step size.
 
+<p align="center"><img align="center" width="500" src="https://github.com/x5675602/postFireSeverityAssessment/blob/master/notePic/MAML%20algorithm.png"></p>
+
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
 
