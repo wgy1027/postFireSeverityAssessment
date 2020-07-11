@@ -60,6 +60,14 @@ For the embedding function ![](https://latex.codecogs.com/gif.latex?g), we descr
 
 The above embedding method is called “Full Contextual Embeddings (FCE)”. Interestingly it does help improve the performance on a hard task (few-shot classification on mini ImageNet), but makes no difference on a simple task (Omniglot).
 
+### Model-Agnostic Meta-Learning (MAML)
+we consider a model represented by a
+parametrized function fθ with parameters ![](https://latex.codecogs.com/gif.latex?\theta). When adapting to a new task ![](https://latex.codecogs.com/gif.latex?T_i), the model’s parameters ![](https://latex.codecogs.com/gif.latex?\theta) become ![](https://latex.codecogs.com/gif.latex?\theta_i^'). In our method, the updated parameter vector ![](https://latex.codecogs.com/gif.latex?\theta_i^') is computed using one or more gradient descent updates on task ![](https://latex.codecogs.com/gif.latex?T_i). For example, when using one gradient update,
+
+![](https://latex.codecogs.com/gif.latex?\theta_i^'=\theta-\alphaj_\theta{L}_{T_i}(f_\theta)
+
+Where, the step size ![](https://latex.codecogs.com/gif.latex?\alpha) may be fixed as a hyperparameter or metalearned.
+
 ## Reference
 <span id="Wang2019">[Wang2019] Wang, Yaqing, et al. "Generalizing from a few examples: A survey on few-shot learning." ACM Computing Surveys (CSUR) (2019).</span>
 
