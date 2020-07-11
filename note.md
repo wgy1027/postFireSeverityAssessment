@@ -61,7 +61,7 @@ For the embedding function ![](https://latex.codecogs.com/gif.latex?g), we descr
 The above embedding method is called “Full Contextual Embeddings (FCE)”. Interestingly it does help improve the performance on a hard task (few-shot classification on mini ImageNet), but makes no difference on a simple task (Omniglot).
 
 ### Model-Agnostic Meta-Learning (MAML)
-we consider a model represented by a parametrized function ![](https://latex.codecogs.com/gif.latex?f_\theta) with parameters ![](https://latex.codecogs.com/gif.latex?\theta). When adapting to a new task ![](https://latex.codecogs.com/gif.latex?T_i), the model’s parameters ![](https://latex.codecogs.com/gif.latex?\theta) become ![](https://latex.codecogs.com/gif.latex?\theta'_i). In our method, the updated parameter vector ![](https://latex.codecogs.com/gif.latex?\theta'_i) is computed using one or more gradient descent updates on task ![](https://latex.codecogs.com/gif.latex?T_i). For example, when using one gradient update,
+we consider a model represented by a parametrized function ![](https://latex.codecogs.com/gif.latex?f_\theta) with parameters ![](https://latex.codecogs.com/gif.latex?\theta). When adapting to a new task ![](https://latex.codecogs.com/gif.latex?\mathcal{T}_i), the model’s parameters ![](https://latex.codecogs.com/gif.latex?\theta) become ![](https://latex.codecogs.com/gif.latex?\theta'_i). In our method, the updated parameter vector ![](https://latex.codecogs.com/gif.latex?\theta'_i) is computed using one or more gradient descent updates on task ![](https://latex.codecogs.com/gif.latex?\mathcal{T}_i). For example, when using one gradient update,
 
 ![](https://latex.codecogs.com/gif.latex?\theta'_i=\theta-\alpha{j_\theta}L_{T_i}(f_\theta))
 
