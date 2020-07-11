@@ -67,11 +67,11 @@ we consider a model represented by a parametrized function ![](https://latex.cod
 
 Where, the step size ![](https://latex.codecogs.com/gif.latex?\alpha) may be fixed as a hyperparameter or metalearned.
 
-The model parameters are trained by optimizing for the performance of ![](https://latex.codecogs.com/gif.latex?f_{\theta'_i}) with respect to ![](https://latex.codecogs.com/gif.latex?\theta) across tasks sampled from ![](https://latex.codecogs.com/gif.latex?p(T)). More concretely, the meta-objective is as follows:
+The model parameters are trained by optimizing for the performance of ![](https://latex.codecogs.com/gif.latex?f_{\theta^{\prime}_i}) with respect to ![](https://latex.codecogs.com/gif.latex?\theta) across tasks sampled from ![](https://latex.codecogs.com/gif.latex?p(\mathcal{T})). More concretely, the meta-objective is as follows:
 
-![](https://latex.codecogs.com/gif.latex?\underset{\theta}{\text{min}}\sum_{T_ip(T)}L_{T_i}(f_{\theta'_i})=\sum_{T_ip(T)}L_{T_i}(f_{\theta-\alpha{j_\theta}L_{T_i}(f_\theta)}))
+![](https://latex.codecogs.com/gif.latex?\min_{\theta}\sum_{\mathcal{T}_{i}\sim{p(\mathcal{T})}}\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\theta_{i}^{\prime}}\right)=\sum_{\mathcal{T}_{i}\sim{p(\mathcal{T})}}\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\theta-\alpha\nabla_{\theta}\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\theta}\right)}\right))
 
-Note that the meta-optimization is performed over the model parameters ![](https://latex.codecogs.com/gif.latex?\theta), whereas the objective is computed using the updated model parameters ![](https://latex.codecogs.com/gif.latex?\theta'). In effect, our proposed method aims to optimize the model parameters such that one or a small number of gradient steps on a new task will produce maximally effective behavior on that task.
+Note that the meta-optimization is performed over the model parameters ![](https://latex.codecogs.com/gif.latex?\theta), whereas the objective is computed using the updated model parameters ![](https://latex.codecogs.com/gif.latex?\theta^{\prime}). In effect, our proposed method aims to optimize the model parameters such that one or a small number of gradient steps on a new task will produce maximally effective behavior on that task.
 
 The meta-optimization across tasks is performed via stochastic gradient descent (SGD), such that the model parameters ![](https://latex.codecogs.com/gif.latex?\theta) are updated as follows:
 
