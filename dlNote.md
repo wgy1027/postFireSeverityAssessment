@@ -5,8 +5,6 @@ The convolutional layers just include element wise multiplications and summation
 
 where ![](https://latex.codecogs.com/gif.latex?O) is the output height/length, ![](https://latex.codecogs.com/gif.latex?W) is the input height/length, ![](https://latex.codecogs.com/gif.latex?K) is the filter size, ![](https://latex.codecogs.com/gif.latex?P) is the padding, and ![](https://latex.codecogs.com/gif.latex?S) is the stride.
 
-<span style="color:red">some *blue* text</span>
-
 ### Activation Layer
 After each conv layer, it is convention to apply a activation layer immediately afterward in order to introduce nonlinearity to a system. The tanh and sigmoid are two conventionally used activation functions, but researchers found out that ReLU layers work far better thanks to its computational efficiency without the significant accuracy costwithout making a significant difference to the accuracy. The ReLU layer also helps to alleviate the vanishing gradient problem, which is the issue where the lower layers of the network train very slowly because the gradient decreases exponentially through the layers (See [here](https://en.wikipedia.org/wiki/Vanishing_gradient_problem) and [here](https://www.quora.com/What-is-the-vanishing-gradient-problem) for further information).
 ReLU (Rectified Linear Units) Layers
@@ -27,7 +25,7 @@ The FC is the fully connected layer of neurons at the end of CNN. Neurons in a f
 ### Shared Weight
 Sharing weights in this way significantly reduces the number of weights we have to learn, making it easier to learn very deep architectures, and additionally allows us to learn features that are agnostic to what region of the input is being considered.
 
-Consider a Convolutional Neural Network (CNN) for image classification. In order to detect local features, weight-sharing is used among units in the same convolutional layer. In such a network, the kernel weights are updated via the backpropagation algorithm.
+Consider a Convolutional Neural Network (CNN) for image classification. In order to detect local features, weight-sharing is used among units in the same convolutional layer. In such a network, the kernel weights are updated via the backpropagation algorithm (see [here](https://datascience.stackexchange.com/questions/26755/cnn-how-does-backpropagation-with-weight-sharing-work-exactly#:~:text=Consider%20a%20Convolutional%20Neural%20Network,updated%20via%20the%20backpropagation%20algorithm.) for detail).
 
 An update for the kernel weight ![](https://latex.codecogs.com/gif.latex?h_j) in layer ![](https://latex.codecogs.com/gif.latex?l) would be as follows:
 
