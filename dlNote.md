@@ -29,7 +29,7 @@ Consider a Convolutional Neural Network (CNN) for image classification. In order
 
 An update for the kernel weight ![](https://latex.codecogs.com/gif.latex?h_j) in layer ![](https://latex.codecogs.com/gif.latex?l) would be as follows:
 
-![](https://latex.codecogs.com/gif.latex?h_j^l=h_j^l-\eta\cdot\frac{\delta{R}}{\delta{h_j}^l}=h_j^l-\eta\cdot\frac{\delta R}{\delta{x_j}^{L}}\cdot\frac{\delta{x_j}^{L}}{\delta{x_j}^{L-1}}\cdot\dots\cdot\frac{\delta{x_j}^{l}}{\delta{h_j}^l})
+![](https://latex.codecogs.com/gif.latex?h_j^l=h_j^l-\eta\cdot\frac{\delta{R}}{\delta{h_j}^l}=h_j^l-\eta\cdot\frac{\delta{R}}{\delta{x_j}^{L}}\cdot\frac{\delta{x_j}^{L}}{\delta{x_j}^{L-1}}\cdot\dots\cdot\frac{\delta{x_j}^{l}}{\delta{h_j}^l})
 
 ## Transfer Learning
 Transfer learning is the process of taking a pre-trained model (the weights and parameters of a network that has been trained on a large dataset by somebody else) and “fine-tuning” the model with your own dataset. The idea is that this pre-trained model will act as a feature extractor. You will remove the last layer of the network and replace it with your own classifier (depending on what your problem space is). You then freeze the weights of all the other layers and train the network normally (Freezing the layers means not changing the weights during gradient descent/optimization).
