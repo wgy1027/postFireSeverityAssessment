@@ -16,6 +16,8 @@ The formulation of Noisy ReLU is as following:
 ### Pooling Layer
 Its function is to progressively reduce the spatial size of the representation to reduce the amount of parameters and computation in the network. Pooling layer operates on each feature map independently. The most common approach used in pooling is max pooling. Other options for pooling layers are average pooling and L2-norm pooling. The intuitive reasoning behind this layer is that once we know that a specific feature is in the original input volume, its exact location is not as important as its relative location to the other features. As you can imagine, this layer drastically reduces the spatial dimension (the length and the width change but not the depth) of the input volume. This serves two main purposes: (1) reducing the amount of parameters or weights and lessening the computation cost; (2) controlling the overfitting.
 
+The result of using a pooling layer and creating down sampled or pooled feature maps is a summarized version of the features detected in the input. They are useful as small changes in the location of the feature in the input detected by the convolutional layer will result in a pooled feature map with the feature in the same location. In all cases, pooling layer helps to make the representation become approximately invariant to small translations of the input. Invariance to translation means that if we translate the input by a small amount, the values of most of the pooled outputs do not change.
+
 ### Dropout Layer
 This layer “drops out” a random set of activations in that layer by setting them to zero. It helps alleviate the overfitting problem. An important note is that this layer is only used during training, and not during test time.
 
