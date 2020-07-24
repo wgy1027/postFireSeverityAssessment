@@ -38,6 +38,19 @@ The distribution of the inputs to layers deep in the network may change after ea
 
 Batch normalization [[Ioffe, 2015](#Ioffe2015)] is a technique for training very deep neural networks that standardizes the inputs to a layer for each mini-batch. This has the effect of stabilizing the learning process and dramatically reducing the number of training epochs required to train deep networks.
 
+It can be used with most network types, such as Multilayer Perceptrons, Convolutional Neural Networks and Recurrent Neural Networks.
+
+It may be more appropriate after the activation function if for s-shaped functions like the hyperbolic tangent and logistic function. It may be appropriate before the activation function for activations that may result in non-Gaussian distributions like the rectified linear activation function, the modern default for most network types.
+
+This may require the use of much larger than normal learning rates, that in turn may further speed up the learning process. The faster training also means that the decay rate used for the learning rate may be increased.
+
+The stability to training brought by batch normalization can make training deep networks less sensitive to the choice of weight initialization method.
+
+Batch normalization could be used to standardize raw input variables that have differing scales. It may not be appropriate for variables that have a data distribution that is highly non-Gaussian, in which case it might be better to perform data scaling as a pre-processing step.
+
+Batch normalization offers some regularization effect, reducing generalization error, perhaps no longer requiring the use of dropout for regularization. Further, it may not be a good idea to use batch normalization and dropout in the same network. The reason is that the statistics used to normalize the activations of the prior layer may become noisy given the random dropping out of nodes during the dropout procedure [[Goodfellow, 2016](#Goodfellow2016)].
+
+
 ## Transfer Learning
 Transfer learning is the process of taking a pre-trained model (the weights and parameters of a network that has been trained on a large dataset by somebody else) and “fine-tuning” the model with your own dataset. The idea is that this pre-trained model will act as a feature extractor. You will remove the last layer of the network and replace it with your own classifier (depending on what your problem space is). You then freeze the weights of all the other layers and train the network normally (Freezing the layers means not changing the weights during gradient descent/optimization).
 
@@ -60,3 +73,5 @@ Approaches that alter the training data in ways that change the array representa
 
 ## Reference
 <span id="Ioffe2015">[Ioffe2015] Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015).</span>
+
+<span id="Goodfellow2016">[Goodfellow2016] Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.</span>
