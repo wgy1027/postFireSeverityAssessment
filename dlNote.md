@@ -33,6 +33,11 @@ An update for the kernel weight ![](https://latex.codecogs.com/gif.latex?h_j) in
 
 ![](https://latex.codecogs.com/gif.latex?h_j^l=h_j^l-\eta\cdot\frac{\delta{R}}{\delta{h_j}^l}=h_j^l-\eta\cdot\frac{\delta{R}}{\delta{x_j}^{L}}\cdot\frac{\delta{x_j}^{L}}{\delta{x_j}^{L-1}}\cdot\dots\cdot\frac{\delta{x_j}^{l}}{\delta{h_j}^l})
 
+## Batch normalization
+The distribution of the inputs to layers deep in the network may change after each mini-batch when the weights are updated. This can cause the learning algorithm to forever chase a moving target. This change in the distribution of inputs to layers in the network is referred to the technical name “internal covariate shift.”
+
+Batch normalization [[Ioffe, 2015](#Ioffe2015)] is a technique for training very deep neural networks that standardizes the inputs to a layer for each mini-batch. This has the effect of stabilizing the learning process and dramatically reducing the number of training epochs required to train deep networks.
+
 ## Transfer Learning
 Transfer learning is the process of taking a pre-trained model (the weights and parameters of a network that has been trained on a large dataset by somebody else) and “fine-tuning” the model with your own dataset. The idea is that this pre-trained model will act as a feature extractor. You will remove the last layer of the network and replace it with your own classifier (depending on what your problem space is). You then freeze the weights of all the other layers and train the network normally (Freezing the layers means not changing the weights during gradient descent/optimization).
 
@@ -40,6 +45,9 @@ Let’s investigate why this works. Let’s say the pre-trained model that we’
 
 ## Image Processing
 The task of image classification is the process of taking an input image and outputting a class number out of a set of categories.
+
+
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, 2015.
 
 The task of object localization is to taking an input image and produce a bounding box that describes where the object is in this image.
 
@@ -49,3 +57,6 @@ The task of object segmentation is to output the class labels as well as an outl
 
 ## Data Augmentation Techniques
 Approaches that alter the training data in ways that change the array representation while keeping the label the same are known as data augmentation techniques. They are a way to artificially expand your dataset. Some popular augmentations people use are grayscales, horizontal flips, vertical flips, random crops, color jitters, translations, rotations, and much more. By applying just a couple of these transformations to your training data, you can easily double or triple the number of training examples.
+
+## Reference
+<span id="Ioffe2015">[Ioffe2015] Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015).</span>
