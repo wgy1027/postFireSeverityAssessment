@@ -14,7 +14,7 @@ Some algorithms related to Few-Shot Learning:
 - Weakly supervised learning [163] learns from experience E containing only weak supervision (such as incomplete, inexact, inaccurate or noisy supervised information). 
 - Imbalanced learning learns from experience E with a skewed distribution for y. 
 - Transfer learning transfers knowledge from the source domain/task, where training data is abundant, to the target domain/task, where training data is scarce. 
--  Meta-learning improves the performance measure P of the new task T by the provided data set and the metaknowledge extracted across tasks by a meta-learner [[Hochreiter, 2001](#Hochreiter2001)].
+- Meta-learning improves the performance measure P of the new task T by the provided data set and the metaknowledge extracted across tasks by a meta-learner [[Hochreiter, 2001](#Hochreiter2001)].
 
 A survey post about Meta-Learning:[Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 
