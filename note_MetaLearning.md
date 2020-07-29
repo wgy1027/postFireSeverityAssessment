@@ -1,6 +1,10 @@
 
 
+
 课题还是需要解决实际问题。我关心：（1）小样本问题；（2）样本不匀衡问题；(3) 有已有灾后评定模型的基础上，对新数据的处理问题;（4）已有经验模型的迁移问题。
+
+## Remote Sensing
+A general definition of Remote Sensing is “the science and technology by which the characteristics of objects of interest can be identified, measured or analyzed the characteristics without direct contact” (JARS, 1993).
 
 ## Few-Shot Learning
 few-shot learning比普通机器学习的不同之处是它可以利用前验知识。
