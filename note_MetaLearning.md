@@ -23,6 +23,28 @@ Longer visible wavelengths (green and red) and near-IR radiation are absorbed mo
 
 By using the way the electromagnetic radiation spectrum interacts with the atmosphere, satellites are able to provide information about the atmosphere’s composition. This includes the presence of particulates that may contribute to air pollution, clouds, and precipitation.
 
+Solar radiation passes through the atmosphere and hits a target surface such as a forest, water, or built up area. Different materials reflect, emit, and absorb at different wavelengths.
+
+Polar Orbiting provides global coverage and its measurement frequency can vary from 1 measurement per day to 1 per month, but Non-Polar Orbiting does not provide global coverage and its measurement frequency can vary every few hours to a few weeks.
+
+There are two types of ways remote sensing data is collected: passive and active remote sensing. Passive remote sensing: depends on changes in gravity or reflected and emitted radiation from the Earth. For instance, the Grace Follow-On satellites measure changes in the Earth’s gravity. Landsat, the MODIS sensor onboard Terra & Aqua, and Aqua’s AIRS sensor, all depend on changes in the reflected and emitted radiation from the Earth for data. The typical passive remote sensors are Landsat, MODIS (Terra/Aqua), AIRS (Aqua), GRACE Active remote sensing: an instrument sends beams of radiation and measures its return, such as Radar and LIDAR.
+
+Spatial resolution is the geographical area covered by a pixel in a satellite's image. Generally, the higher the spatial resolution, the less area is covered by a single pixel.
+
+Temporal resolution is the revisit period of a satellite. It is the time it takes for a satellite to image the same area at the same viewing angle a second time. It depends on the satellite and sensor capabilities, the overlap of the satellite's path, and latitude of the satellite. Some satellites have greater temporal resolution because: (1) they are able to maneuver their sensors; (2) they have increasing overlap at higher latitudes.
+
+Spectral resolution describes the ability of a sensor to detect fine wavelength intervals. Instruments detect different ranges of wavelengths along the electromagnetic spectrum, referred to as bands. The narrower a wavelength range is, the finer the spectral resolution is.  More and finer spectral channels enable remote sensing of different parts of the Earth’s surface.
+
+Radiometric resolution describes a sensor's ability to discriminate differences in energy (or radiance). The better the radiometric resolution, the more sensitive the sensor is to small differences in energy. It is determined by multiple factors, chief among these are the saturation radiance - the "brightest" thing detectors can measure - and how the radiance measurements are quantized (turned into a digital bit stream).
+
+Satellite data is available at different stages (or levels) of processing, going from raw data collected from the satellite to polished products that visualize information. NASA takes the data from satellites and processes it to make it more usable for a broad array of applications. There is a set of terminology that NASA uses to refer to the levels of processing it conducts: Level 0 & 1 is the raw instrument data that may be time-referenced. It is the most difficult to use. Level 2 is Level 1 data that has been converted into a geophysical quantity through a computer algorithm (known as retrieval). This data is geo-referenced and calibrated. Level 3 is Level 2 data that has been mapped on a uniform space-time grid and quality controlled. Level 4  is Level 3 data that has been combined with models or other instrument data.
+
+Remote Sensing Advantages: (1) Provides information where there are no ground-based measurements; (2) Provides globally consistent observations; (3) Can provide direction on where to place ground-based sensors; (4) Provides continuous monitoring of our planet.
+Remote Sensing Disadvantages: (1) It is very difficult to obtain high spectral, spatial, temporal, and radiometric resolution all at the same time; (2) Large amounts of data in a variety of formats can lead to more time and processing; (3) Applying satellite data may require additional processing, visualization, and other tools.
+
+
+
+
 
 
 - [Land Cover Classification with Satellite Imagery](https://appliedsciences.nasa.gov/join-mission/training/english/land-cover-classification-satellite-imagery)
