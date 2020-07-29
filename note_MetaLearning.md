@@ -50,6 +50,7 @@ Remote Sensing Disadvantages: (1) It is very difficult to obtain high spectral, 
 - [Land Cover Classification with Satellite Imagery](https://appliedsciences.nasa.gov/join-mission/training/english/land-cover-classification-satellite-imagery)
 Objects: Understand how to access and download Landsat imagery; Become familiar with Landsat bands and color combinations; earn the basic steps for conducting a supervised land cover classification by analyzing differences in spectral signatures with the SCP plugin within QGIS software.
 - [Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs](https://appliedsciences.nasa.gov/join-mission/training/advanced-webinar-remote-sensing-monitoring-land-degradation-and-sustainable)
+- [Understanding Phenology with Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/understanding-phenology-remote-sensing)
 - [etc.](https://appliedsciences.nasa.gov/join-mission/training)
 
 ## Few-Shot Learning
