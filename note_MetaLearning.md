@@ -7,6 +7,19 @@
 A general definition of Remote Sensing is “the science and technology by which the characteristics of objects of interest can be identified, measured or analyzed the characteristics without direct contact” (JARS, 1993).
 NASA Training webinars:
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing)
+Remote sensing is obtaining information about an object from a distance. A photograph is a very common form of remote sensing. There are different ways to collect data, and different sensors are used depending on the application. What information do you need? How much detail? How frequently do you need the data? Satellites carry instruments or sensors that measure electromagnetic radiation coming from the Earth-atmosphere system. The energy Earth receives from the sun is called electromagnetic radiation. 
+
+That radiation is reflected, absorbed, and emitted by the Earth's atmosphere or surface, as shown by the figure. Satellite sensors are calibrated to detect various wavelengths along the electromagnetic spectrum, often including visible light. Different materials reflect and absorb different wavelengths of electromagnetic radiation. Because of this, you can look at the reflected wavelengths detected by a sensor and determine the type of material it reflected off of. This is known as a spectral signature. In the graph below, compare the relationship between percent reflectance and the reflective wavelengths of different components of the Earth’s surface. 
+
+
+Healthy vegetation absorbs blue and red wavelengths, but reflects green and infrared. Since we can't see infrared radiation, we see healthy vegetation as green.
+
+Longer visible wavelengths (green and red) and near-IR radiation are absorbed more by water than shorter visible wavelengths (blue) – so water usually looks blue or blue-green. The water will appear brighter if there is sediment in the upper layers of the water.
+
+By using the way the electromagnetic radiation spectrum interacts with the atmosphere, satellites are able to provide information about the atmosphere’s composition. This includes the presence of particulates that may contribute to air pollution, clouds, and precipitation.
+
+
+
 - [Land Cover Classification with Satellite Imagery](https://appliedsciences.nasa.gov/join-mission/training/english/land-cover-classification-satellite-imagery)
 Objects: Understand how to access and download Landsat imagery; Become familiar with Landsat bands and color combinations; earn the basic steps for conducting a supervised land cover classification by analyzing differences in spectral signatures with the SCP plugin within QGIS software.
 - [Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs](https://appliedsciences.nasa.gov/join-mission/training/advanced-webinar-remote-sensing-monitoring-land-degradation-and-sustainable)
