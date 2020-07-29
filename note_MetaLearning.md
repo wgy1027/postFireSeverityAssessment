@@ -5,6 +5,8 @@
 
 ## Remote Sensing
 A general definition of Remote Sensing is “the science and technology by which the characteristics of objects of interest can be identified, measured or analyzed the characteristics without direct contact” (JARS, 1993).
+NASA Training webinars:
+- Fundamentals of Remote Sensing
 
 ## Few-Shot Learning
 few-shot learning比普通机器学习的不同之处是它可以利用前验知识。
