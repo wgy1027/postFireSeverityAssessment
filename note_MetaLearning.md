@@ -9,10 +9,14 @@ NASA Training webinars:
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing)
 Remote sensing is obtaining information about an object from a distance. A photograph is a very common form of remote sensing. There are different ways to collect data, and different sensors are used depending on the application. What information do you need? How much detail? How frequently do you need the data? Satellites carry instruments or sensors that measure electromagnetic radiation coming from the Earth-atmosphere system. The energy Earth receives from the sun is called electromagnetic radiation. 
 
+<p align="center"><img align="center" width="500" src="./notePic/electromagnetic spectrum.png"></p>
+Fig. electromagnetic spectrum.
+
 That radiation is reflected, absorbed, and emitted by the Earth's atmosphere or surface, as shown by the figure. Satellite sensors are calibrated to detect various wavelengths along the electromagnetic spectrum, often including visible light. Different materials reflect and absorb different wavelengths of electromagnetic radiation. Because of this, you can look at the reflected wavelengths detected by a sensor and determine the type of material it reflected off of. This is known as a spectral signature. In the graph below, compare the relationship between percent reflectance and the reflective wavelengths of different components of the Earth’s surface. 
 
 <p align="center"><img align="center" width="500" src="./notePic/the spectral signatures of some materials.png"></p>
-Fig. The architecture of Matching Networks. (Image source: [[Vinyals et al., 2016](#Vinyals2016)])
+Fig. the spectral signatures of some material in Earth.
+
 Healthy vegetation absorbs blue and red wavelengths, but reflects green and infrared. Since we can't see infrared radiation, we see healthy vegetation as green.
 
 Longer visible wavelengths (green and red) and near-IR radiation are absorbed more by water than shorter visible wavelengths (blue) – so water usually looks blue or blue-green. The water will appear brighter if there is sediment in the upper layers of the water.
