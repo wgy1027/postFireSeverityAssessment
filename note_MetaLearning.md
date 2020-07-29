@@ -10,6 +10,7 @@ NASA Training webinars:
 - [Land Cover Classification with Satellite Imagery](https://appliedsciences.nasa.gov/join-mission/training/english/land-cover-classification-satellite-imagery)
 Objects: Understand how to access and download Landsat imagery; Become familiar with Landsat bands and color combinations; earn the basic steps for conducting a supervised land cover classification by analyzing differences in spectral signatures with the SCP plugin within QGIS software.
 - [Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs](https://appliedsciences.nasa.gov/join-mission/training/advanced-webinar-remote-sensing-monitoring-land-degradation-and-sustainable)
+- [etc.](https://appliedsciences.nasa.gov/join-mission/training)
 
 ## Few-Shot Learning
 few-shot learning比普通机器学习的不同之处是它可以利用前验知识。
