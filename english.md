@@ -25,7 +25,7 @@ In this study, we selected five forest fires in the western United States as stu
 - In experiments in which progressively larger proportions of the training data were intentionally mislabelled, both RF and DT classifiers showed only a slight increase in overall error for as much as 20% mislabelling, though RF had consistently much lower error than DT classification.
 
 
- 
+
 # Inclusion
 Therefore, the SVR-based mapping method with better generalization performance should be recommended in future research of burn severity of forest fires.
 
@@ -84,7 +84,7 @@ as opposed to 与…截然相反；对照
 
 thus 从而，因此 thereby 从而，因此 therefore 因此；所以 hence 因此，今后 due to 由于，归因于 because 因为，由于 now that 既然; 由于 yet (conj.) 但是；然而 (adv.) 还；但是；已经 furthermore 此外；而且 rather than 而不是；宁可…也不愿 for example 例如 afterwards 后来；然后 subsequently 随后，其后；后来 to date 至今；迄今为止 namely 也就是；即是；换句话说 from hand to mouth 仅能糊口地
 
-“提出”：propose 提出 present 提出；呈现 put forward 提出 come up with 提出，想出 illuminate 阐明
+“提出”：propose 提出 present 提出；呈现 put forward 提出 come up with 提出，想出
 
 “利用”：(1) **动词** employ 利用，采用，使用 exploit 利用，使用 utilize 利用 capitalize on 利用，使用 do with 利用，处理，需要  avail (oneself) of 利用 make use of 利用，使用 take advantage of 利用 take full advantage of 充分利用 apply 应用 leverage 利用 draw on 利用 (2) **名词** utilization 利用
 
@@ -92,7 +92,7 @@ thus 从而，因此 thereby 从而，因此 therefore 因此；所以 hence 因
 
 “证实”：(1) **动词** corroborate 证实，确证 authenticate 证实，证明…是真实的 demonstrate 证明；展示；论证 prove 证明 verify 核实；查证 confirm 确认；确定；证实 affirm 肯定；断言 (2) **名词** verification 确认，查证；核实
 
-"调查": evaluate 评估，评价 investigate 调查；研究 explore 探索；调查 quest 探索 look into 调查；观察
+"调查": (1) (verb) evaluate 评估，评价 investigate 调查；研究 explore 探索；调查 quest 探索 look into 调查；观察 (2) (noun) evaluation 评价；[审计] 评估；估价；求值 investigation 调查；调查研究 exploration 探测；探究
 
 “关于”：about; on; with regard to 关于；至于 concerning 关于；就...而言 in regard to [of] 关于 with respect to 关于；至于 as respects 关于；至于 as regards 关于；至于 in this regard 就这一点而言 in regards to 关于；有关 as concerns 关于；就...而论 as to 至于；关于；就...而论 relate to 涉及；有关 in relation to 关于；涉及 relative; as far as ... be concerned 就...而言  associated with 与...有关系；与...相联系 in terms of 依据；按照；在…方面；以…措词 in comparison with 与…比较，同…比较起来 regarding (prep.)关于，至于；就……而论
 
@@ -106,9 +106,9 @@ thus 从而，因此 thereby 从而，因此 therefore 因此；所以 hence 因
 
 “促进”与“阻碍”：（1）**动词** expedite 促进；加快 promote 促进，提升 accelerate 促进；增加；加速 facilitate 促进；帮助；使容易 impediment 妨碍；阻止 hamper 妨碍 encumber 阻塞；妨害；拖累 bar 禁止，阻拦（2） **名词** intervention (n) 妨碍；干涉 hindrance 障碍；妨碍；妨害；阻碍物 hamper 阻碍物
 
-“危及”：（1）(noun) jeopardize 危及；危害 harm 伤害；危害；损害 endanger 危及 hazard 使遭受危险（2）(verb) harm 伤害；损害 detriment 损害；伤害；损害物 hazard 危险；机会 deteriorate 恶化
+“危及”：（1）(verb) jeopardize 危及；危害 harm 伤害；危害；损害 hazard 使遭受危险 endanger 危及 deteriorate 恶化（2）(noun) harm 伤害；损害 hazard 危险；机会 detriment 损害；伤害；损害物
 
-“描述”：delineate 描绘 contour 画轮廓 show 显示, 表明
+“描述”：delineate 描绘 plot 绘图 contour 画轮廓 show 显示, 表明 illuminate 阐明
 
 "意味": suggest that 暗示 this means that 这就是说; 这意味着 connote 意味着 indicate 表明；指出；预示；象征 imply 意味；暗示；隐含 point to 表明；指向 refer to 指的是，适用于，涉及 denote 表示；指示 apply to 适用于 be suitable for 适用于...的
 
@@ -120,11 +120,11 @@ thus 从而，因此 thereby 从而，因此 therefore 因此；所以 hence 因
 
 “获得”：(1) (verb) acquire 获得；取得；学到；捕获 obtain 获得 gain 获得；增加 yield 产出 (2) (noun) acquisition 获得物；获得
 
-“事实上”：in fact 事实上；实际上 as a matter of fact 事实上 in reality 实际上；事实上
+"事实上"：in fact 事实上；实际上 as a matter of fact 事实上 in reality 实际上；事实上
 
 “无论如何”：at the least 无论如何 in any case 无论如何 at all events 无论如何 on all accounts 无论如何；总之 anyhow 无论如何；不管怎样；总之 all in all 总而言之 on the whole 总体上 in general 总之，通常；一般而言
 
-“预期”：（1）expect 期望；指望；认为 anticipate 预期；预料；预见，预计（并做准备）；期盼，期望 （2）expectation 预期；指望；期待 anticipation 预料；预期 prospection 预期；勘察(3) look forward to 期待；盼望
+“预期”：（1）(verb) expect 期望；指望；认为 anticipate 预期；预料；预见，预计（并做准备）；期盼，期望 look forward to 期待；盼望 （2）(noun) expectation 预期；指望；期待 anticipation 预料；预期 prospection 预期；勘察
 
 “大量的”：in a plethora of; a great many; a great deal of; a mass of 大量的 a host of 许多，一大群；众多，大量 scores of 许多，大量 a string of, a series of, a raft of 一系列的；一连串的
 
@@ -132,7 +132,7 @@ thus 从而，因此 thereby 从而，因此 therefore 因此；所以 hence 因
 
 “设立”： set up 设立;设置
 
-videlicet (adv) 换言之 viz. 换言之，即，也就是 that is to say 换言之，即，也就是 namely (adv) 也就是；即是；换句话说 put another way, ... 换句话说
+that is to say 换言之，即，也就是 namely (adv) 也就是；即是；换句话说 put another way, ... 换句话说 videlicet (adv) 换言之 viz. 换言之，即，也就是
 
 set aside 放在一边 undoubtedly 确实地，毋庸置疑的 considerable 大量的 considerably 相当地；非常地 generally 通常；普遍地，一般地 extensive 广泛的，大量的 ubiquitous 普遍存在的 be related to 与...相关 collective 集体的，共同的 individual 个人的；个别的；独特的 substantial 大量的；实质的 discrepancy 不符；矛盾；相差 consistency 一致性，相容性 consistent 始终如一的；一致的；坚持的 detriment 损害；伤害；损害物 pictorial 形象化的 grim reality 严峻的现实 aforementioned 上述的；前面提及的 in this context 关于这点；由此而论；由于这个原因；在这个背景下 anthropogenic 人为的 result in 导致；结果是 beget 产生；招致；引起 sidestep 回避 intractable 棘手的 analogue (n)类似物；(adj)类似的 criterion 标准；准则；规范；准据 paramount 最重要的；主要的 dissemination 宣传；散播 minimally 最低限度地 reinstate 使恢复；使复原 unremitting 不懈的；不间断的；坚忍的 fatuous 未经认真考虑的 spurious 假的；假造的 efficiency 效率；效能；功效 utility 实用；效用；功用 cost-effective 划算的 forge ahead 继续进行；取得进展 menstrual 每月的；一月一次的 biennial 两年一次的 extrapolate 推断；外推 hypothesized 假定，假设，猜测 coherent 连贯的，一致的；明了的；清晰的 discrimination 区别，辨别；识别力 along with 沿（顺）着；连同…一起；与…一道；随同…一起 combined with 连同；联合 coupled with 加上，外加；与…相结合 subjective 主观的；个人的 objective 客观的 causal mechanism 因果机制 set the stage for... 为...作好准备；为...奠定基础 leave behind 留下；遗留 in some instances 在某些情况下 serve to 用来；有助于；足以 tailored (adj)定制的 tailor 调整使适应 terminology 术语 as appropriate 视情况而定；酌情 logistics 后勤；后勤学 to some extent 在一定程度上 spread over 遍布于...；传遍；延续 integrate (vt.) 整合，(adj.) 整合的 amalgamation 融合，混合 aggregate 合计；集合体 so long as 只要 as long as 只要；和...一样长 as such 同样地；本身；就其本身而论 ephemeral 短暂的 correspond with 符合，一致；与……通信 at this stage 眼下 in-depth 彻底的，深入的 in tandem with 同...合作，与...串联 targeted 针对性的
 
