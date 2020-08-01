@@ -162,7 +162,7 @@ soil moisture-holding capacity 土壤持水能力 slope 坡度 aspect 方位
 
 figure legend 图解；附图说明 scatter plot 散点图
 
-针对每一个样地，人工观察样地植被情况，并使用GPS测量仪记录经纬度，利用高分辨率相机对样地拍照留记，以便于后续计算指标。另一方面，利用无人机记录样地林冠影像。
+taxonomic 分类的
 
 
 # 遥感
@@ -184,38 +184,30 @@ broad-scale 大尺度的
 
 # 地理学
 
-subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimatic condition 小气候特征 micrometeorology 微气候学 climate 气候变化；气候变迁 elevation 海拔
+subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimatic condition 小气候特征 micrometeorology 微气候学 elevation 海拔  at regional and global scales 在地区和全球尺度上
 
-landscape 景观 landform 地形；地貌 rugged 崎岖的 temperate ecosystem 温带生态系统 ecoregion 生态区域 biodiversity 生物多样性 species diversity 物种多样性 biome 生物种群 biomass 生物量 waterbody 水体 biotic 生物的 photosynthetic activity 光合作用，光合活性 photosynthesis 光合作用 meteorological condition 气候条件
+landscape 景观 landform 地形；地貌 rugged 崎岖的 temperate ecosystem 温带生态系统 ecoregion 生态区域 biodiversity 生物多样性 ecological succession 生态演替 forest succession 森林演替 species diversity 物种多样性 biome 生物种群 biomass 生物量 biotic 生物的 waterbody 水体 photosynthetic activity 光合作用，光合活性 photosynthesis 光合作用 meteorological condition 气候条件
 
 deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 pristine forest 原始森林 secondary forest 次生林 pasture 草地；牧场 wetland 湿地 wildland 荒地 upland 山地；高地 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段 tree thickness 树皮厚度
 
 spruce 云杉 fir 冷杉；枞木 taiga 针叶树林地带；北方针叶林 steppe 大草原 coniferous 针叶的；结球果的；松柏科的 eucalypt 桉树 pitch pine 北美脂松
 
-fuel type 可燃物类型 canopy structure 冠层结构 overstory 上层林冠 understory 林下叶层
+canopy structure 冠层结构 overstory 上层林冠 understory 林下叶层
 
-foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring analysis 年轮分析 acre 英亩 hectares 公顷 at regional and global scales 在地区和全球尺度上 flooding 洪水 drought 干旱 landslides 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 precipitation 降水 fuel load 可燃物装载量 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文学 forest succession 森林演替 ecological succession 生态演替 drainage network 河网
-
-taxonomic 分类的 
+foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring 年轮 acre 英亩 hectare 公顷 flooding 洪水 drought 干旱 landslide 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 precipitation 降水 fuel load 可燃物装载量 fuel type 可燃物类型 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文地理学 drainage network 河网
 
 cobble 鹅卵石，圆石
 
-geographic (geograpical) 地理的，地理学的 phenology 物候学 topographical 地质的；地形学的 convection 对流；传送 evapotranspiration 蒸散 terrestrial biosphere  陆地生物圈 ecoregion 生态区域 ecosystem 生态系统 biome 生物群落；生物群区 climax community 顶极群落 carbon sink 碳汇 carbon fixation 碳固定；固碳作用 carbon assimilation 碳同化 carbon sequestration 碳固定；碳封存
+geographic (geograpical) 地理的，地理学的 phenology 物候学 topographical 地质的；地形学的 convection 对流；传送 evapotranspiration 蒸散 terrestrial biosphere  陆地生物圈 ecosystem 生态系统 climax community 顶极群落 carbon sink 碳汇 carbon fixation 碳固定；固碳作用 carbon assimilation 碳同化 carbon sequestration 碳固定；碳封存
 
-Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的
+North America Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的
 
 # 物理化学
 
 nitrogen 氮
 
-special issue 特刊
-
 # math
 identity 恒等式
-
-# 口语
-
-fast buck 意外之财 over the hump 度过最困难时期；已度过一半时间 hot stuff 非奇；非凡的事物
 
 
 # 高光谱解混
@@ -231,5 +223,10 @@ from other sparse structures in hyperspectral unmixing. In other words, the sing
 
 The TV regularizer term is an overstrict assumption that adjacent pixels should have both similar mixing endmembers and similar abundance fractions.
 
-**Low-rank:**The spatial correlation among pixels in an HSI translates into linear dependence among their corresponding abundance vectors. The resulting abundance matrix thus admits a lowrank property. That is to say, the essense of low-rank is the spatial correlation among pixels in an hyperspectral imagery.
+**Low-rank:** The spatial correlation among pixels in an HSI translates into linear dependence among their corresponding abundance vectors. The resulting abundance matrix thus admits a lowrank property. That is to say, the essense of low-rank is the spatial correlation among pixels in an hyperspectral imagery.
+
+
+# 口语
+
+fast buck 意外之财 over the hump 度过最困难时期；已度过一半时间 hot stuff 非奇；非凡的事物 special issue 特刊
 
