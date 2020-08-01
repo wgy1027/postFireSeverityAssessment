@@ -156,51 +156,46 @@ training error 训练误差 Empirical Risk Minimization 经验风险最小化 co
 
 under study 在研究中 study area 研究区域 data pre-processing 数据预处理 deteriorate 恶化 extinction 灭绝 anisotropic [物] 各向异性的；[物] 非均质的 heterogeneous 混杂的；各种各样的；（化学）不均一的，多相的；（数学）不纯一的，参差的 homogeneous 同质的 homogeneity 同质；同种；同次性 monotonicity 单调性 anomaly 异常；不规则 abnormal 反常的，不规则的 trial and error 反复试验；尝试错误法 incipient 初期的；初始的；起始的 common practice 惯例 in practice 在实践中；实际上，事实上 at historically unprecedented rates 以前所未有的速率 heuristic 启发式的，探索的 state-of-the-art 最先进的；已经发展的；达到最高水准的 in the field 在实地 field measurement 现场测量；实地量度；野外测量 field data 现场数据；野外数据 qualitatively 定性地 quantitatively 定量地 reliability 可靠性 availability 可用性；有效性；实用性 accessibility 可达性；可以得到 suitability 适用性 per se 本身；自身 proactive management 前瞻性管理；预防性管理 best practice 最佳做法，最优方法；典范做法；最佳实践；最佳实务 dependent variable 因变量 independent variable 自变量 coefficient of determination 决定系数 rationale 基本原理 trend analysis 趋势分析 scenario 情景 multiple linear regression model 多元线性回归 comparative analysis 对比分析；比较分析 polynomial 多项式的 logarithmic 对数的 accentuate 强调 methodology 方法学；方法论 parameter selection 参数选择 entry 条目 frequency distribution 频数分布
 
-plant mortality 植物死亡率 basal area 茎占面积；断面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass  resilience 恢复力；顺应力 in-situ data 现场数据 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 wind throw 风倒木；风倒 source database 源数据 spectral index 光谱指数 slash-and-burn ar 刀耕火种
-
-soil moisture-holding capacity 土壤持水能力 slope 坡度 aspect 方位
-
-figure legend 图解；附图说明 scatter plot 散点图
+figure legend 图解；附图说明 scatter plot 散点图  source database 源数据 in-situ data 现场数据
 
 taxonomic 分类的
 
 
 # 遥感
-Satellite constellation 卫星星座 geostationary satellite 地球同步卫星 remote sensing 遥感 hyperspectral imaging 高光谱成像 spectrometer 光谱仪；分光仪 spectroscopic 光谱学的，分学镜的 spectral resolution 光谱分辨率 spectral signature 光谱特征 spectral indice 光谱指数 endmember 端元 cartography 制图 photogrammetry 摄影测量法；摄影制图法 chrominance 色度；色差 panchromatic 全色的
+Satellite constellation 卫星星座 geostationary satellite 地球同步卫星 remote sensing 遥感 hyperspectral imaging 高光谱成像 spectrometer 光谱仪；分光仪 spectroscopic 光谱学的，分学镜的 electromagnetic spectrum 电磁波谱 spectral resolution 光谱分辨率 spectral signature 光谱特征 spectral index 光谱指数 wavelength 波长 endmember 端元 cartography 制图 photogrammetry 摄影测量法；摄影制图法
 
-geo-correct 几何校正 transect 样带 geodetic datum [测] 大地基准；测地基准点 geo-reference 地理参照；地理参考 geo-locate 地理定位 geometric correction 几何校正 radiometric correction 辐射校正 atmospheric correction 大气校正 topographic correction 地形校正 image registration 图像配准 spatial registration 空间配准 intercalibrate 交互校准 co-registration 配准 image mosaicking 图像拼接
+geo-correct 几何校正 geodetic datum [测] 大地基准；测地基准点 geo-reference 地理参照；地理参考 geo-locate 地理定位 geometric correction 几何校正 radiometric correction 辐射校正 atmospheric correction 大气校正 topographic correction 地形校正 image registration 图像配准 spatial registration 空间配准 intercalibrate 交互校准 co-registration 配准 image mosaicking 图像拼接 cross calibration 交叉定标 tie point 连接点；接合点 transect 样带
 
-aerosol 气溶胶 tie point 连接点；接合点 digital elevation model 数字高程模型 elevation 海拔；高程 slope 坡度 data format 数据格式 backdrop 背景 true color composite 真彩色合成
+aerosol 气溶胶 data format 数据格式 backdrop 背景 true color composite 真彩色合成 chrominance 色度；色差 panchromatic 全色的
 
 solar zenith angle 太阳天顶角 solar azimuth angle 太阳方位角
 
-scattering 散射 radiative transfer model 辐射传输模型 stratify 分层；成层 albedo （行星等的）反射率；星体反照率 irradiance 辐照度 steradian 立体弧度 top-of-atmosphere 大气顶的
+scattering 散射 radiative transfer model 辐射传输模型 albedo （行星等的）反射率；星体反照率 irradiance 辐照度 steradian 立体弧度 top-of-atmosphere 大气顶的
 
-wavelength 波长 linear unmixing 线性分离 cross calibration 交叉定标
+linear unmixing 线性分离
 
 polygon 多边形
 
-broad-scale 大尺度的
-
 # 地理学
-
-subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimatic condition 小气候特征 micrometeorology 微气候学 elevation 海拔  at regional and global scales 在地区和全球尺度上
+subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimatic condition 小气候特征 micrometeorology 微气候学 elevation 海拔；高程 digital elevation model 数字高程模型 slope 坡度 aspect 方位 at regional and global scales 在地区和全球尺度上 broad-scale 大尺度的
 
 landscape 景观 landform 地形；地貌 rugged 崎岖的 temperate ecosystem 温带生态系统 ecoregion 生态区域 biodiversity 生物多样性 ecological succession 生态演替 forest succession 森林演替 species diversity 物种多样性 biome 生物种群 biomass 生物量 biotic 生物的 waterbody 水体 photosynthetic activity 光合作用，光合活性 photosynthesis 光合作用 meteorological condition 气候条件
 
-deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 pristine forest 原始森林 secondary forest 次生林 pasture 草地；牧场 wetland 湿地 wildland 荒地 upland 山地；高地 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段 tree thickness 树皮厚度
+deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 pristine forest 原始森林 secondary forest 次生林 pasture 草地；牧场 wetland 湿地 wildland 荒地 upland 山地；高地 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段 stratify 分层；成层 tree thickness 树皮厚度
 
 spruce 云杉 fir 冷杉；枞木 taiga 针叶树林地带；北方针叶林 steppe 大草原 coniferous 针叶的；结球果的；松柏科的 eucalypt 桉树 pitch pine 北美脂松
 
 canopy structure 冠层结构 overstory 上层林冠 understory 林下叶层
 
-foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring 年轮 acre 英亩 hectare 公顷 flooding 洪水 drought 干旱 landslide 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 precipitation 降水 fuel load 可燃物装载量 fuel type 可燃物类型 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文地理学 drainage network 河网
+foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring 年轮 acre 英亩 hectare 公顷 flooding 洪水 drought 干旱 landslide 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 soil moisture-holding capacity 土壤持水能力 precipitation 降水 fuel load 可燃物装载量 fuel type 可燃物类型 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文地理学 drainage network 河网
 
 cobble 鹅卵石，圆石
 
 geographic (geograpical) 地理的，地理学的 phenology 物候学 topographical 地质的；地形学的 convection 对流；传送 evapotranspiration 蒸散 terrestrial biosphere  陆地生物圈 ecosystem 生态系统 climax community 顶极群落 carbon sink 碳汇 carbon fixation 碳固定；固碳作用 carbon assimilation 碳同化 carbon sequestration 碳固定；碳封存
 
 North America Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的
+
+plant mortality 植物死亡率 basal area 断面积；底面积；茎占面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass 残骸 resilience 恢复力；顺应力 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 windthrow 风倒木；风倒 slash-and-burn 刀耕火种的
 
 # 物理化学
 
