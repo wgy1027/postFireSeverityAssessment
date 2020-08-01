@@ -13,7 +13,7 @@ equivocate 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
 - The experiment was designed for examining the classification performance using relatively small training samples. We focused on the impact of training sample sizes ranging from 20 to 800 pixels per class using randomly selected samples from a large pool of training data points. 
 - We draw on diverse recent research for guidance on assessing fire effects on vegetation and soil using field methods, remote sensing and models. 
 - The fire disturbance continuum discriminates between discrete temporal phases during which fire processes occur.
-- Coupled with a growing demand for wood products and environmental services, increasing rates of natural disturbances such as fire and climate change has highlighted technical and scientific gaps in managing for the persistence of the Siberian Larch forest.
+- Coupled with a growing demand for wood products and environmental services, increasing rates of natural disturbances such as fire and climate change have highlighted technical and scientific gaps in managing for the persistence of the Siberian Larch forest.
 - They negotiate with the government over such things as the use of their technology.
 
 ## Study Area
