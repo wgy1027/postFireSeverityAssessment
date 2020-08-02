@@ -71,4 +71,6 @@ Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ].
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xUbIhCopqEM/0.jpg)](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=xUbIhCopqEM)
 
+[![Rachel](http://img.youtube.com/vi/xUbIhCopqEM/0.jpg)](http://www.youtube.com/watch?v=xUbIhCopqEM)
+
 https://www.youtube.com/watch?v=xUbIhCopqEM
