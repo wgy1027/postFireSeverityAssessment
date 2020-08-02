@@ -37,8 +37,22 @@ Common monophthongs in General American English include:
 
 Common diphthongs in English include:
 * /eɪ/ as in *a*te, r*ei*gn, v*ai*n, fl*a*vor, sl*ay*, and conv*ey*
-* /oʊ/ as in t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, and chat*eau*
 * /aɪ/ as in *eye*, *I*, p*ie*, cr*y*, c*y*pher, cl*i*mb, l*i*me, l*i*ght, k*ay*ak, Th*ai*, and h*ei*ght
-* /aʊ/ as in l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, and Mac*au*
 * /oɪ/ as in b*oy*, m*oi*st, and Fr*eu*d
+* /oʊ/ as in t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, and chat*eau*
+* /aʊ/ as in l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, and Mac*au*
 
+
+
+
+
+In articulatory phonetics, a **consonant** is a speech sound that is articulated with complete or partial closure of the vocal tract. Examples are IPA, pronounced with the lips; [t], pronounced with the front of the tongue; [k], pronounced with the back of the tongue; [h], pronounced in the throat; [f] and [s], pronounced by forcing air through a narrow channel (**fricative**s); and [m] and [n], which have air flowing through the nose (**nasal**s). Contrasting with consonants are **vowel**s.
+
+In fact, the English alphabet has fewer consonant letters than English has consonant sounds, so **digraph**s like "ch", "sh", "th", and "zh" are used to extend the alphabet, and some letters and digraphs represent more than one consonant. For example, the sound spelled "th" in "this" is a different consonant from the "th" sound in "thin". (In the IPA, they are transcribed [ð] and [θ], respectively.)
+
+
+In General American English, /r/ when not followed by a vowel is realized as an r-coloring of the preceding vowel or its coda: nurse [ˈnɚs], butter [ˈbʌtɚ].
+
+### Bilabial sounds [p] and [b]
+The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
+### 
