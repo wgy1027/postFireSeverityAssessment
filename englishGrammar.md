@@ -84,30 +84,32 @@ Revision 2: According to the selection of current publications, research in this
 
 # Adjective
 A descriptive adjective will usual fit into one of the following categories:
-Category        Example
-Appearance      attractive, burly, clean, dusty
-Colour          azure, blue, cyan, dark
-Condition       absent, broken, careful, dead
-Personality     annoying, brave, complex, dizzy
-Quantity        ample, bountiful, countless, deficient
-Sense           aromatic, bitter, cold, deafening
-Size and Shape  angular, broad, circular, deep
-Time            ancient, brief, concurrent, daily
+| Category    |    Example                               |
+| ----------- | ---------------------------------------- |
+| Appearance  |   attractive, burly, clean, dusty        |
+| Colour      |    azure, blue, cyan, dark                |
+| Condition   |   absent, broken, careful, dead          |
+| Personality |   annoying, brave, complex, dizzy        |
+| Quantity    |   ample, bountiful, countless, deficient |
+| Sense       |   aromatic, bitter, cold, deafening      |
+| Size and Shape |  angular, broad, circular, deep       | 
+Time          | ancient, brief, concurrent, daily        |
 
-Order   Category           Examples
-1       Determiner          the, my, those
-2       Number             one, two, ninety-nine
-3       Opinion            lovely, attractive, rare
-4       Size               small, medium, large
-5       Physical Quality   thin, lumpy, cluttered
-6       Shape              round, square, triangular
-7       Age                young, middle-aged, old
-8       Colour             red, white, blue
-9       Origin             British, German, Russian
-10      Material           wood, metal, plastic
-11      Type               L-shaped, two-sided, all-purpose
-12      Purpose            cooking, supporting, tendering
-13      Attributive Noun   service, improvement, head
+|Order |  Category        |        Examples         |
+| ---- | -----------------|------------------------ |
+|1     |  Determiner      |   the, my, those        |
+|2     | Number           |  one, two, ninety-nine  |
+|3     | Opinion          | lovely, attractive, rare  |
+|4     | Size             | small, medium, large    |
+|5     | Physical Quality | thin, lumpy, cluttered  |
+|6     | Shape            | round, square, triangular |
+|7     | Age              | young, middle-aged, old   |
+|8     | Colour           | red, white, blue          |
+|9     | Origin           | British, German, Russian  |
+|10    | Material         | wood, metal, plastic      |
+|11    | Type             | L-shaped, two-sided, all-purpose |
+|12    | Purpose          | cooking, supporting, tendering   |
+|13    | Attributive Noun | service, improvement, head       |
 
 ## Demonstrative Adjectives
 A demonstrative adjective is a special adjective (often called a determiner) that identifies a noun or pronoun by expressing its position as near or far (including in time), which are 'this,' 'that,' 'these,' and 'those.'
