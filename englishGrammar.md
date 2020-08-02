@@ -71,7 +71,7 @@ With countable plural nouns and with uncountable nouns (e.g., printers, flashdri
 Note the difference between few/little (almost none) and a few/a little (some, but not many/much). Few/little tend to have a negative connotation. A few/a little tend to be more positive.
 
 # Modifier
-A modifier is a word, phrase, or clause that modifies—that is, gives information about—another word in the same sentence. A modifier can be an adjective (a word that modifies a noun), an adverb (a word that modifies a verb), a phrase or clause.
+A modifier is a word, phrase, or clause that modifies—that is, gives information about—another word in the same sentence. A modifier can be an adjective (a word that modifies a noun), an adverb (a word that modifies a verb, adjective, or another adverb), a phrase or clause.
 
 ## Dangling Modifiers
 When a modifier is not modifying a specific word, we call it a dangling modifier.
@@ -151,19 +151,24 @@ Example: The \textit{beautifully carved} frames are priceless.
 (2) Predicative Adjective
 
 A predicative adjective sits outside the noun phrase of the noun it modifies.
-Typically, a predicative adjective is linked its noun with a linking verb (e.g., "to be," "to look," "to smell," "to taste").
-Example: The frames are \textit{beautifully carved} and priceless.
+Typically, a predicative adjective is linked its noun with a linking verb (e.g., *to be*, *to look*, *to smell* , and *to taste*).
+Example: The frames are *beautifully carved* and priceless.
 
 ## adjective acting as the post-modifier
-ostpositive adjectives are most common with pronouns.
-Such as, someone interesting, those present, something evil.
+Postpositive adjectives are most common with pronouns. Such as, someone interesting, those present, something evil.
 
 (1) when it modifies the indefinite pronoun, such as somebody, someone, something, anybody, anyone, anything, nobody, nothing, it must be put behind the indefinite pronoun. Example: This isn’t anything important.
+
 (2) when the adjective phrase act as the modifier, it must can put behind its modified noun. Example: (a) I think he is a man suitable for the job; (b) We need a place twice larger than this one.
-(3) Sometimes, when a pair of adjectives act as the modifier, one adjective can be put behind the modifier noun considering the rhythm and balance. Example: There was a huge cupboard, simple and beautiful.
+
+(3) Sometimes, when a pair of adjectives act as the modifier, one adjective can be put behind the modified noun considering the rhythm and balance. Example: There was a huge cupboard, simple and beautiful.
+
 (4) when the predicate adjective act as the modifier, it must be put behind its modified noun. Example: (a) He must be the best violinist alive; (b) The house ablaze is next door to me.
+
 (5) Some adjectives, such as past, last, next, nearby, following, acts the modifier, it can be put before or behind the noun. Example: (a) in past years / in years past; (b) the following days / the days following.
-(6) When some adjectives, such enough, opposite modify the noun, it can be put before or behind the noun. Example: The people in the house opposite [the opposite house] never draw their curtains.
+
+(6) When some adjectives, such as enough and opposite, modify the noun, it can be put before or behind the noun. For example: The people in the house opposite [the opposite house] never draw their curtains.
+
 (7) some adjectives, such as present, can acts pre-modifier or post-modifier, but its meaning is different. Example: (a) What’s your present feeling? (present=现在的); (b) He was the only Englishman present. (present=在场的)
 
 # Adverb
