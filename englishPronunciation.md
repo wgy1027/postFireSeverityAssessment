@@ -55,5 +55,18 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 
 ### Bilabial sounds [p] and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
-<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.png"></p>
-### 
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
+
+## Semivowels
+### Palatal semivowel [j]
+This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth.
+### Velar semivowel [w]
+It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvi:lər] . The articulation of [w] is carried out as follows:
+
+- The lips are projected forward and take on a rounded position.
+- The back of the tongue is pulled back and raised and comes close to the soft palate. This position is similar to that of vowel [u:], but the back of the tongue is closer to the soft palate.
+- The vocal cords then vibrate and the lips are retracted to the position of the next sound in the word.
+- Because the tongue has to move up towards the soft palate, the root of the tongue also moves and narrows a little bit the pharynx. This gives the sound a characteristic timbre.
+Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ].
+
+![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/jt5huPbR7zU)
