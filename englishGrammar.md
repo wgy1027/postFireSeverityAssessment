@@ -438,7 +438,7 @@ An intransitive verb does not take an object. However, there may be other inform
 - 条件从句与过去事实不一致，其可以表示为**句型2**：If ＋主语＋had＋过去分词，主语＋ should（could, would, 或might）＋ have ＋过去分词
   - If the doctor had come last night, the boy would have been saved.
   - If I had not studied hard, I would have failed in the exam last term.
-- 条件从句与将来事实不一致，其可以表示为句型3：If ＋主语＋过去时/ should ＋动词原形/ were to＋动词原形，主语＋ should (could, would, 或might) ＋动词原形
+- 条件从句与将来事实不一致，其可以表示为**句型3**：If ＋主语＋过去时/ should ＋动词原形/ were to＋动词原形，主语＋ should (could, would, 或might) ＋动词原形
   - If it should rain tomorrow, we would stay at home.
   - If I were to go to the moon one day, I could see it with my own eyes.
   - If you missed the film tonight, you would feel sorry.
@@ -468,6 +468,7 @@ An intransitive verb does not take an object. However, there may be other inform
 
 **句型6**：It’s time句型（当It’s time后用that从句时应该为“主语＋ should ＋动词原形”或“主语＋过去时”）
 (1) It’s time that you went / should go to school.
+
 **句型7**：If only引起的感叹句相当于“How I wish ＋宾语从句”。举例：
 (1) If only he could come! 他要能来就好了。
 (2) If only I had known the answer! 我要早知答案就好了。
