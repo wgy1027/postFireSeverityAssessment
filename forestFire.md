@@ -3,4 +3,10 @@ Fire behaviour refers to the manner in which fuel ignites, flame develops and fi
 
 There are three basic types of forest fires: (1) Crown fires burn trees up their entire length to the top. These are the most intense and dangerous wildland fires. (2) Surface fires burn only surface litter and duff. These are the easiest fires to put out and cause the least damage to the forest. (3) Ground fires (sometimes called underground or subsurface fires) occur in deep accumulations of humus, peat and similar dead vegetation that become dry enough to burn. These fires move very slowly, but can become difficult to fully put out, or suppress. Occasionally, especially during prolonged drought, such fires can smoulder all winter underground and then emerge at the surface again in spring.
 
+For more than four decades, Canadian Forest Service researchers have been developing and refining several national systems for identifying where and when the risk of wildland fire is greatest. This work has played a crucial role in protecting Canadians, their property and forest resources. Among these, the main national system is the Canadian Forest Fire Danger Rating System (CFFDRS). Tools developed to support the CFFDRS include:
+- Canadian Forest Fire Weather Index System (FWI) — a system used across Canada to assess day-to-day changes in the potential for fires to ignite and spread;
+- Canadian Forest Fire Behavior Prediction (FBP) System — a system used to estimate potential fire spread rate, fuel consumption and fire intensity for a range of forest fuel types in Canada;
+- Canadian Fire Effects Model (CanFIRE) — an extension model of the CFFDRS used to analyze the immediate physical effects of fire on stands and the resulting ecological effects on forest vegetation.
+As well, government and university researchers have developed several fire occurrence prediction models for predicting the number of lightning-caused and human-caused forest fires in a given area.
+
 
