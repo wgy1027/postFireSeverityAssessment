@@ -57,9 +57,28 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
 <p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
 
+## Nasal consonants
+In this kind of consonants the air can escape freely from the nose because the soft palate does not lean against the rear wall of the throat but just hangs loosely. Therefore, the air passes through the oral and nasal cavities. Nasal consonants in English are [m], [n], and [ɳ]. However, these consonants are actually stops and during the closure and blockage stages the air only escapes from the nose.
+### Stops [m], [n], and [ɳ]
+Consonant [m] is a bilabial stop, consonant [n] is alveolar stops, and consonant [ɳ] is a velar stop. They can be thought of as the nasal version of the oral consonants [b], [d] and [g], respectively. In Figure 33, the difference in terms of manner and place of articulation between sounds [m] and [p, b] can be observed. The soft palate is lowered allowing the air escape from the nose. These changes several features of the produced sound, as resonance, amplitude (it is lower than in stops or other consonants), and timbre.
+
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-m.jpg"></p>
+
+Fig. Pronunciation of sound [m] as compared to oral bilabial stops
+
+Sound [m] is usually spelled m or mm, as in more or comb. In the video below Rachel explains the pronunciation of this sound.
+
+[![Rachel's English: How to Pronounce M consonant](http://img.youtube.com/vi/Us15Wkh5lTo/0.jpg)](http://www.youtube.com/watch?v=Us15Wkh5lTo)
+
+Fig. Rachel's English: How to Pronounce M consonant
 ## Semivowels
 ### Palatal semivowel [j]
-This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth.
+This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth. Sound [j] is usually spelled y, as in year[jɪr].
+
+[![Rachel's English: How to Pronounce the Y [j] consonant](http://img.youtube.com/vi/4F8GAifCdVY/0.jpg)](http://www.youtube.com/watch?v=4F8GAifCdVY)
+
+Fig. Rachel's English: How to Pronounce the Y [j] consonant
+
 ### Velar semivowel [w]
 It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvi:lər] . The articulation of [w] is carried out as follows:
 
@@ -68,5 +87,8 @@ It is articulated as a voiced approximant at the velum and at the same time is a
 - The vocal cords then vibrate and the lips are retracted to the position of the next sound in the word.
 - Because the tongue has to move up towards the soft palate, the root of the tongue also moves and narrows a little bit the pharynx. This gives the sound a characteristic timbre.
 Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ]. In the video below Rachel explains the production of this sound and gives examples.
+
 [![Rachel's English: How to Pronounce the W consonant](http://img.youtube.com/vi/jt5huPbR7zU/0.jpg)](http://www.youtube.com/watch?v=jt5huPbR7zU)
+
+Fig. Rachel's English: How to Pronounce the W consonant
 
