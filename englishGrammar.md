@@ -307,7 +307,7 @@ Relative Pronouns
 A restrictive clause (also known as an essential clause or phrase) provides necessary information about the noun or noun phrase in the sentence, which is not reparated from the rest of the sentence by a comma.
 Restrictive clauses are more common in writing than nonrestrictive clauses.
 The relative pronoun acting as the object of the sentence in the relative clause can be omitted.
-Example: He carpets (which) you bought last year have gone moldy.
+Example: His carpets (which) you bought last year have gone moldy.
 
 A nonrestrictive clause (also known as a nonessential clause or phrase) uses commas to show that the information is additional to a sentence.
 If the information between the commas is omitted, readers will still understand the overall meaning of the sentence.
