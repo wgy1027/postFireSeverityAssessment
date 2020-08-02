@@ -45,6 +45,7 @@ Common diphthongs in English include:
 
 
 
+# Consonant
 
 In articulatory phonetics, a **consonant** is a speech sound that is articulated with complete or partial closure of the vocal tract. Examples are IPA, pronounced with the lips; [t], pronounced with the front of the tongue; [k], pronounced with the back of the tongue; [h], pronounced in the throat; [f] and [s], pronounced by forcing air through a narrow channel (**fricative**s); and [m] and [n], which have air flowing through the nose (**nasal**s). Contrasting with consonants are **vowel**s.
 
@@ -55,7 +56,38 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 
 ### Bilabial sounds [p] and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
+
 <p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
+
+## Fricative sounds
+In fricative consonants there is a partial obstruction of the air produced by placing two articulatory organs very close together. Normally, one of the organs is a passive articulator (see Section 2.2subsection) and the other is an active articulator (the tongue in most cases). The narrow passage causes a turbulent airstream, which produces the fricative sound. The sound produced by the turbulent airstream is called frication/fraɪˈkeɪʃn/. According to the organs involved in the partial obstruction of the oral cavity, fricatives are classified as follows:
+
+- **Labio-dental sounds:** The frication is caused by loosely placing the upper teeth on the bottom lip. Labio-dental sounds are [f] and [v].
+- **Dental sounds:** The frication is caused by placing the tongue between the upper and bottom teeth. Dental sounds are [ɵ], [∂], and [∂̞].
+- **Alveolar sounds:** The frication is caused by moving the blade of the tongue near the alveolar ridge. Alveolar sounds are [s] and [z].
+- **Post-alveolar sounds:** The back of the tongue forms a narrow passage with the hard palate (post-alveolar) that results in the frication. Post-alveolar sounds are [ʃ] and [ʒ].
+- **Glottal sounds:** The frication is achieved by putting the vocal folds in a near-close position and letting the air go through them. [h] is the only fricative glottal sound in English.
+
+### Labio-dental sounds [f] and [v]
+The upper front teeth come close to the bottom lip, while the tongue is in rest position. The airstream is forced through the slit formed by those two articulators; see Figure 21. Consonant [f] is voiceless and consonant sound [v] is voiced. Spellings f, ff, ph, and gh are frequently associated to sound [f]; see the following examples: first, coffee, photo, or cough. The only spelling associated to [v] is letter v.
+
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-f-v.jpg"></p>
+
+Figure 21:	Manner of articulation of labio-dental fricatives [f] and [v].
+
+[![Rachel's English: How to Pronounce F and V consonants](http://img.youtube.com/vi/EBYpWd0oFjM/0.jpg)](http://www.youtube.com/watch?v=EBYpWd0oFjM)
+
+Video. Rachel's English: How to Pronounce F and V consonants
+
+## Affricate consonants ([ʧ] and [ʤ])
+An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
+
+### Consonants [ʧ] and [ʤ]
+Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
+
+[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
+
+Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
 
 ## Nasal consonants
 In this kind of consonants the air can escape freely from the nose because the soft palate does not lean against the rear wall of the throat but just hangs loosely. Therefore, the air passes through the oral and nasal cavities. Nasal consonants in English are [m], [n], and [ɳ]. However, these consonants are actually stops and during the closure and blockage stages the air only escapes from the nose.
@@ -70,14 +102,35 @@ Sound [m] is usually spelled m or mm, as in more or comb. In the video below Rac
 
 [![Rachel's English: How to Pronounce M consonant](http://img.youtube.com/vi/Us15Wkh5lTo/0.jpg)](http://www.youtube.com/watch?v=Us15Wkh5lTo)
 
-Fig. Rachel's English: How to Pronounce M consonant
+Video. Rachel's English: How to Pronounce M consonant
+
+Apart from nasality, sound [n] is pronounced as [t] in terms of manner and place of articulation, that is, it is an alveolar stop. Sound [n] is usually spelled n, nn, or kn, as in not, sunny, or know. In the video below Rachel explains the pronunciation of this sound.
+
+[![Rachel's English: How to Pronounce N consonant](http://img.youtube.com/vi/iVakdwxGZ7Q/0.jpg)](http://www.youtube.com/watch?v=iVakdwxGZ7Q)
+
+Video. Rachel's English: How to Pronounce N consonant
+
+Last nasal sound is [ɳ], a velar stop like [k] and [g]. In the following picture, phonemes [ɳ] and [k] are compared. In the case of [ɳ] the back of the tongue and the soft palate meet in such a way the nasal tract is not sealed off.
+
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-n-ng.jpg"></p>
+
+Fig. Pronunciation of phoneme [ɳ] as compared to oral velar stops
+
+Sound [ɳ] is associated with some fixed spellings:
+- The ending of the present participle ing, as in eating[ˈi:tɪɳ].
+- Letter n before k, g pronounced as velar stops is pronounced as ɳ, as in think[ɵɪɳk], or angry/ˈæɳgɹi/. Therefore, spellings nk are ng frequently associated with this consonant.
+
+[![Rachel's English: How to Pronounce NG [ŋ] Consonant](http://img.youtube.com/vi/NduCJKb4iR8/0.jpg)](http://www.youtube.com/watch?v=NduCJKb4iR8)
+
+Video. Rachel's English: How to Pronounce NG [ŋ] Consonant
+
 ## Semivowels
 ### Palatal semivowel [j]
 This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth. Sound [j] is usually spelled y, as in year[jɪr].
 
 [![Rachel's English: How to Pronounce the Y [j] consonant](http://img.youtube.com/vi/4F8GAifCdVY/0.jpg)](http://www.youtube.com/watch?v=4F8GAifCdVY)
 
-Fig. Rachel's English: How to Pronounce the Y [j] consonant
+Video. Rachel's English: How to Pronounce the Y [j] consonant
 
 ### Velar semivowel [w]
 It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvi:lər] . The articulation of [w] is carried out as follows:
@@ -89,6 +142,8 @@ It is articulated as a voiced approximant at the velum and at the same time is a
 Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ]. In the video below Rachel explains the production of this sound and gives examples.
 
 [![Rachel's English: How to Pronounce the W consonant](http://img.youtube.com/vi/jt5huPbR7zU/0.jpg)](http://www.youtube.com/watch?v=jt5huPbR7zU)
+
+Video. Rachel's English: How to Pronounce the W consonant
 
 Fig. Rachel's English: How to Pronounce the W consonant
 
