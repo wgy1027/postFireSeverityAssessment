@@ -55,4 +55,5 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 
 ### Bilabial sounds [p] and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-b-p.png"></p>
 ### 
