@@ -286,7 +286,7 @@ There are two types of clause: An independent clause is the one that can stand a
 ## adverb clause
 Adverb clause (also called adverbial or subordinate clauses) is one dependent clause starts with a subordinating conjunction, and it provide information about the when, where, why, and how of the independent clause.
 
-## Relative Clauses
+## Relative Clause
 An relative clause (also called an adjectival or adjective clause) will meet three requirements: (1) it will contain a subject and verb, bringing the links between it and its modified noun; (2) it will begin with a relative pronoun (who, whom, whose, that, or which) or a relative adverb (when, where, or why), which makes it become a clause; (3) it will tell us something about the noun, which makes it become a kind of adjective.
 
 The relative clause will follow one of these two patterns:
@@ -297,9 +297,11 @@ Punctuate an adjective clause correctly.
 A relative clause connects ideas by using pronouns that relate to something previously mentioned and allows the writer to combine two independent clauses into one sentence. There are two types of relative clauses: restrictive and nonrestrictive.
 
 Relative Pronouns
-                        Referring to a human     Referring to something other than a human   Possessive
-Restrictive                    who, whom, that*    which, that**   whose
-Nonrestrictive (with commas)    who, whom          which           whose
+
+|                             |  Referring to a human  |   Referring to something other than a human |  Possessive |
+| --------------------------- | ---------------------- | ---------------------|--------|
+|Restrictive                  |  who, whom, that*      |   which, that**      |  whose |
+|Nonrestrictive (with commas) |   who, whom            |   which              |  whose |
 
 ### Restrictive Clause and Nonrestrictive Clause
 A restrictive clause (also known as an essential clause or phrase) provides necessary information about the noun or noun phrase in the sentence, which is not reparated from the rest of the sentence by a comma.
