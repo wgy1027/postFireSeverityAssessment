@@ -18,7 +18,7 @@ In written English the six vowel letters are used to represent the 13-15 vowel *
 ## Monophthongs and diphthongs ##
 Simple vowels are called **monophthong**s. The letters, like /ɪ/, are the International Phonetic Alphabet( IPA) letters for each vowel **sound** in English. In the IPA, each symbol represents a different sound, so using the IPA is helpful in pronouncing words.
 
-IPA English Vowels and Diphthongs with Sound Examples.svg.png
+<p align="center"><img align="center" width="500" src="./notePic/IPA_English_Vowels_and_Diphthongs_with_Sound_Examples.svg.png"></p>
 
 Common monophthongs in General American English include:
 - /i/ as in pol*i*ce, f*ee*t, *ea*t, and sill*y*
@@ -55,5 +55,5 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 
 ### Bilabial sounds [p] and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
-<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-b-p.png"></p>
+<p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.png"></p>
 ### 
