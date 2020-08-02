@@ -314,32 +314,32 @@ If the information between the commas is omitted, readers will still understand 
 Example: The hypothesis, which I tested throughout the research, was rejected
 
 ## Noun Clause
-A noun clause is a dependent clause that acts as a noun, acting as subjects, direct objects, indirect objects, predicate nominatives, or objects of a preposition. Noun clauses begin with words such as \textit{how}, \textit{that}, \textit{what}, \textit{whatever}, \textit{when}, \textit{where}, \textit{whether}, \textit{which}, \textit{whichever}, \textit{who}, \textit{whoever}, \textit{whom}, \textit{whomever}, and \textit{why}.
+A noun clause is a dependent clause that acts as a noun, acting as subjects, direct objects, indirect objects, predicate nominatives, or objects of a preposition. Noun clauses begin with words such as *how*, *that*, *what*, *whatever*, *when*, *where*, *whether*, *which*, *whichever*, *who*, *whoever*, *whom*, *whomever*, and *why*.
 
 ## -ing Clauses (GERUNDS)
-If the \textit{-ing} clause is first, we write a comma (,) between the clauses, such as: Feeling tired, I went go to bed early. If the \textit{-ing} clause is at the end of the sentence, the comma isn't needed. There are three usage conditions: simultaneous events, consecutive events, and explain something. These clauses are used more in written English than in spoken English.
+If the *-ing* clause is first, we write a comma (,) between the clauses, such as: Feeling tired, I went go to bed early. If the \textit{-ing} clause is at the end of the sentence, the comma isn't needed. There are three usage conditions: simultaneous events, consecutive events, and explain something. These clauses are used more in written English than in spoken English.
 
-When \textit{-ing} clause is used for the simultaneous events, We must use \textit{-ing} for the longer action, Example: Jim hurt his arm playing tennis (= while he was playing tennis). In this case, we can also use \textit{-ing} after \textit{while} or \textit{when}. Example: Jim hurt his arm (\textbf{while}) playing tennis.
+When *-ing* clause is used for the simultaneous events, We must use *-ing* for the longer action, Example: Jim hurt his arm playing tennis (= while he was playing tennis). In this case, we can also use *-ing* after *while* or *when*. Example: Jim hurt his arm (**while**) playing tennis.
 
-When \textit{-ing} clause is used for the consecutive events, we use HAVING + Past Participle for the fist action, such as: Having found a job, Brian celebrated with his wife to be. we can also use \textit{after verb+ING}, such as: After finishing her dinner, she had a shower.
+When *-ing* clause is used for the consecutive events, we use HAVING + Past Participle for the fist action, such as: Having found a job, Brian celebrated with his wife to be. we can also use *after verb+ING*, such as: After finishing her dinner, she had a shower.
 
-When we use an \textit{-ing} clause to explain something or to say why somebody does something, the \textit{-ing} clause usually comes at the beginning of the sentence. Example: (1) Not having a car, she finds it difficult to get around (= because she doesn't have a car); (2) The TA600, a China-developed amphibious aircraft, passed a hydrodynamic test on Friday, marking a step forward toward its maiden flight.
+When we use an *-ing* clause to explain something or to say why somebody does something, the *-ing* clause usually comes at the beginning of the sentence. Example: (1) Not having a car, she finds it difficult to get around (= because she doesn't have a car); (2) The TA600, a China-developed amphibious aircraft, passed a hydrodynamic test on Friday, marking a step forward toward its maiden flight.
 
 # Parallel Construction
-Parallel ideas must be presented in parallel grammatical form, which means that each part of a sentence uses the same grammatical structure. Examples of Parallel Construction: \textit{between...and...}, \textit{both...and...}, \textit{either...or...}, \textit{neither...nor...}, and \textit{not only...but also...}
+Parallel ideas must be presented in parallel grammatical form, which means that each part of a sentence uses the same grammatical structure. Examples of Parallel Construction: *between...and...*, *both...and...*, *either...or...*, *neither...nor...*, and *not only...but also...*
 
 Parallel Construction in a Series： sentences with series, or lists, require particular attention to parallel construction. Example: This paper will address No Child Left Behind benchmarks, effective teaching strategies, and multimedia instructional aids.
 
 # Most Common Verb Tenses in Academic Writing
 According to corpus research, in academic writing, the three tenses used the most often are the simple present, the simple past, and the present perfect. The next most common tense is the future; some major assessments, course assignments, and the doctoral study proposal at Walden are written in this tense for a study that will be conducted in the future.
 
-\textbf{Simple present:} Use the simple present to describe a general truth or a habitual action. This tense indicates that the statement is generally true in the past, present, and future. Example: The hospital admits patients whether or not they have proof of insurance.
+- **Simple present:** Use the simple present to describe a general truth or a habitual action. This tense indicates that the statement is generally true in the past, present, and future. Example: The hospital admits patients whether or not they have proof of insurance.
 
-\textbf{Simple past:} Use the simple past tense to describe a completed action that took place at a specific point in the past (e.g., last year, 1 hour ago, last Sunday). In the example below, the specific point of time in the past is 1998. Example: Zimbardo (1998) researched many aspects of social psychology.
+- **Simple past:** Use the simple past tense to describe a completed action that took place at a specific point in the past (e.g., last year, 1 hour ago, last Sunday). In the example below, the specific point of time in the past is 1998. Example: Zimbardo (1998) researched many aspects of social psychology.
 
-\textbf{Present perfect:} Use the present perfect to indicate an action that occurred at a nonspecific time in the past. This action has relevance in the present. The present perfect is also sometimes used to introduce background information in a paragraph. After the first sentence, the tense shifts to the simple past. Example: Many researchers have studied how small business owners can be successful beyond the initial few years in business. They found common themes among the small business owners.
+- **Present perfect:** Use the present perfect to indicate an action that occurred at a nonspecific time in the past. This action has relevance in the present. The present perfect is also sometimes used to introduce background information in a paragraph. After the first sentence, the tense shifts to the simple past. Example: Many researchers have studied how small business owners can be successful beyond the initial few years in business. They found common themes among the small business owners.
 
-\textbf{Future:} Use the future to describe an action that will take place at a particular point in the future (at Walden, this is used especially when writing a proposal for a doctoral capstone study). Example: I will conduct semistructured interviews.
+- **Future:** Use the future to describe an action that will take place at a particular point in the future (at Walden, this is used especially when writing a proposal for a doctoral capstone study). Example: I will conduct semistructured interviews.
 
 ## APA Style Guidelines on Verb Tense
 APA calls for consistency and accuracy in verb tense usage (see APA 3.06). In other words, avoid unnecessary shifts in verb tense within a paragraph or in adjacent paragraphs to help ensure smooth expression.
