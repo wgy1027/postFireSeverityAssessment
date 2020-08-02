@@ -67,7 +67,7 @@ Get + past participle: They include such verbs as break, eat, choose and marry.
 for sure 一定，保准
 be on par with 与...同等，与...相提并论 be in line with 符合；与…一致
 in the wake of 紧紧跟随；随着…而来；作为…的结果；仿效 ensuing 因而发生的，随后的
-in a bid to 为了，力求，试图 in order to (可作为conjuction, adverb, proposition) 为了；以便；起见
+in a bid to 为了，力求，试图 in order to (可作为conjuction, adverb, proposition) 为了；以便；起见 aiming at 目的在于; 针对; 瞄准
 as of... 自……起；到…时候为止
 In all honesty 坦率地说
 It is a case in point. 这就是一个恰当的例子。
@@ -138,12 +138,12 @@ that is to say 换言之，即，也就是 namely (adv) 也就是；即是；换
 set aside 放在一边 undoubtedly 确实地，毋庸置疑的 considerable 大量的 considerably 相当地；非常地 generally 通常；普遍地，一般地 extensive 广泛的，大量的 ubiquitous 普遍存在的 be related to 与...相关 collective 集体的，共同的 individual 个人的；个别的；独特的 substantial 大量的；实质的 discrepancy 不符；矛盾；相差 consistency 一致性，相容性 consistent 始终如一的；一致的；坚持的 detriment 损害；伤害；损害物 pictorial 形象化的 grim reality 严峻的现实 aforementioned 上述的；前面提及的 in this context 关于这点；由此而论；由于这个原因；在这个背景下 anthropogenic 人为的 result in 导致；结果是 beget 产生；招致；引起 sidestep 回避 intractable 棘手的 analogue (n)类似物；(adj)类似的 criterion 标准；准则；规范；准据 paramount 最重要的；主要的 dissemination 宣传；散播 minimally 最低限度地 reinstate 使恢复；使复原 unremitting 不懈的；不间断的；坚忍的 fatuous 未经认真考虑的 spurious 假的；假造的 efficiency 效率；效能；功效 utility 实用；效用；功用 cost-effective 划算的 forge ahead 继续进行；取得进展 menstrual 每月的；一月一次的 biennial 两年一次的 extrapolate 推断；外推 hypothesized 假定，假设，猜测 coherent 连贯的，一致的；明了的；清晰的 discrimination 区别，辨别；识别力 along with 沿（顺）着；连同…一起；与…一道；随同…一起 combined with 连同；联合 coupled with 加上，外加；与…相结合 subjective 主观的；个人的 objective 客观的 causal mechanism 因果机制 set the stage for... 为...作好准备；为...奠定基础 leave behind 留下；遗留 in some instances 在某些情况下 serve to 用来；有助于；足以 tailored (adj)定制的 tailor 调整使适应 terminology 术语 as appropriate 视情况而定；酌情 logistics 后勤；后勤学 to some extent 在一定程度上 spread over 遍布于...；传遍；延续 integrate (vt.) 整合，(adj.) 整合的 amalgamation 融合，混合 aggregate 合计；集合体 so long as 只要 as long as 只要；和...一样长 as such 同样地；本身；就其本身而论 ephemeral 短暂的 correspond with 符合，一致；与……通信 at this stage 眼下 in-depth 彻底的，深入的 in tandem with 同...合作，与...串联 targeted 针对性的
 
 # optimization
-objective function 目标方程 proximal operator 近似算子 stopping criteria 停止判据 error tolerance 误差宽容度 lagrange function 拉格朗日方程 subproblem 子问题 Karush–Kuhn–Tucker (KKT) conditions KKT条件 update rule 更新规则 computational complexity analysis 计算复杂度分析
+objective function 目标方程 proximal operator 近似算子 stopping criterion 停止判据 error tolerance 误差宽容度 lagrange function 拉格朗日方程 subproblem 子问题 Karush–Kuhn–Tucker (KKT) conditions KKT条件 update rule 更新规则 computational complexity analysis 计算复杂度分析
 
 # machine learning
-training error 训练误差 Empirical Risk Minimization 经验风险最小化 corollary 推论 dependent variable 因变量 independent variable 自变量 independent and identically distributed 独立同分布的 frequency distribution 频数分布 benchmark 基准 metrics 度量 measure (n)度量；测量
+training error 训练误差 Empirical Risk Minimization 经验风险最小化 corollary 推论 dependent variable 因变量 independent variable 自变量 dummy variable 名义变数；虚变数 dichotomic variable 二分变量 independent and identically distributed 独立同分布的 frequency distribution 频数分布 benchmark 基准 criterion (复数criteria) 标准，条件 metrics 度量 measure (n)度量；测量
 
-under study 在研究中 study area 研究区域 data pre-processing 数据预处理 accentuate 加重 anisotropic [物] 各向异性的；[物] 非均质的 heterogeneous 混杂的；各种各样的；（化学）不均一的，多相的；（数学）不纯一的，参差的 homogeneous 同质的 homogeneity 同质；同种；同次性 monotonicity 单调性 anomaly 异常；不规则 abnormal 反常的，不规则的 trial and error 反复试验；尝试错误法 incipient 初期的；初始的；起始的 common practice 惯例 in practice 在实践中；实际上，事实上 at historically unprecedented rates 以前所未有的速率 heuristic 启发式的，探索的 state-of-the-art 最先进的；已经发展的；达到最高水准的 in the field 在实地 field measurement 现场测量；实地量度；野外测量 field data 现场数据；野外数据 ground data 地面数据 source database 源数据 in-situ data 现场数据 qualitatively 定性地 quantitatively 定量地 reliability 可靠性 availability 可用性；有效性；实用性 accessibility 可达性；可以得到 suitability 适用性 tractability 易处理性 per se 本身；自身 proactive management 前瞻性管理；预防性管理 best practice 最佳做法，最优方法；典范做法；最佳实践；最佳实务 dependent variable 因变量 independent variable 自变量 coefficient of determination 决定系数 rationale 基本原理 trend analysis 趋势分析 methodology 方法学；方法论 scenario 情景 multiple linear regression model 多元线性回归 comparative analysis 对比分析；比较分析 quantitative analysis 定量分析 polynomial 多项式的 logarithmic 对数的 parameter selection 参数选择 entry 条目
+under study 在研究中 study area 研究区域 data pre-processing 数据预处理 accentuate 加重 anisotropic [物] 各向异性的；[物] 非均质的 heterogeneous 混杂的；各种各样的；（化学）不均一的，多相的；（数学）不纯一的，参差的 homogeneous 同质的 homogeneity 同质；同种；同次性 monotonicity 单调性 anomaly 异常；不规则 abnormal 反常的，不规则的 trial and error 反复试验；尝试错误法 incipient 初期的；初始的；起始的 common practice 惯例 in practice 在实践中；实际上，事实上 at historically unprecedented rates 以前所未有的速率 heuristic 启发式的，探索的 state-of-the-art 最先进的；已经发展的；达到最高水准的 in the field 在实地 field measurement 现场测量；实地量度；野外测量 field data 现场数据；野外数据 ground data 地面数据 source database 源数据 in-situ data 现场数据 qualitatively 定性地 quantitatively 定量地 reliability 可靠性 availability 可用性；有效性；实用性 accessibility 可达性；可以得到 suitability 适用性 tractability 易处理性 per se 本身；自身 proactive management 前瞻性管理；预防性管理 best practice 最佳做法，最优方法；典范做法；最佳实践；最佳实务 dependent variable 因变量 independent variable 自变量 coefficient of determination 决定系数 rationale 基本原理 methodology 方法学；方法论 scenario 情景 multiple linear regression model 多元线性回归 trend analysis 趋势分析 statistical analysis 统计分析 comparative analysis 对比分析；比较分析 quantitative analysis 定量分析 polynomial 多项式的 logarithmic 对数的 parameter selection 参数选择 entry 条目
 
 figure legend 图解；附图说明 scatter plot 散点图
 
@@ -169,25 +169,25 @@ polygon 多边形
 vegetation index 植被指数
 
 # 地理学
-subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimatic condition 小气候特征 micrometeorology 微气候学 elevation 海拔；高程 digital elevation model 数字高程模型 slope 坡度 aspect 方位 at regional and global scales 在地区和全球尺度上 broad-scale 大尺度的
+subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 alpine 高山的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimate 小气候; 微气候 micrometeorology 微气候学 elevation 海拔；高程 digital elevation model 数字高程模型 slope 坡度 aspect 方位 at regional and global scales 在地区和全球尺度上 broad-scale 大尺度的
 
-landscape 景观 landform 地形；地貌  rugged 崎岖的 temperate ecosystem 温带生态系统 ecoregion 生态区域 biodiversity 生物多样性 ecological succession 生态演替 wildlife habitat 野生动物栖息地 forest succession 森林演替 species diversity 物种多样性 biome 生物种群 biomass 生物量 biotic 生物的 waterbody 水体 photosynthetic activity 光合作用，光合活性 photosynthesis 光合作用 meteorological condition 气候条件
+landscape 景观 landform 地形；地貌 temperate ecosystem 温带生态系统 ecoregion 生态区域 biodiversity 生物多样性 wildlife habitat 野生动物栖息地 ecological succession 生态演替 forest succession 森林演替 species diversity 物种多样性 species composition 物种组成 biome 生物种群 biomass 生物量 biotic 生物的 waterbody 水体 photosynthetic activity 光合作用，光合活性 photosynthesis 光合作用 meteorological condition 气候条件
 
-deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 woodland 林地；森林 pristine forest 原始森林 secondary forest 次生林 pasture 草地；牧场 wetland 湿地 wildland 荒地 upland 山地；高地 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段  stand density 林分密度 stratify 分层；成层 tree thickness 树皮厚度
+deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 woodland 林地；森林 pristine forest 原始森林 secondary forest 次生林 wetland 湿地 wildland 荒地 upland 山地；高地 pasture 草地；牧场 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段  stand density 林分密度 stratify 分层；成层 tree thickness 树皮厚度 breast height 胸高
 
 spruce 云杉 fir 冷杉；枞木 taiga 针叶树林地带；北方针叶林 steppe 大草原 coniferous 针叶的；结球果的；松柏科的 eucalypt 桉树 pitch pine 北美脂松
 
 canopy structure 冠层结构 overstory 上层林冠 understory 林下叶层
 
-composite 合成物 population [统计学]总体；[生物] 种群，[生物] 群体；全体居民；人口 foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 tissue 组织 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring 年轮 acre 英亩 hectare 公顷 flooding 洪水 drought 干旱 landslide 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 soil moisture-holding capacity 土壤持水能力 precipitation 降水 fuel load 可燃物装载量 fuel type 可燃物类型 forested 草木丛生的 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文地理学 hydro-geomorphological 水文地貌 physiological 生理学的，生理的 drainage network 河网
+population [统计学]总体；[生物] 种群，[生物] 群体；全体居民；人口 foliage 叶子（总称）；植物 botany 植物学 flora 植物区系；植物群 tree trunk 树干 stem 干；茎 bole 树干 root 树根 root collar 根茎 rhizome 根茎；[植] 地下茎 tissue 组织 ligneous 木质的 snag 断枝 organic soil 有机质土 substrate 基质 duff 半腐层 herbage 草本植物 herbaceous plant 草本植物 seedling 树苗；秧苗，幼苗 sapling 树苗 stratum (复数strata) 层；地层 perimeter 周长 periphery 外围，圆周 diameter 直径 annual ring 年轮 growth ring 年轮 tree-ring 年轮 acre 英亩 hectare (viz. ha) 公顷 flooding 洪水 drought 干旱 landslide 滑坡 soil erosion 水土流失 water repellency 拒水性；斥水性；疏水性 hydrophobicity [分子生物] 疏水性 soil moisture-holding capacity 土壤持水能力 precipitation 降水 fuel load 可燃物装载量 fuel type 可燃物类型 forested 草木丛生的 deposition 沉积物 perennial 多年生的；常年的；四季不断的 nutrient availability 养分有效性 soil characteristics 土壤特性 organic content 有机质含量；有机物含量 water content 含水量 chlorophyll 叶绿素 abiotic 非生物的，无生命的 biotic 生物的；有关生命的 net primary productivity 净初级生产力 hydrology 水文学 hydrography 水文地理学 hydro-geomorphological 水文地貌 physiological 生理学的，生理的 drainage network 河网
 
 cobble 鹅卵石，圆石
 
 geographic (geograpical) 地理的，地理学的 phenology 物候学 topographical 地质的；地形学的 convection 对流；传送 evapotranspiration 蒸散 terrestrial biosphere  陆地生物圈 ecosystem 生态系统 climax community 顶极群落 carbon sink 碳汇 carbon fixation 碳固定；固碳作用 carbon assimilation 碳同化 carbon sequestration 碳固定；碳封存
 
-North America Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的
+North America 北美 Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的 rugged 崎岖的
 
-plant mortality 植物死亡率 basal area 断面积；底面积；茎占面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass 残骸 resilience 恢复力；顺应力 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 windthrow 风倒木；风倒 slash-and-burn 刀耕火种的 extinction 灭绝 extinct 使熄灭 extinguish 熄灭；压制 suppress 抑制 firefight firefighter 消防队员  time of residence 停留时间 time lapse 时间流逝；时间推移
+plant mortality 植物死亡率 basal area 断面积；底面积；茎占面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass 残骸 resilience 恢复力；顺应力 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 windthrow 风倒木；风倒 slash-and-burn 刀耕火种的 extinction 灭绝 extinct 使熄灭 extinguish 熄灭；压制 suppress 抑制 firefighter 消防队员 time of residence 停留时间 time lapse 时间流逝；时间推移
 
 Israel 以色列
 
