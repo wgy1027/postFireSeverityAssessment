@@ -174,20 +174,19 @@ When an adverb modifies a verb, it can often be categorized as one of the follow
 When an adverb consists of more than one word, it is known as an adverbial phrase, e.g., He ran like the wind. If this phrase contains its own subject and verb, it's called an adverbial clause, e.g., He ran like his life depended on it.
 
 Adverbial phrases and clauses can usually be categorised as one of the following:
-(1) Adverbs of Time
-(2) Adverbs of Place
-(3) Adverbs of Manner
-That dog is walking around like he owns the place.
-(4) Adverbs of Degree
-(5) Adverbs of Condition, example, I will come with you provided my suit is back from the dry cleaners.
-(6) Adverbs of Concession
-(7) Adverbs of Reason
+- Adverbs of Time
+- Adverbs of Place
+- Adverbs of Manner: Such as, that dog is walking around like he owns the place.
+- Adverbs of Degree
+- Adverbs of Condition: For example, I will come with you provided my suit is back from the dry cleaners.
+- Adverbs of Concession
+- Adverbs of Reason
 
 The properties of an adverbial clause:
-(1) An adverbial clause is an adjunct, which means it can be removed without the sentence being grammatically wrong.
-(2) An adverbial clause is a dependent clause, which means it cannot stand alone as meaningful sentence in its own right.
-(3) An adverbial clause usually starts with a subordinating conjunction (e.g., "although," "because," "if," "until," "when")
-(4) An adverbial clause will contain a subject and a verb, which makes it a clause as opposed to a phrase.
+- An adverbial clause is an adjunct, which means it can be removed without the sentence being grammatically wrong.
+- An adverbial clause is a dependent clause, which means it cannot stand alone as meaningful sentence in its own right.
+- An adverbial clause usually starts with a subordinating conjunction (e.g., "although," "because," "if," "until," "when")
+- An adverbial clause will contain a subject and a verb, which makes it a clause as opposed to a phrase.
 
 # Preposition
 ## Preposition Basics
