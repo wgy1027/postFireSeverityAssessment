@@ -67,10 +67,6 @@ It is articulated as a voiced approximant at the velum and at the same time is a
 - The back of the tongue is pulled back and raised and comes close to the soft palate. This position is similar to that of vowel [u:], but the back of the tongue is closer to the soft palate.
 - The vocal cords then vibrate and the lips are retracted to the position of the next sound in the word.
 - Because the tongue has to move up towards the soft palate, the root of the tongue also moves and narrows a little bit the pharynx. This gives the sound a characteristic timbre.
-Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ].
+Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ]. In the video below Rachel explains the production of this sound and gives examples.
+[![Rachel's English: How to Pronounce the W consonant](http://img.youtube.com/vi/jt5huPbR7zU/0.jpg)](http://www.youtube.com/watch?v=jt5huPbR7zU)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xUbIhCopqEM/0.jpg)](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=xUbIhCopqEM)
-
-[![Rachel](http://img.youtube.com/vi/xUbIhCopqEM/0.jpg)](http://www.youtube.com/watch?v=xUbIhCopqEM)
-
-https://www.youtube.com/watch?v=xUbIhCopqEM
