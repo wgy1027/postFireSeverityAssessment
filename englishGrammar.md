@@ -71,7 +71,7 @@ With countable plural nouns and with uncountable nouns (e.g., printers, flashdri
 Note the difference between few/little (almost none) and a few/a little (some, but not many/much). Few/little tend to have a negative connotation. A few/a little tend to be more positive.
 
 # Modifier
-A modifier is a word, phrase, or clause that modifies—that is, gives information about—another word in the same sentence. A modifier can be an adjective (a word that modifies a noun), an adverb (a word that modifies a verb, adjective, or another adverb), a phrase or clause.
+A modifier is a word, phrase, or clause that modifies—that is, gives information about—another word in the same sentence. A modifier can be an adjective (a word that modifies a noun), an adverb (a word that modifies a verb, adjective, or another adverb), a adjective or adverbial phrase, or adjective or adverbial clause.
 
 ## Dangling Modifiers
 When a modifier is not modifying a specific word, we call it a dangling modifier.
@@ -83,7 +83,7 @@ Revision 1: After consulting a selection of current publications, I determined t
 Revision 2: According to the selection of current publications, research in this area has been sparse.
 
 # Adjective
-A descriptive adjective will usual fit into one of the following categories:
+A descriptive adjective will usually fit into one of the following categories:
 | Category    |    Example                               |
 | ----------- | ---------------------------------------- |
 | Appearance  |   attractive, burly, clean, dusty        |
@@ -138,21 +138,12 @@ A predicate adjective is an adjective that follows a linking verb and modifies (
 
 # Adjective Phrase
 An adjective phrase is a group of words headed by an adjective that modifies a noun or a pronoun. In an adjective phrase, the head adjective can be at the start, the middle or the end of the phrase.
-Example: (1) I am \textit{sad about the result}; (2) I am \textit{awfully sad about the result}; (3) I am \textit{very sad}.
+Example: (1) I am \textit{sad about the result}; (2) I am *awfully sad about the result*; (3) I am *very sad*.
 The other words inside the adjective phrase are known as the dependents of the head adjective, which are typically adverbs ("awfully" and "very") or prepositional phrases, such as the "awfully" and "about the result" in the aboving second sentence.
 
-The adjective phase can be classified into two cagetories: "attributive adjective" and predicative adjective.
-
-(1) Attributive Adjective
-
-An attributive adjective sits inside the noun phrase of the noun it modifies.
-Example: The \textit{beautifully carved} frames are priceless.
-
-(2) Predicative Adjective
-
-A predicative adjective sits outside the noun phrase of the noun it modifies.
-Typically, a predicative adjective is linked its noun with a linking verb (e.g., *to be*, *to look*, *to smell* , and *to taste*).
-Example: The frames are *beautifully carved* and priceless.
+The adjective phase can be classified into two cagetories: attributive adjective and predicative adjective.
+- **Attributive Adjective:** An attributive adjective sits inside the noun phrase of the noun it modifies. Example: The \textit{beautifully carved} frames are priceless.
+- **Predicative Adjective:** A predicative adjective sits outside the noun phrase of the noun it modifies. Typically, a predicative adjective is linked its noun with a linking verb (e.g., *to be*, *to look*, *to smell* , and *to taste*). Example: The frames are *beautifully carved* and priceless.
 
 ## adjective acting as the post-modifier
 Postpositive adjectives are most common with pronouns. Such as, someone interesting, those present, something evil.
@@ -173,7 +164,7 @@ Postpositive adjectives are most common with pronouns. Such as, someone interest
 
 # Adverb
 An adverb is one or many words used to modify a verb, an adjective, or another adverb.
-Example: (1) She swims extremely quickly; (2) He ran \textit{at 10 miles per hour}; (3) He ran \textit{when the police arrived}; (4) He ran \textit{to the shops}; (5)He ran \textit{every day}; (6) He ran \textit{quicker than me}.
+Example: (1) She swims extremely quickly; (2) He ran *at 10 miles per hour*; (3) He ran *when the police arrived*; (4) He ran *to the shops*; (5)He ran *every day*; (6) He ran *quicker than me*.
 
 When an adverb modifies a verb, it can often be categorized as one of the following: Adverb of Manner, Adverb of Time, Adverb of Place, and Adverb of Degree.
 
