@@ -187,7 +187,7 @@ geographic (geograpical) 地理的，地理学的 phenology 物候学 topographi
 
 North America 北美 Siberian 西伯利亚的 Mediterranean (n)地中海 (adj)地中海的 continental 大陆的 watershed（美）流域 riparian 河边的，水滨的 canyon 峡谷 rugged 崎岖的 level terrain 平坦地势
 
-controlled burn (viz. prescribed burn) ?? plant mortality 植物死亡率 basal area 断面积；底面积；茎占面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass 残骸 resilience 恢复力；顺应力 revitalization 再生 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 windthrow 风倒木；风倒 slash-and-burn 刀耕火种的 extinction 灭绝 extinct 使熄灭 extinguish 熄灭；压制 suppress 抑制 firefighter 消防队员 residence time of fire 火灾停留时间 time lapse 时间流逝；时间推移 fire intensity 火灾强度，火烧强度；[林][安全] 火强度 firebreak 防火线；防火带 rate of spread 蔓延速率 fire triangle 火三角 
+controlled burn (viz. prescribed burn) ?? plant mortality 植物死亡率 basal area 断面积；底面积；茎占面积 scorch 焦痕；烧焦 char 炭 ash 灰烬 burn severity 火烧严重度 fire disturbance 火灾干扰 burned area 过火面积 extent 程度 pathogen 病原体 pest 害虫 dieback 顶梢枯死 carcass 残骸 resilience 恢复力；顺应力 revitalization 再生 smoldering 阴燃；闷烧 mass wasting 物质坡移 ocular estimation and judgment 目测和判断 salvage logging 除害性砍伐 crown fire 林冠火 windthrow 风倒木；风倒 slash-and-burn 刀耕火种的 extinction 灭绝 extinct 使熄灭 extinguish 熄灭；压制 suppress 抑制 firefighter 消防队员 residence time of fire 火灾停留时间 time lapse 时间流逝；时间推移 fire intensity 火灾强度，火烧强度；[林][安全] 火强度 firebreak 防火线；防火带 spread rade 蔓延速率 fire triangle 火三角 
 
 Israel 以色列
 
