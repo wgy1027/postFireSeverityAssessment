@@ -7,6 +7,7 @@ For more than four decades, Canadian Forest Service researchers have been develo
 - Canadian Forest Fire Weather Index System (FWI) — a system used across Canada to assess day-to-day changes in the potential for fires to ignite and spread;
 - Canadian Forest Fire Behavior Prediction (FBP) System — a system used to estimate potential fire spread rate, fuel consumption and fire intensity for a range of forest fuel types in Canada;
 - Canadian Fire Effects Model (CanFIRE) — an extension model of the CFFDRS used to analyze the immediate physical effects of fire on stands and the resulting ecological effects on forest vegetation.
+
 As well, government and university researchers have developed several fire occurrence prediction models for predicting the number of lightning-caused and human-caused forest fires in a given area.
 
 
