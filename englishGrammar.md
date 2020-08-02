@@ -388,58 +388,36 @@ Sometimes both the -ing and the past participle (-ed) forms can function as adje
 # Parenthesis
 A parenthesis, sometimes called an "interrupter", is a word, phrase, or clause inserted into a sentence as an explanation or afterthought. A parenthesis is usually offset with parentheses (i.e., round brackets), commas, or dashes. These are called parenthetical punctuation marks. When a parenthesis is removed, the surrounding text is still grammatically sound. In a sentence, parenthesis mainly plays the role of explanation, explanation and summary, etc. In addition, it can also be used to express the speaker's attitude and views, to emphasize, to attract the attention of others, to change the topic, to connect the preceding and the following.
 
-(1) Parenthesis denoted as by adverb
-such as: certainly, surely, indeed, however, fortunately, luckily, probably, personally.
+- **Parenthesis denoted as by adverb** Such as, certainly, surely, indeed, however, fortunately, luckily, probably, personally. For example: (a) Certainly, pets can help children develop friendship skills; (b) Yes, indeed, I intend to go.
 
-For example: (a) Certainly, pets can help children develop friendship skills; (b) Yes, indeed, I intend to go.
+- **Parentesis denoted by the prepositional phrase** Such as: in fact，in one’s opinion, of course，above all /first of all, by the way. For example: (a) In fact, those people have been promoted; (2) The only honest answer is, of course, yes.
 
-(2) Parentesis denoted by the prepositional phrase
-Such as: in fact，in one’s opinion, of course，above all /first of all, by the way.
+- **Parentesis denoted by infinitive** Such as: to be frank, to tell(you )the truth, to be sure. For example: To be frank, I don't like him.
 
-For example: (a) In fact, those people have been promoted; (2) The only honest answer is, of course, yes.
+- **Parentesis denoted by V-ing (gerund)** Such as: generally speaking, generally considering, strictly speaking, judging from/by. Such as: Generally speaking, I am very satisfied with this job.
 
-(3) Parentesis denoted by infinitive
-Such as: to be frank, to tell(you )the truth, to be sure.
+- **Parentesis denoted by the clause** Such as: I think, I hope, I’m afraid, What’s more, What’s worse, You see. For example: (a) You can win the game, I think. (b) Well, you see, you shouldn't really feel that way about it.
 
-For example: To be frank, I don't like him.
+- **Parenthesis donoted by the adjective or adjective phrase** Such as: sure enough, worse still, true, funny, strange to say, needless to say, most important of all. For example: (a) Sure enough, he came out with all the news we wanted. (b) True，it would be too bad. (c) Wonderful，we have won again. (d) All this, needless to say, had been culled second-hand from radio reports.
 
-(4) Parentesis denoted by V-ing (gerund)
-Such as: generally speaking, generally considering, strictly speaking, judging from/by
+- **Parenthesis denoted by the Past participle** For example: Painted white, we like the house better. 注意：之所以称它为插入语，是由于这种过去分词是独立的，没有逻辑主语。
 
-Such as: Generally speaking, I am very satisfied with this job.
-
-(5) Parentesis denoted by the clause
-Such as: I think, I hope, I’m afraid, What’s more, What’s worse, You see.
-
-For example: (a) You can win the game, I think. (b) Well, you see, you shouldn't really feel that way about it.
-
-(6) Parenthesis donoted by the adjective or adjective phrase
-Such as: sure enough, worse still, true, funny, strange to say, needless to say, most important of all.
-
-For example: (a) Sure enough, he came out with all the news we wanted. (b) True，it would be too bad. (c) Wonderful，we have won again. (d) All this, needless to say, had been culled second-hand from radio reports.
-
-(7) Parenthesis denoted by the Past participle
-Painted white, we like the house better.
-注意：之所以称它为插入语，是由于这种过去分词是独立的，没有逻辑主语。
-
-(8) Parenthesis introduced with the round brackets or dashes
-
-Such as: (a) He was (strange as it seems) an excellent sportsman; (b) He was -to me at least, if not to you- a figure that was worth having pity on.
+- **Parenthesis introduced with the round brackets or dashes** For example: (a) He was (strange as it seems) an excellent sportsman; (b) He was -to me at least, if not to you- a figure that was worth having pity on.
 
 # Subject–Verb Agreement Rules
 Subjects and verbs must agree in number.
-(1) If the subject is singular, the verb must be singular too.
-(2) If the subject is plural, the verb must also be plural.
-(3) When the subject of the sentence is composed of two or more nouns or pronouns connected by and, use a plural verb.
-(4) When there is one subject and more than one verb, the verbs throughout the sentence must agree with the subject.
-(5) When a phrase comes between the subject and the verb, remember that the verb still agrees with the subject, not the noun or pronoun in the phrase following the subject of the sentence.
-(6) When two or more singular nouns or pronouns are connected by or or nor, use a singular verb.
-(7) When a compound subject contains both a singular and a plural noun or pronoun joined by or or nor, the verb should agree with the part of the subject that is closest to the verb. This is also called the rule of proximity.
-(8) The words each, each one, either, neither, everyone, everybody, anyone, anybody, nobody, somebody, someone, and no one are singular and require a singular verb.
-(9) Noncount nouns take a singular verb.
-(10) Some countable nouns in English such as earnings, goods, odds, surroundings, proceeds, contents, and valuables only have a plural form and take a plural verb.
-(11) In sentences beginning with there is or there are, the subject follows the verb. Since there is not the subject, the verb agrees with what follows the verb.
-(12) Collective nouns are words that imply more than one person but are considered singular and take a singular verb. Some examples are group, team, committee, family, and class. However, the plural verb is used if the focus is on the individuals in the group. This is much less common.
+- If the subject is singular, the verb must be singular too.
+- If the subject is plural, the verb must also be plural.
+- When the subject of the sentence is composed of two or more nouns or pronouns connected by and, use a plural verb.
+- When there is one subject and more than one verb, the verbs throughout the sentence must agree with the subject.
+- When a phrase comes between the subject and the verb, remember that the verb still agrees with the subject, not the noun or pronoun in the phrase following the subject of the sentence.
+- When two or more singular nouns or pronouns are connected by or or nor, use a singular verb.
+- When a compound subject contains both a singular and a plural noun or pronoun joined by or or nor, the verb should agree with the part of the subject that is closest to the verb. This is also called the rule of proximity.
+- The words each, each one, either, neither, everyone, everybody, anyone, anybody, nobody, somebody, someone, and no one are singular and require a singular verb.
+- Noncount nouns take a singular verb.
+- Some countable nouns in English such as earnings, goods, odds, surroundings, proceeds, contents, and valuables only have a plural form and take a plural verb.
+- In sentences beginning with there is or there are, the subject follows the verb. Since there is not the subject, the verb agrees with what follows the verb.
+- Collective nouns are words that imply more than one person but are considered singular and take a singular verb. Some examples are group, team, committee, family, and class. However, the plural verb is used if the focus is on the individuals in the group. This is much less common.
 
 ## Transitive and Intransitive Verbs
 ### Transitive Verbs
@@ -452,67 +430,63 @@ An intransitive verb does not take an object. However, there may be other inform
 
 # English Subjunctive
 ## 虚拟语气的十大句型
-一、虚拟条件句:
+### 虚拟条件句:
 条件状语从句是非真实情况，在这种情况下要用虚拟语气。
-1．条件从句与现在事实不一致，其句型为：
-句型1：If ＋主语＋过去时，主语＋ should (could, would, 或might) ＋动词原形
-(1) If I were you, I would study hard.
-(2) If it rained, I would not be here now.
-2．条件从句与过去事实不一致，其句型为：
-句型2：If ＋主语＋had＋过去分词，主语＋ should（could, would, 或might）＋ have ＋过去分词
-(3) If the doctor had come last night, the boy would have been saved.
-(4) If I had not studied hard, I would have failed in the exam last term.
-3．条件从句与将来事实不一致，其句型为：
-句型3：If ＋主语＋过去时/ should ＋动词原形/ were to＋动词原形，主语＋ should (could, would, 或might) ＋动词原形
-(5) If it should rain tomorrow, we would stay at home.
-(6) If I were to go to the moon one day, I could see it with my own eyes.
-(7) If you missed the film tonight, you would feel sorry.
+- 条件从句与现在事实不一致，其可以表示为**句型1**：If ＋主语＋过去时，主语＋ should (could, would, 或might) ＋动词原形
+  - If I were you, I would study hard.
+  - If it rained, I would not be here now.
+- 条件从句与过去事实不一致，其可以表示为**句型2**：If ＋主语＋had＋过去分词，主语＋ should（could, would, 或might）＋ have ＋过去分词
+  - If the doctor had come last night, the boy would have been saved.
+  - If I had not studied hard, I would have failed in the exam last term.
+- 条件从句与将来事实不一致，其可以表示为句型3：If ＋主语＋过去时/ should ＋动词原形/ were to＋动词原形，主语＋ should (could, would, 或might) ＋动词原形
+  - If it should rain tomorrow, we would stay at home.
+  - If I were to go to the moon one day, I could see it with my own eyes.
+  - If you missed the film tonight, you would feel sorry.
 
 注意问题：
 1．If条件句中绝对不可以出现would。
-2．根据句中的时间状语，有时可能出现“混合虚拟”的情况，即主句可能是现在的情况，条件句也许是发生在过去的情况，但都要遵守上述句型。如：
-(8) If you had studied hard before, you would be a college student now and you would graduate from a college in four years’ time.
-3．条件句中如果出现were, had, should可省去if，将主语与这些词倒装。例如：
-(9)  Had the doctor come last night, the boy would have been saved.
-(10) Were I to go to the moon one day, I would see it with my own eyes.
-(11) Should it rain tomorrow, we would stay at home.
+2．根据句中的时间状语，有时可能出现“混合虚拟”的情况，即主句可能是现在的情况，条件句也许是发生在过去的情况，但都要遵守上述句型。如：If you had studied hard before, you would be a college student now and you would graduate from a college in four years’ time.
+3．条件句中如果出现were, had, should可省去if，将主语与这些词倒装。例如：(1) Had the doctor come last night, the boy would have been saved. (2) Were I to go to the moon one day, I would see it with my own eyes. (3) Should it rain tomorrow, we would stay at home.
 
-二、名词性虚拟语气：
-在表示命令(inist等)、建议(suggest等)、要求(demand等)、惊叹(surprise等)时的名词性从句中需用虚拟语气，基本句型：
-句型4：主语＋（should）＋动词原形
-(12) Mother insisted that John (should) go to bed at 9 o’clock.（宾语从句）
-(13) It was required that the crops (should) be harvested at once.（主语从句）
-(14) It is surprising that she shouldn’t pass the math exam. （主语从句）
-(15) The suggestion that he (should) be invited was rejected.（同位语从句）
-(16) Their demand is that their wages (should) be increased.（表语从句）
+### 名词性虚拟语气：
+在表示命令(inist等)、建议(suggest等)、要求(demand等)、惊叹(surprise等)时的名词性从句中需用虚拟语气，其句型可以表示为**句型4**：主语＋（should）＋动词原形
+举例：(1) Mother insisted that John (should) go to bed at 9 o’clock.（宾语从句）
+(2) It was required that the crops (should) be harvested at once.（主语从句）
+(3) It is surprising that she shouldn’t pass the math exam. （主语从句）
+(4) The suggestion that he (should) be invited was rejected.（同位语从句）
+(5) Their demand is that their wages (should) be increased.（表语从句）
 注意：在这种句子中绝不可以出现would,must, could等。
 
-三、虚拟语气在一些特殊词中的使用或含蓄条件句：
-句型5：wish后的宾语从句
-与现在愿望不一致：主语＋过去时；
-与过去愿望不一致：主语＋ had ＋过去分词/ could ＋ have＋过去分词；
-与未来愿望不一致：主语＋ would / could ＋动词原形。如；
-(17) I wish I were you.
-(18) I wish I had visited the White House when I was in the States.
-(19) I wish I could meet you tomorrow at the party.
-句型6：It’s time句型（当It’s time后用that从句时应该为“主语＋ should ＋动词原形”或“主语＋过去时”）
-(20) It’s time that you went / should go to school.
-句型7：If only引起的感叹句相当于“How I wish ＋宾语从句”
-(21) If only he could come! 他要能来就好了。
-(22) If only I had known the answer! 我要早知答案就好了。
-句型8：would rather, as if（though）引导的句子也需使用虚拟，表示过去的情况用过去完成时，表示现在与将来的情况
+### 虚拟语气在一些特殊词中的使用或含蓄条件句：
+**句型5**：wish后的宾语从句.
+与现在愿望不一致时，采用"主语＋过去时"；
+与过去愿望不一致时，采用"主语＋ had ＋过去分词/ could ＋ have＋过去分词”；
+与未来愿望不一致时，采用"主语＋ would / could ＋动词原形"。举例：
+(1) I wish I were you.
+(2) I wish I had visited the White House when I was in the States.
+(3) I wish I could meet you tomorrow at the party.
+
+**句型6**：It’s time句型（当It’s time后用that从句时应该为“主语＋ should ＋动词原形”或“主语＋过去时”）
+(1) It’s time that you went / should go to school.
+**句型7**：If only引起的感叹句相当于“How I wish ＋宾语从句”。举例：
+(1) If only he could come! 他要能来就好了。
+(2) If only I had known the answer! 我要早知答案就好了。
+
+**句型8**：would rather, as if（though）引导的句子也需使用虚拟，表示过去的情况用过去完成时，表示现在与将来的情况
 用过去时。
-(23) I’d rather you posted the letter right away.
-(24) I’d rather you had returned the book yesterday.
-(25) She loves the children as if they were hers.
-(26) Alan talked about Rome as if he had been there.
-句型9：without, but, but for, but that, otherwise引起的短语或句子常暗含着虚拟条件。
-(27) Without you, I would never know him.
-(28) But for your cooperation, we wouldn’t have done the work so well.
-(29) But that she was afraid, she would have said no.
-(30) I would be most glad to help you, but I’ am busy now.
-(31) I should have come to the party yesterday, but I was busy.
-(32) I am busy now; otherwise I would do you the favor!
-句型10：If it were not for ... / If it hadn’t been for ... (要不是因为……)，其后面的主句也需使用虚拟。
-(33) If it were not for his help, I wouldn’t go home now.
-(34) If it hadn’t been for the determined captain, all the passengers on the board wouldn’t have been saved.
+(1) I’d rather you posted the letter right away.
+(2) I’d rather you had returned the book yesterday.
+(3) She loves the children as if they were hers.
+(4) Alan talked about Rome as if he had been there.
+
+**句型9**：without, but, but for, but that, otherwise引起的短语或句子常暗含着虚拟条件。
+(1) Without you, I would never know him.
+(2) But for your cooperation, we wouldn’t have done the work so well.
+(3) But that she was afraid, she would have said no.
+(4) I would be most glad to help you, but I’ am busy now.
+(5) I should have come to the party yesterday, but I was busy.
+(6) I am busy now; otherwise I would do you the favor!
+
+**句型10**：If it were not for ... / If it hadn’t been for ... (要不是因为……)，其后面的主句也需使用虚拟。
+(1) If it were not for his help, I wouldn’t go home now.
+(2) If it hadn’t been for the determined captain, all the passengers on the board wouldn’t have been saved.
