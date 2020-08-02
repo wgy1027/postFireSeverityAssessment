@@ -69,7 +69,7 @@ In fricative consonants there is a partial obstruction of the air produced by pl
 - **Glottal sounds:** The frication is achieved by putting the vocal folds in a near-close position and letting the air go through them. [h] is the only fricative glottal sound in English.
 
 ### Labio-dental sounds [f] and [v]
-The upper front teeth come close to the bottom lip, while the tongue is in rest position. The airstream is forced through the slit formed by those two articulators; see Figure 21. Consonant [f] is voiceless and consonant sound [v] is voiced. Spellings f, ff, ph, and gh are frequently associated to sound [f]; see the following examples: first, coffee, photo, or cough. The only spelling associated to [v] is letter v.
+The upper front teeth come close to the bottom lip, while the tongue is in rest position. The airstream is forced through the slit formed by those two articulators; see the following picture and video. Consonant [f] is voiceless and consonant sound [v] is voiced. Spellings f, ff, ph, and gh are frequently associated to sound [f]; see the following examples: first, coffee, photo, or cough. The only spelling associated to [v] is letter v.
 
 <p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-f-v.jpg"></p>
 
@@ -78,6 +78,9 @@ Figure 21:	Manner of articulation of labio-dental fricatives [f] and [v].
 [![Rachel's English: How to Pronounce F and V consonants](http://img.youtube.com/vi/EBYpWd0oFjM/0.jpg)](http://www.youtube.com/watch?v=EBYpWd0oFjM)
 
 Video. Rachel's English: How to Pronounce F and V consonants
+
+## Dental sounds [∂], [∂̞] and [ɵ]
+The tip of the tongue is placed between the upper and bottom front teeth, making loose contact. The air is forced its way through the narrow passage formed by the teeth and tongue, which causes the frication characteristic of these sounds. There is a voiceless sound [ɵ], and two voiced allophones [∂] and [∂̞]. The latter is used when a word is not fully enunciated (in particular in the context of consonant reduction; see [AE92]). In [∂̞] the tongue does not go through the teeth fully, but just stays behind the teeth and presses them a little bit. This allophone is called a dental approximant. In the video in Figure 23 this sound is covered. Both phonemes /ɵ/ and /∂/ are associated to spelling th, as in thanks[ɵæɳks], these[∂i:z], or Tell me the time[thelmi:∂̞əthaɪm] (definite article the is often pronounced as the dental approximant).
 
 ## Affricate consonants ([ʧ] and [ʤ])
 An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
