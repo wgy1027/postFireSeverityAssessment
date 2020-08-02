@@ -69,4 +69,6 @@ It is articulated as a voiced approximant at the velum and at the same time is a
 - Because the tongue has to move up towards the soft palate, the root of the tongue also moves and narrows a little bit the pharynx. This gives the sound a characteristic timbre.
 Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ].
 
-![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/jt5huPbR7zU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xUbIhCopqEM/0.jpg)](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=xUbIhCopqEM)
+
+https://www.youtube.com/watch?v=xUbIhCopqEM
