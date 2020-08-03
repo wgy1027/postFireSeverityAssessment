@@ -63,9 +63,11 @@ Sound [i:] is a long close front unrounded tense vowel. It appears in words such
 
 Common spellings for sound [i:] are: ee and ea, as in bee[bi:], or, as in easy['i:zi]; less common spellings are e, as in these[ði:z]; ey, as in key[ki:]; i, as in kilo['ki:loʊ]; eo, as in people['pi:pl].
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_i.png"></p>  [![Rachel's English: How to Pronounce EE [i] Vowel](http://img.youtube.com/vi/_HuIAwQxEM4/0.jpg)](http://www.youtube.com/watch?v=_HuIAwQxEM4)
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_i.png"></p>
 
-Fig. Manner of articulation of alveolar stops i. Video. Rachel's English: How to Pronounce EE [i] Vowel.
+Fig. Manner of articulation of alveolar stops [i].
+
+For the method to pronounce the [i] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=_HuIAwQxEM4).
 
 ## Pronunciation of [ɪ]
 Sound [ɪ] is a short near-close near-front unrounded lax vowel, as in it[ɪt], hit[hɪt].
@@ -77,17 +79,15 @@ Sound [ɪ] is a short near-close near-front unrounded lax vowel, as in it[ɪt], 
 
 The commonest spellings for sound [ɪ] is i, as in six[sɪks], cinema['sɪnəmə], or dinner['dɪnər]; a less common spelling is u, as in busy['bɪzi].
 
-[![Rachel's English: How to Pronounce IH [ɪ] vowel](http://img.youtube.com/vi/-BAYrt2oER8/0.jpg)](http://www.youtube.com/watch?v=-BAYrt2oER8)
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɪ.png"></p>
 
-Video. Rachel's English: How to Pronounce IH [ɪ] vowel.
+Fig. Manner of articulation of alveolar stops [ɪ].
+
+For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=-BAYrt2oER8).
 
 **The tense/relax distinction for [i:] and [ɪ]**
 
-In the next video the difference between [i:] and [ɪ] in terms of the distinction tense/lax is explained.
-
-[![Rachel's English: the difference between [i:] and [ɪ]](http://img.youtube.com/vi/qq7Rmbt7_qQ/0.jpg)](http://www.youtube.com/watch?v=qq7Rmbt7_qQ)
-
-Video. Rachel's English: the difference between [i:] and [ɪ].
+For the difference between [i:] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
 
 ## Pronunciation of [u:]
 Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju:z].
@@ -99,9 +99,7 @@ Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju
 
 Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
 
-[![Rachel's English: How to Pronounce the OO [u:] Vowel](http://img.youtube.com/vi/klJQmJpmjdc/0.jpg)](http://www.youtube.com/watch?v=klJQmJpmjdc)
-
-Video. Rachel's English: How to Pronounce the OO [u:] Vowel.
+For the method to pronounce the [u:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=klJQmJpmjdc).
 
 ## Pronunciation of [ʊ]
 Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], or book[bʊk].
@@ -113,9 +111,7 @@ Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], o
 
 Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
 
-[![Rachel's English: How to Pronounce UH as in PULL [ʊ] vowel](http://img.youtube.com/vi/VrIPpIfC8e4/0.jpg)](http://www.youtube.com/watch?v=VrIPpIfC8e4)
-
-Video. Rachel's English: How to Pronounce UH as in PULL [ʊ] vowel.
+For the method to pronounce the [ʊ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VrIPpIfC8e4)
 
 ## Pronunciation of [ɑ:]
 Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
@@ -127,9 +123,7 @@ Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or p
 
 Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈfɑ:rðər]
 
-[![Rachel's English: How to Pronounce [ɑ] AH vowel](http://img.youtube.com/vi/TWO6g9x-TgI/0.jpg)](http://www.youtube.com/watch?v=TWO6g9x-TgI)
-
-Video. Rachel's English: How to Pronounce [ɑ] AH vowel.
+For the method to pronounce the [ɑ] vowel, please refer to the video in [Rachel's English]((http://www.youtube.com/watch?v=TWO6g9x-TgI)
 
 ## Pronunciation of [ɔ:]
 Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
@@ -141,9 +135,7 @@ Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t],
 
 Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
 
-[![Rachel's English: How to Pronounce AW [ɔ] Vowel](http://img.youtube.com/vi/O6fEHqj8U84/0.jpg)](http://www.youtube.com/watch?v=O6fEHqj8U84)
-
-Video. Rachel's English: How to Pronounce AW [ɔ] Vowel.
+For the method to pronounce the [ɔ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=O6fEHqj8U84)
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
@@ -156,9 +148,7 @@ Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or no
 
 The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
 
-[![Rachel's English: How to Pronounce UH as in BUTTER [ʌ] vowel](http://img.youtube.com/vi/sJupiMmsbx0/0.jpg)](http://www.youtube.com/watch?v=sJupiMmsbx0)
-
-Video. Rachel's English: How to Pronounce UH as in BUTTER [ʌ] vowel.
+For the method to pronounce the [ʌ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=sJupiMmsbx0)
 
 ## Pronunciation of [e]
 Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[red]. Strictly speaking, the IPA symbol for this sound [ɛ]. Following authoritative dictionaries, such as the Oxford Dictionary and others, we will use the easier symbol [e] for this sound.
@@ -170,9 +160,7 @@ Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[re
 
 The commonest spelling is e, as in leg[leg], credit['kredɪt]. Other spellings are ea, as in dead[ded]; ie, as in friend[frend]; a, as in any[eni]; or ai, as in again[ə'gen].
 
-[![Rachel's English: How to Pronounce EH [e] vowel](http://img.youtube.com/vi/ceypHjIf9NY/0.jpg)](http://www.youtube.com/watch?v=ceypHjIf9NY)
-
-Video. Rachel's English: How to Pronounce EH [e] vowel.
+For the method to pronounce the [e] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=ceypHjIf9NY)
 
 ## Pronunciation of [æ]
 Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn], or hat[hæt].
@@ -184,9 +172,7 @@ Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn
 
 The usual spelling for this sound is a, as in bat[bæt], or carry['kæri]. Many monosyllabic words with a are pronounced with [æ], such as bat, cat, fat, gap, hat, rat, or sat.
 
-[![Rachel's English: How to Pronounce AA [æ] vowel](http://img.youtube.com/vi/7uc-4bPsST0/0.jpg)](http://www.youtube.com/watch?v=7uc-4bPsST0)
-
-Video. Rachel's English: How to Pronounce AA [æ] vowel.
+For the method to pronounce the [æ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=7uc-4bPsST0)
 
 ## Pronunciation of [ɜ:]
 [ɜ:] is an open-mid central unrounded long tense vowel, as in fur[fɜ:], or bird[bɜ:d]. In American English is always followed by a retroflex approximant, the so-called rhotic accent (see [Go12] for further information on rhotic accent).
@@ -198,9 +184,7 @@ Video. Rachel's English: How to Pronounce AA [æ] vowel.
 
 Common spellings are: ir, as in first[fɜ:st]; or, as in word[wɜ:rd]; ur, as in fur[fɜ:r]; our, as in journey[dʒɜ:rni]; ear, as in early[ɜ:li]; or er, as in were[wɜ:r].
 
-[![Rachel's English: How to Pronounce UR [ɜ:] vowel](http://img.youtube.com/vi/i4uNG4afo14/0.jpg)](http://www.youtube.com/watch?v=i4uNG4afo14)
-
-Video. Rachel's English: How to Pronounce UR [ɜ:] vowel.
+For the method to pronounce the [ɜ:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=i4uNG4afo14)
 
 ## Pronunciation of the schwa sound [ə]
 [ə] is a mid central unrounded short lax vowel, as in about[ə'baʊt], interesting['ɪntrəstɪŋ]. The schwa always goes on an unstressed syllable. Partly due to vowel reduction, this is the commonest sound in American English.
@@ -212,9 +196,7 @@ Video. Rachel's English: How to Pronounce UR [ɜ:] vowel.
 
 The schwa appears in many spellings; for example, in a, as in abide[ə'baid]; in e, as in fether['feðər]; in o, as in continue[kən'tɪnju:], or in u, as in supply[sə'paɪ],
 
-[![Rachel's English: How to Pronounce Schwa [ə] vowel](http://img.youtube.com/vi/rM9NxK74JSE/0.jpg)](http://www.youtube.com/watch?v=rM9NxK74JSE)
-
-Video. Rachel's English: How to Pronounce Schwa [ə] vowel.
+For the method to pronounce the [ə] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=rM9NxK74JSE)
 
 # Consonant
 
@@ -250,9 +232,7 @@ Fig. Manner of articulation of bilabial stops [p] and [b]
 
 In this video Rachel describes all allophones of phoneme /p/.
 
-[![Rachel's English: How to Pronounce B and P consonants](http://img.youtube.com/vi/45fGnSj8Fk/0.jpg)](http://www.youtube.com/watch?v=45fGnSj8Fk)
-
-Video. Rachel's English: How to Pronounce B and P consonants
+For the method to pronounce the B and P consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=45fGnSj8Fk)
 
 ### Alveolar stops [th], [t], [t˺], and [d]
 In alveolar sounds the closure is produced by the tongue blocking the airstream against the alveolar ridge; see the follow picture. In order to do so, the tongue widens to seal off the oral cavity. It is the blade of the tongue that makes contact with the alveolar ridge; the tip of the tongue is in rest position just behind the upper front teeth. As in the case of voiceless bilabial stops, there are an aspirated and de-aspirated allophones.
@@ -284,10 +264,7 @@ Sound [g] is normally spelled g or gg, as in girl[gɜ:rl] or egg[eg].
 
 In the video below only [kh], [k], and [g] are explained.
 
-[![Rachel's English: How to Pronounce K and G consonants](http://img.youtube.com/vi/SFxmh5y2y_M/0.jpg)](http://www.youtube.com/watch?v=SFxmh5y2y_M)
-
-Video. Rachel's English: How to Pronounce K and G consonants
-
+For the method to pronounce the K and G consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=SFxmh5y2y_M)
 
 ## Fricative sounds
 In fricative consonants there is a partial obstruction of the air produced by placing two articulatory organs very close together. Normally, one of the organs is a passive articulator (see Section 2.2subsection) and the other is an active articulator (the tongue in most cases). The narrow passage causes a turbulent airstream, which produces the fricative sound. The sound produced by the turbulent airstream is called frication/fraɪˈkeɪʃn/. According to the organs involved in the partial obstruction of the oral cavity, fricatives are classified as follows:
@@ -305,16 +282,12 @@ The upper front teeth come close to the bottom lip, while the tongue is in rest 
 
 Figure 21:	Manner of articulation of labio-dental fricatives [f] and [v].
 
-[![Rachel's English: How to Pronounce F and V consonants](http://img.youtube.com/vi/EBYpWd0oFjM/0.jpg)](http://www.youtube.com/watch?v=EBYpWd0oFjM)
-
-Video. Rachel's English: How to Pronounce F and V consonants
+For the method to pronounce the F and V consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=EBYpWd0oFjM)
 
 ### Dental sounds [∂], [∂̞] and [ɵ]
 The tip of the tongue is placed between the upper and bottom front teeth, making loose contact. The air is forced its way through the narrow passage formed by the teeth and tongue, which causes the frication characteristic of these sounds. There is a voiceless sound [ɵ], and two voiced allophones [∂] and [∂̞]. The latter is used when a word is not fully enunciated (in particular in the context of consonant reduction). In [∂̞] the tongue does not go through the teeth fully, but just stays behind the teeth and presses them a little bit. This allophone is called a dental approximant. In the video in the following picture this sound is covered. Both phonemes /ɵ/ and /∂/ are associated to spelling th.
 
-[![Rachel's English: How to Pronounce TH Consonants [θ] + [ð]](http://img.youtube.com/vi/VUAYmTnWaCY/0.jpg)](http://www.youtube.com/watch?v=VUAYmTnWaCY)
-
-Video. Rachel's English: How to Pronounce TH Consonants [θ] + [ð]
+For the method to pronounce the [θ] and [ð] consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VUAYmTnWaCY)
 
 ### Alveolar sounds [s] and [z]
 Sounds [s] and [z] have the same manner and place of articulation; they only differ in voicing. Sound [s] is voiceless, whereas sound [z] is voiced. As for their articulation, the blade of the tongue is raised towards the roof of the mouth. The tip of the tongue rests just behind the bottom front teeth; see the following picture.
@@ -335,9 +308,7 @@ Consonant [s] has a quite characteristic high-pitched, hissing sound that other 
 
 In the video below Rachel explains both sounds [s] and [z] and pays close attention to tongue and lip position.
 
-[![Rachel's English: How to Pronounce S and Z consonants](http://img.youtube.com/vi/8ndEjFzKqTk/0.jpg)](http://www.youtube.com/watch?v=8ndEjFzKqTk)
-
-Video. Rachel's English: How to Pronounce S and Z consonants.
+For the method to pronounce the [s] and [z] consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=8ndEjFzKqTk)
 
 ### Post-alveolar sounds [ʃ] and [ʒ]
 The two post-alveolar sounds take the same tongue position, [ʃ] being the voiceless consonant and [ʒ] its voiced counterpart. In these sounds the front of the tongue is curled (hence, the term post-alveolar) and approaches the roof of the mouth without touching it; see the following picture. The hard palate is a relatively large area. Here the tongue approaches the area immediately after the alveolar ridge (hence, the term post-alveolar) as opposed to palatal consonants, where the approximation takes place at the centre of the hard palate. Since it is also a sibilant consonant, the centre of the tongue forms a groove or channel. The sound is produced by the frication created when the airstream passes through that narrow passage. The tip of the tongue is relaxed and slightly touching the bottom front teeth. The lips are a little bit rounder to help channel the airstream.
@@ -356,25 +327,19 @@ The most common spelling for [ʃ] is sh, as in shop[ʃɑ:p]; less common spellin
 
 Here we have Rachel’s video explaining the pronunciation of these two sounds.
 
-[![Rachel's English: How to Pronounce SH [ʃ] and ZH [ʒ] consonants](http://img.youtube.com/vi/wr2adpD6sYU/0.jpg)](http://www.youtube.com/watch?v=wr2adpD6sYU)
-
-Video. Rachel's English: How to Pronounce SH [ʃ] and ZH [ʒ] consonants
+For the method to pronounce the [ʃ] and [ʒ] consonants, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=wr2adpD6sYU)
 
 ### Glottal sound [h]
 This is a complicated sound to describe from a technical point of view. By its manner of articulation it is classed as a fricative, although for some authors this sound lacks some basic characteristics of a consonant and is, therefore, treated as a vowel or a transitional state of the glottis. Here, it will be considered a glottal fricative. The sound [h] is produced by the vocal cords coming close together, without touching each another, and vibrating. Since the sound is produced in the larynx, the mouth position usually corresponds to the next sound in the word; see the video by Rachel below. In the video below around minute 0:45 we can see how the vocal cords produce sound [h]. Sound [h] is usually spelled h, as in here[hɪɻ].
 
-[![Rachel's English: How to Pronounce the H consonant](http://img.youtube.com/vi/sHoXdWW3bQI/0.jpg)](http://www.youtube.com/watch?v=sHoXdWW3bQI)
-
-Video. Rachel's English: How to Pronounce the H consonant
+For the method to pronounce the [h] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=sHoXdWW3bQI)
 
 ## Affricate consonants ([ʧ] and [ʤ])
 An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
 
 Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
 
-[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
-
-Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
+For the method to pronounce the [ʧ] and [ʤ] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=unfuGPc3iXo)
 
 ## Nasal consonants
 In this kind of consonants the air can escape freely from the nose because the soft palate does not lean against the rear wall of the throat but just hangs loosely. Therefore, the air passes through the oral and nasal cavities. Nasal consonants in English are [m], [n], and [ɳ]. However, these consonants are actually stops and during the closure and blockage stages the air only escapes from the nose.
@@ -387,15 +352,11 @@ Fig. Pronunciation of sound [m] as compared to oral bilabial stops
 
 Sound [m] is usually spelled m or mm, as in more or comb. In the video below Rachel explains the pronunciation of this sound.
 
-[![Rachel's English: How to Pronounce M consonant](http://img.youtube.com/vi/Us15Wkh5lTo/0.jpg)](http://www.youtube.com/watch?v=Us15Wkh5lTo)
-
-Video. Rachel's English: How to Pronounce M consonant
+For the method to pronounce the [m] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=Us15Wkh5lTo)
 
 Apart from nasality, sound [n] is pronounced as [t] in terms of manner and place of articulation, that is, it is an alveolar stop. Sound [n] is usually spelled n, nn, or kn, as in not, sunny, or know. In the video below Rachel explains the pronunciation of this sound.
 
-[![Rachel's English: How to Pronounce N consonant](http://img.youtube.com/vi/iVakdwxGZ7Q/0.jpg)](http://www.youtube.com/watch?v=iVakdwxGZ7Q)
-
-Video. Rachel's English: How to Pronounce N consonant
+For the method to pronounce the the [n] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=iVakdwxGZ7Q)
 
 Last nasal sound is [ɳ], a velar stop like [k] and [g]. In the following picture, phonemes [ɳ] and [k] are compared. In the case of [ɳ] the back of the tongue and the soft palate meet in such a way the nasal tract is not sealed off.
 
@@ -407,17 +368,13 @@ Sound [ɳ] is associated with some fixed spellings:
 - The ending of the present participle ing, as in eating[ˈi:tɪɳ].
 - Letter n before k, g pronounced as velar stops is pronounced as ɳ, as in think[ɵɪɳk], or angry/ˈæɳgɹi/. Therefore, spellings nk are ng frequently associated with this consonant.
 
-[![Rachel's English: How to Pronounce NG [ŋ] Consonant](http://img.youtube.com/vi/NduCJKb4iR8/0.jpg)](http://www.youtube.com/watch?v=NduCJKb4iR8)
-
-Video. Rachel's English: How to Pronounce NG [ŋ] Consonant
+For the method to pronounce the [ŋ] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=NduCJKb4iR8)
 
 ## Semivowels
 ### Palatal semivowel [j]
 This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth. Sound [j] is usually spelled y, as in year[jɪr].
 
-[![Rachel's English: How to Pronounce the Y [j] consonant](http://img.youtube.com/vi/4F8GAifCdVY/0.jpg)](http://www.youtube.com/watch?v=4F8GAifCdVY)
-
-Video. Rachel's English: How to Pronounce the Y [j] consonant
+For the method to pronounce the [j] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=4F8GAifCdVY)
 
 ### Velar semivowel [w]
 It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvi:lər] . The articulation of [w] is carried out as follows:
@@ -428,9 +385,5 @@ It is articulated as a voiced approximant at the velum and at the same time is a
 - Because the tongue has to move up towards the soft palate, the root of the tongue also moves and narrows a little bit the pharynx. This gives the sound a characteristic timbre.
 Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ]. In the video below Rachel explains the production of this sound and gives examples.
 
-[![Rachel's English: How to Pronounce the W consonant](http://img.youtube.com/vi/jt5huPbR7zU/0.jpg)](http://www.youtube.com/watch?v=jt5huPbR7zU)
-
-Video. Rachel's English: How to Pronounce the W consonant
-
-Fig. Rachel's English: How to Pronounce the W consonant
+For the method to pronounce the [w] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=jt5huPbR7zU)
 
