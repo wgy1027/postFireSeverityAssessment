@@ -15,6 +15,7 @@ equivocate 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
 - The fire disturbance continuum discriminates between discrete temporal phases during which fire processes occur.
 - Coupled with a growing demand for wood products and environmental services, increasing rates of natural disturbances such as fire and climate change have highlighted technical and scientific gaps in managing for the persistence of the Siberian Larch forest.
 - They negotiate with the government over such things as the use of their technology.
+- This method is used to a large success.
 
 ## Study Area
 In this study, we selected five forest fires in the western United States as study areas (Figure 1). The Bear Fire, located in the Southwest of United States, had scorched more than 18.62 km$^2$ in the Dinosaur National Monument from 27 June 2002 to 4 July 2002. This area belongs to the Highland (alpine) climate and its elevation varies between 1700 and 2740 m. The Precipitation is less than 30 cm per year. The main land covers are trees, shrubs, and grasses. The predominant vegetation are ponderosa pine and Douglas-fir, followed by willows, boxelder, narrow-leaf cottonwood, big sagebrush, rubber rabbit brush, service berry, black grease wood, and so on.
@@ -22,7 +23,6 @@ In this study, we selected five forest fires in the western United States as stu
 # 分析
 - As time since fire progresses, the relative differences in fire severity, and their spatial pattern, will change.
 - In experiments in which progressively larger proportions of the training data were intentionally mislabelled, both RF and DT classifiers showed only a slight increase in overall error for as much as 20% mislabelling, though RF had consistently much lower error than DT classification.
-
 
 
 # Inclusion
