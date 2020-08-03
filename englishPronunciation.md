@@ -18,7 +18,7 @@ In written English the six vowel letters are used to represent the 13-15 vowel *
 ## Monophthongs and diphthongs ##
 Simple vowels are called **monophthong**s. The letters, like /ɪ/, are the International Phonetic Alphabet( IPA) letters for each vowel **sound** in English. In the IPA, each symbol represents a different sound, so using the IPA is helpful in pronouncing words.
 
-<p align="center"><img align="center" width="500" src="./notePic/IPA_English_Vowels_and_Diphthongs_with_Sound_Examples.svg.png"></p>
+<p align="center"><img align="center" width="300" src="./notePic/IPA_English_Vowels_and_Diphthongs_with_Sound_Examples.svg.png"></p>
 
 Common monophthongs in General American English include:
 - /i/ as in pol*i*ce, f*ee*t, *ea*t, and sill*y*
@@ -64,7 +64,7 @@ According to the organs involved in the closure of the oral cavity, stops are cl
 ## Bilabial sounds [ph], [p], [p˺], and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released; see Figure 10. There are three voiceless allophones, [ph], [p], [p˺], and one voiced allophone, [b]. Spellings commonly associated with bilabials are p, pp for sound [p], as in pen[phen], happy[ˈhæpi], or lap[læp˺], and b, bb for sound [b], as in best[best] or robber[ˈrɑ:bər].
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
 
 Fig. Manner of articulation of bilabial stops [p] and [b]
 
@@ -77,7 +77,7 @@ Video. Rachel's English: How to Pronounce B and P consonants
 ## Alveolar sounds [th], [t], [t˺], and [d]
 In alveolar sounds the closure is produced by the tongue blocking the airstream against the alveolar ridge; see the follow picture. In order to do so, the tongue widens to seal off the oral cavity. It is the blade of the tongue that makes contact with the alveolar ridge; the tip of the tongue is in rest position just behind the upper front teeth. As in the case of voiceless bilabial stops, there are an aspirated and de-aspirated allophones.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-t-d.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-t-d.jpg"></p>
 
 Fig. Manner of articulation of alveolar stops [t] and [d]
 
@@ -89,7 +89,7 @@ Spelling th, although less frequent, can be found, as in Thailand[ˈthaɪlænd].
 ## Velar sounds [kh], [k], [k˺], and [g]
 In velar sounds the closure is produced by the back of the tongue leaning against the soft palate, which blocks the airstream; see Figure 17. Similarly to bilabial and alveolar stops, aspirated, de-aspirated, and unreleased allophones ( [kh], [k], [k˺]) can be observed. When the stop is voiceless, sounds [kh], [k], and [k˺] are produced. If the stop is voiced, sound [g] results.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-k-g.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-k-g.jpg"></p>
 
 Fig. Manner of articulation of alveolar stops [k] and [g]
 
@@ -121,7 +121,7 @@ In fricative consonants there is a partial obstruction of the air produced by pl
 ### Labio-dental sounds [f] and [v]
 The upper front teeth come close to the bottom lip, while the tongue is in rest position. The airstream is forced through the slit formed by those two articulators; see the following picture and video. Consonant [f] is voiceless and consonant sound [v] is voiced. Spellings f, ff, ph, and gh are frequently associated to sound [f]; see the following examples: first, coffee, photo, or cough. The only spelling associated to [v] is letter v.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-f-v.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-f-v.jpg"></p>
 
 Figure 21:	Manner of articulation of labio-dental fricatives [f] and [v].
 
@@ -139,13 +139,13 @@ Video. Rachel's English: How to Pronounce TH Consonants [θ] + [ð]
 ## Alveolar sounds [s] and [z]
 Sounds [s] and [z] have the same manner and place of articulation; they only differ in voicing. Sound [s] is voiceless, whereas sound [z] is voiced. As for their articulation, the blade of the tongue is raised towards the roof of the mouth. The tip of the tongue rests just behind the bottom front teeth; see the following picture.
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-s-z.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-s-z.jpg"></p>
 
 Fig. Manner of articulation of alveolar fricatives [s] and [z].
 
 Furthermore, earlier on we defined sounds [s] and [z] as being sibilants. The tongue is thus curved along its medial axis, with its sides actually touching the alveolar ridge and forming a narrow passage or groove through which the airstream passes. That is the way this sibilant consonant is produced. Lips are parted and the corners pull back as in a smile. In Figure 25, we can see the articulatory gesture for [s] as in saw pronounced by Ladefoged. On the right, the solid line shows the position of the tongue, as extracted from x-rays, whereas the grey line indicates the position of the sides of the tongue, as given by palatograms. Between both lines, it is possible to imagine the exact tongue shape for this sound. On the left, it is shown a transverse view taken from the coronal section (indicated by the arrow on the left).
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-Tongue-shape-s.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-Tongue-shape-s.jpg"></p>
 
 Fig. Tongue shape for alveolar fricatives [s] and [z].
 
@@ -188,13 +188,13 @@ Spelling ss is sometimes pronounced as [z], as in scissors[ˈsɪzərz].
 ## Post-alveolar sounds [ʃ] and [ʒ]
 The two post-alveolar sounds take the same tongue position, [ʃ] being the voiceless consonant and [ʒ] its voiced counterpart. In these sounds the front of the tongue is curled (hence, the term post-alveolar) and approaches the roof of the mouth without touching it; see the following picture. The hard palate is a relatively large area. Here the tongue approaches the area immediately after the alveolar ridge (hence, the term post-alveolar) as opposed to palatal consonants, where the approximation takes place at the centre of the hard palate. Since it is also a sibilant consonant, the centre of the tongue forms a groove or channel. The sound is produced by the frication created when the airstream passes through that narrow passage. The tip of the tongue is relaxed and slightly touching the bottom front teeth. The lips are a little bit rounder to help channel the airstream.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-sh-dg.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-sh-dg.jpg"></p>
 
 Fig. Pronunciation of sounds [ʃ] and [ʒ].
 
 Taken from the paper by Stone and Lundgerg, the tongue shape corresponding to sound [ʃ] is shown in the following picture. This is a 3-D reconstruction by using spline interpolation from 2-D measures on the tongue. The groove characteristic of this sibilant sound is quite noticeable. The air is directed by the tongue through this groove along plane A and perpendicularly to plane B.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-Tongue-shape-sh.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-Tongue-shape-sh.jpg"></p>
 
 Fig. Tongue shape for [ʃ]. Anterior is on the lower left and posterior on the upper right.
 
@@ -218,7 +218,7 @@ In this kind of consonants the air can escape freely from the nose because the s
 ### Stops [m], [n], and [ɳ]
 Consonant [m] is a bilabial stop, consonant [n] is alveolar stops, and consonant [ɳ] is a velar stop. They can be thought of as the nasal version of the oral consonants [b], [d] and [g], respectively. In Figure 33, the difference in terms of manner and place of articulation between sounds [m] and [p, b] can be observed. The soft palate is lowered allowing the air escape from the nose. These changes several features of the produced sound, as resonance, amplitude (it is lower than in stops or other consonants), and timbre.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-m.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-m.jpg"></p>
 
 Fig. Pronunciation of sound [m] as compared to oral bilabial stops
 
@@ -236,7 +236,7 @@ Video. Rachel's English: How to Pronounce N consonant
 
 Last nasal sound is [ɳ], a velar stop like [k] and [g]. In the following picture, phonemes [ɳ] and [k] are compared. In the case of [ɳ] the back of the tongue and the soft palate meet in such a way the nasal tract is not sealed off.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-n-ng.jpg"></p>
+<p align="center"><img align="center" width="100" src="./notePic/americanEnglishPronunciation-n-ng.jpg"></p>
 
 Fig. Pronunciation of phoneme [ɳ] as compared to oral velar stops
 
