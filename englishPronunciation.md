@@ -47,10 +47,11 @@ Common diphthongs in English include:
 |   /oʊ/   |  t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, chat*eau* |
 |   /aʊ/   |  l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, Mac*au* |
 
-|   |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
-|---|---|---|---|---|---|---|---|---|---|---|----|----|----|----|----|
-| i | ɪ | ɛ | æ | ə | ɚ | ʌ | u | ʊ | ɔ | ɑ | eɪ | aɪ | oɪ | oʊ | aʊ |
-| ē | i | e | a | ə | r | ə | ü | u̇ | ä | ä | ā  | ī  | ȯi | ō  | au̇ |
+The difference between IPA and Merriam-Webster's Dictionary
+|     |   |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+|-----|---|---|---|---|---|---|---|---|---|---|---|----|----|----|----|----|
+| IPA | i | ɪ | ɛ | æ | ə | ɚ | ʌ | u | ʊ | ɔ | ɑ | eɪ | aɪ | oɪ | oʊ | aʊ |
+| MW  |ē | i | e | a | ə | r | ə | ü | u̇ | ä | ä | ā  | ī  | ȯi | ō  | au̇ |
 
 ## Pronunciation of [i:]
 Sound [i:] is a long close front unrounded tense vowel. It appears in words such as see[si:], or heat[hi:t].
