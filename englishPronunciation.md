@@ -155,35 +155,18 @@ Consonant [s] has a quite characteristic high-pitched, hissing sound that other 
 
 In the video below Rachel explains both sounds [s] and [z] and pays close attention to tongue and lip position.
 
-[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
-
-Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
-
-
-## Alveolar sounds [s] and [z]
-Sounds [s] and [z] have the same manner and place of articulation; they only differ in voicing. Sound [s] is voiceless, whereas sound [z] is voiced. As for their articulation, the blade of the tongue is raised towards the roof of the mouth. The tip of the tongue rests just behind the bottom front teeth; see Figure 24.
-
-## Affricate consonants ([ʧ] and [ʤ])
-An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
-
-### Consonants [ʧ] and [ʤ]
-Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
-
 [![Rachel's English: How to Pronounce S and Z consonants](http://img.youtube.com/vi/8ndEjFzKqTk/0.jpg)](http://www.youtube.com/watch?v=8ndEjFzKqTk)
 
 Video. Rachel's English: How to Pronounce S and Z consonants.
 
-Common spellings of sound [s] are:
-- Letter s in word-initial, as in son[sʌn], and also within a word, as in bus[bʌs].
-- The formation of plural, third person of present simples, and Saxon genitive require adding an [s] if the word-final sound is a voiceless non-sibilant. See Section 3.3subsection on voicing of consonants above.
-- Letter c in word-initial, as in city[ˈsɪɾi], and also within a word, as in pencil.
-- Spelling sc is sometimes pronounced as [s], as in scissors[ˈsɪzərz].
+## Affricate consonants ([ʧ] and [ʤ])
+An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
 
-Common spellings of sound [z] are:
-- Letter z in word-initial, as in zoo[zu:], and also within a word, as in easy[ˈi:zi].
-- The formation of plural, third person of present simples, and Saxon genitive require adding an [z] if the word-final sound is a voiced non-sibilant and [ɪz] if the word-final sound is a sibilant, either voiced or voiceless. Again, check out Section 3.3subsection.
-- Combination zz, as in dizzy[ˈdɪzi].
-Spelling ss is sometimes pronounced as [z], as in scissors[ˈsɪzərz].
+Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
+
+[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
+
+Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
 
 ## Post-alveolar sounds [ʃ] and [ʒ]
 The two post-alveolar sounds take the same tongue position, [ʃ] being the voiceless consonant and [ʒ] its voiced counterpart. In these sounds the front of the tongue is curled (hence, the term post-alveolar) and approaches the roof of the mouth without touching it; see the following picture. The hard palate is a relatively large area. Here the tongue approaches the area immediately after the alveolar ridge (hence, the term post-alveolar) as opposed to palatal consonants, where the approximation takes place at the centre of the hard palate. Since it is also a sibilant consonant, the centre of the tongue forms a groove or channel. The sound is produced by the frication created when the airstream passes through that narrow passage. The tip of the tongue is relaxed and slightly touching the bottom front teeth. The lips are a little bit rounder to help channel the airstream.
