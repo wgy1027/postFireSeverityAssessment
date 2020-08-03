@@ -92,9 +92,9 @@ Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju
 
 Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
 
-[![Rachel's English: How to Pronounce the OO [u] Vowel](http://img.youtube.com/vi/klJQmJpmjdc/0.jpg)](http://www.youtube.com/watch?v=klJQmJpmjdc)
+[![Rachel's English: How to Pronounce the OO [u:] Vowel](http://img.youtube.com/vi/klJQmJpmjdc/0.jpg)](http://www.youtube.com/watch?v=klJQmJpmjdc)
 
-Video. Rachel's English: How to Pronounce the OO [u] Vowel.
+Video. Rachel's English: How to Pronounce the OO [u:] Vowel.
 
 ## Pronunciation of [ʊ]
 Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], or book[bʊk].
@@ -106,6 +106,10 @@ Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], o
 
 Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
 
+[![Rachel's English: How to Pronounce UH as in PULL [ʊ] vowel](http://img.youtube.com/vi/VrIPpIfC8e4/0.jpg)](http://www.youtube.com/watch?v=VrIPpIfC8e4)
+
+Video. Rachel's English: How to Pronounce UH as in PULL [ʊ] vowel.
+
 ## Pronunciation of [ɑ:]
 Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
 - Position of the tongue (backness/height): The tongue is really flat in the mouth. The back part of the tongue is pulled back in the mouth, but the tip is just behind the bottom front teeth.
@@ -116,6 +120,10 @@ Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or p
 
 Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈfɑ:rðər]
 
+[![Rachel's English: How to Pronounce [ɑ] AH vowel](http://img.youtube.com/vi/TWO6g9x-TgI/0.jpg)](http://www.youtube.com/watch?v=TWO6g9x-TgI)
+
+Video. Rachel's English: How to Pronounce [ɑ] AH vowel.
+
 ## Pronunciation of [ɔ:]
 Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
 - Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ:] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
@@ -125,6 +133,10 @@ Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t],
 - Tenseness: [ɔ:] is a tense vowel.
 
 Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
+
+[![Rachel's English: How to Pronounce AW [ɔ] Vowel](http://img.youtube.com/vi/O6fEHqj8U84/0.jpg)](http://www.youtube.com/watch?v=O6fEHqj8U84)
+
+Video. Rachel's English: How to Pronounce AW [ɔ] Vowel.
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
@@ -137,6 +149,10 @@ Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or no
 
 The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
 
+[![Rachel's English: How to Pronounce UH as in BUTTER [ʌ] vowel](http://img.youtube.com/vi/sJupiMmsbx0/0.jpg)](http://www.youtube.com/watch?v=sJupiMmsbx0)
+
+Video. Rachel's English: How to Pronounce UH as in BUTTER [ʌ] vowel.
+
 ## Pronunciation of [e]
 Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[red]. Strictly speaking, the IPA symbol for this sound [ɛ]. Following authoritative dictionaries, such as the Oxford Dictionary and others, we will use the easier symbol [e] for this sound.
 - Position of the tongue (backness/height): Since this is a front vowel the tongue is pulled forwards. The mid part of the tongue is raised towards the roof of the mouth. The tip of the tongue rests against the bottom front teeth. In the video an interested observation is pointed out. The tongue is somewhat widened, a feature not very often taken into account.
@@ -146,6 +162,10 @@ Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[re
 - Tenseness: [e] is a lax vowel.
 
 The commonest spelling is e, as in leg[leg], credit['kredɪt]. Other spellings are ea, as in dead[ded]; ie, as in friend[frend]; a, as in any[eni]; or ai, as in again[ə'gen].
+
+[![Rachel's English: How to Pronounce EH [e] vowel](http://img.youtube.com/vi/ceypHjIf9NY/0.jpg)](http://www.youtube.com/watch?v=ceypHjIf9NY)
+
+Video. Rachel's English: How to Pronounce EH [e] vowel.
 
 ## Pronunciation of [æ]
 Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn], or hat[hæt].
@@ -157,6 +177,10 @@ Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn
 
 The usual spelling for this sound is a, as in bat[bæt], or carry['kæri]. Many monosyllabic words with a are pronounced with [æ], such as bat, cat, fat, gap, hat, rat, or sat.
 
+[![Rachel's English: How to Pronounce AA [æ] vowel](http://img.youtube.com/vi/7uc-4bPsST0/0.jpg)](http://www.youtube.com/watch?v=7uc-4bPsST0)
+
+Video. Rachel's English: How to Pronounce AA [æ] vowel.
+
 ## Pronunciation of [ɜ:]
 [ɜ:] is an open-mid central unrounded long tense vowel, as in fur[fɜ:], or bird[bɜ:d]. In American English is always followed by a retroflex approximant, the so-called rhotic accent (see [Go12] for further information on rhotic accent).
 - Position of the tongue (backness/height): As central vowel, the tongue raises towards the roof of the mouth in the middle and even touches lightly the top teeth. However, the tip of the tongue hangs down, but it is not close to the bottom front teeth. Again, the video makes an important point by remarking that the tongue is fattened.
@@ -167,6 +191,10 @@ The usual spelling for this sound is a, as in bat[bæt], or carry['kæri]. Many 
 
 Common spellings are: ir, as in first[fɜ:st]; or, as in word[wɜ:rd]; ur, as in fur[fɜ:r]; our, as in journey[dʒɜ:rni]; ear, as in early[ɜ:li]; or er, as in were[wɜ:r].
 
+[![Rachel's English: How to Pronounce UR [ɜ:] vowel](http://img.youtube.com/vi/i4uNG4afo14/0.jpg)](http://www.youtube.com/watch?v=i4uNG4afo14)
+
+Video. Rachel's English: How to Pronounce UR [ɜ:] vowel.
+
 ## Pronunciation of the schwa sound [ə]
 [ə] is a mid central unrounded short lax vowel, as in about[ə'baʊt], interesting['ɪntrəstɪŋ]. The schwa always goes on an unstressed syllable. Partly due to vowel reduction, this is the commonest sound in American English.
 - Position of the tongue (backness/height): The tongue is relaxed and flat, placed at mid height in the mouth. The back part of the tongue is slightly pulled back and the tip is just behind the bottom front teeth.
@@ -176,6 +204,10 @@ Common spellings are: ir, as in first[fɜ:st]; or, as in word[wɜ:rd]; ur, as in
 - Tenseness: [ə] is a lax vowel.
 
 The schwa appears in many spellings; for example, in a, as in abide[ə'baid]; in e, as in fether['feðər]; in o, as in continue[kən'tɪnju:], or in u, as in supply[sə'paɪ],
+
+[![Rachel's English: How to Pronounce Schwa [ə] vowel](http://img.youtube.com/vi/rM9NxK74JSE/0.jpg)](http://www.youtube.com/watch?v=rM9NxK74JSE)
+
+Video. Rachel's English: How to Pronounce Schwa [ə] vowel.
 
 # Consonant
 
