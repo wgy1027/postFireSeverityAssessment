@@ -64,6 +64,7 @@ Sound [i:] is a long close front unrounded tense vowel. It appears in words such
 Common spellings for sound [i:] are: ee and ea, as in bee[bi:], or, as in easy['i:zi]; less common spellings are e, as in these[ði:z]; ey, as in key[ki:]; i, as in kilo['ki:loʊ]; eo, as in people['pi:pl].
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_i.png"></p>
+
 [![Rachel's English: How to Pronounce EE [i] Vowel](http://img.youtube.com/vi/_HuIAwQxEM4/0.jpg)](http://www.youtube.com/watch?v=_HuIAwQxEM4)
 
 Fig. Manner of articulation of alveolar stops i. Video. Rachel's English: How to Pronounce EE [i] Vowel.
