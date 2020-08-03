@@ -54,10 +54,53 @@ In fact, the English alphabet has fewer consonant letters than English has conso
 
 In General American English, /r/ when not followed by a vowel is realized as an r-coloring of the preceding vowel or its coda: nurse [ˈnɚs], butter [ˈbʌtɚ].
 
-### Bilabial sounds [p] and [b]
-The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released.
+## Bilabial sounds [ph], [p], [p˺], and [b]
+The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released; see Figure 10. There are three voiceless allophones, [ph], [p], [p˺], and one voiced allophone, [b]. Spellings commonly associated with bilabials are p, pp for sound [p], as in pen[phen], happy[ˈhæpi], or lap[læp˺], and b, bb for sound [b], as in best[best] or robber[ˈrɑ:bər].
 
 <p align="center"><img align="center" width="500" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
+
+Fig. Manner of articulation of bilabial stops [p] and [b]
+
+In this video Rachel describes all allophones of phoneme /p/.
+
+[![Rachel's English: How to Pronounce B and P consonants](http://img.youtube.com/vi/45fGnSj8Fk/0.jpg)](http://www.youtube.com/watch?v=45fGnSj8Fk)
+
+Video. Rachel's English: How to Pronounce B and P consonants
+
+## Alveolar sounds [th], [t], [t˺], and [d]
+In alveolar sounds the closure is produced by the tongue blocking the airstream against the alveolar ridge; see the follow picture. In order to do so, the tongue widens to seal off the oral cavity. It is the blade of the tongue that makes contact with the alveolar ridge; the tip of the tongue is in rest position just behind the upper front teeth. As in the case of voiceless bilabial stops, there are an aspirated and de-aspirated allophones.
+
+<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-t-d.jpg"></p>
+
+Fig. Manner of articulation of alveolar stops [t] and [d]
+
+Common spellings of phoneme /t/ are:
+- t and tt, as in ten[then], stop[stɑ:p], or wait[weɪt˺].
+- The past simple of a regular verb ends in phoneme /t/ when the last sound of the verb is a voiceless sound different from /t/: trip[thrɪp]PICtripped[thrɪp˺t], ask[æsk]PICasked[æsk˺t], laugh[læf]PIClaughed[læfth], toss[tɑ:s]PICtossed[tɑ:sth], mash[mæʃ]PICmashed[mæʃth]. Past simple endings are often aspirated to clearly distinguish them from other tenses. Past simple endings are seldom unreleased.
+Spelling th, although less frequent, can be found, as in Thailand[ˈthaɪlænd].
+
+## Velar sounds [kh], [k], [k˺], and [g]
+In velar sounds the closure is produced by the back of the tongue leaning against the soft palate, which blocks the airstream; see Figure 17. Similarly to bilabial and alveolar stops, aspirated, de-aspirated, and unreleased allophones ( [kh], [k], [k˺]) can be observed. When the stop is voiceless, sounds [kh], [k], and [k˺] are produced. If the stop is voiced, sound [g] results.
+
+<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-k-g.jpg"></p>
+
+Fig. Manner of articulation of alveolar stops [k] and [g]
+
+Common spellings of phoneme /k/ are:
+- Letter c in word-initial, as in cat[khæt], and also within a word, as in fact[fæk˺t].
+- Letter k in word-initial, as in keep[ki:p], and also within a word, as in like[laɪk].
+- Combinations ck and ch, as in black[bæk] and school[sku:l].
+- Combination qu, as in quiet[khwaɪət].
+- Letter x, as in six[sɪks].
+
+Sound [g] is normally spelled g or gg, as in girl[gɜ:rl] or egg[eg].
+
+In the video below only [kh], [k], and [g] are explained.
+
+[![Rachel's English: How to Pronounce K and G consonants](http://img.youtube.com/vi/SFxmh5y2y_M/0.jpg)](http://www.youtube.com/watch?v=SFxmh5y2y_M)
+
+Video. Rachel's English: How to Pronounce K and G consonants
+
 
 ## Fricative sounds
 In fricative consonants there is a partial obstruction of the air produced by placing two articulatory organs very close together. Normally, one of the organs is a passive articulator (see Section 2.2subsection) and the other is an active articulator (the tongue in most cases). The narrow passage causes a turbulent airstream, which produces the fricative sound. The sound produced by the turbulent airstream is called frication/fraɪˈkeɪʃn/. According to the organs involved in the partial obstruction of the oral cavity, fricatives are classified as follows:
