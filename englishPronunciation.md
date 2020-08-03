@@ -65,7 +65,7 @@ Common spellings for sound [i:] are: ee and ea, as in bee[bi:], or, as in easy['
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_i.png"></p>
 
-Fig. Manner of articulation of alveolar stops [i].
+Fig. Manner of articulation of the [i] vowel.
 
 For the method to pronounce the [i] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=_HuIAwQxEM4).
 
@@ -81,7 +81,7 @@ The commonest spellings for sound [ɪ] is i, as in six[sɪks], cinema['sɪnəmə
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɪ.png"></p>
 
-Fig. Manner of articulation of alveolar stops [ɪ].
+Fig. Manner of articulation of the [ɪ] vowel.
 
 For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=-BAYrt2oER8).
 
@@ -99,6 +99,10 @@ Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju
 
 Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
 
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_u.png"></p>
+
+Fig. Manner of articulation of the [u:] vowel.
+
 For the method to pronounce the [u:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=klJQmJpmjdc).
 
 ## Pronunciation of [ʊ]
@@ -110,6 +114,10 @@ Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], o
 - Tenseness: [ʊ] is a lax vowel. Both the tongue and the lips are less stiff than in [u:].
 
 Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ʊ.png"></p>
+
+Fig. Manner of articulation of the [ʊ] vowel.
 
 For the method to pronounce the [ʊ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VrIPpIfC8e4)
 
@@ -123,7 +131,11 @@ Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or p
 
 Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈfɑ:rðər]
 
-For the method to pronounce the [ɑ] vowel, please refer to the video in [Rachel's English]((http://www.youtube.com/watch?v=TWO6g9x-TgI)
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɑ.png"></p>
+
+Fig. Manner of articulation of the [ɑ:] vowel.
+
+For the method to pronounce the [ɑ:] vowel, please refer to the video in [Rachel's English]((http://www.youtube.com/watch?v=TWO6g9x-TgI)
 
 ## Pronunciation of [ɔ:]
 Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
@@ -134,6 +146,10 @@ Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t],
 - Tenseness: [ɔ:] is a tense vowel.
 
 Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔ.png"></p>
+
+Fig. Manner of articulation of the [ɔ] vowel.
 
 For the method to pronounce the [ɔ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=O6fEHqj8U84)
 
@@ -148,6 +164,10 @@ Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or no
 
 The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
 
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ʌ.png"></p>
+
+Fig. Manner of articulation of the [ʌ] vowel.
+
 For the method to pronounce the [ʌ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=sJupiMmsbx0)
 
 ## Pronunciation of [e]
@@ -159,6 +179,10 @@ Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[re
 - Tenseness: [e] is a lax vowel.
 
 The commonest spelling is e, as in leg[leg], credit['kredɪt]. Other spellings are ea, as in dead[ded]; ie, as in friend[frend]; a, as in any[eni]; or ai, as in again[ə'gen].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_e.png"></p>
+
+Fig. Manner of articulation of the [e] vowel.
 
 For the method to pronounce the [e] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=ceypHjIf9NY)
 
@@ -172,6 +196,10 @@ Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn
 
 The usual spelling for this sound is a, as in bat[bæt], or carry['kæri]. Many monosyllabic words with a are pronounced with [æ], such as bat, cat, fat, gap, hat, rat, or sat.
 
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_æ.png"></p>
+
+Fig. Manner of articulation of the [æ] vowel.
+
 For the method to pronounce the [æ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=7uc-4bPsST0)
 
 ## Pronunciation of [ɜ:]
@@ -183,6 +211,10 @@ For the method to pronounce the [æ] vowel, please refer to the video in [Rachel
 - Tenseness: [ɜ:] is a tense vowel.
 
 Common spellings are: ir, as in first[fɜ:st]; or, as in word[wɜ:rd]; ur, as in fur[fɜ:r]; our, as in journey[dʒɜ:rni]; ear, as in early[ɜ:li]; or er, as in were[wɜ:r].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɜ.png"></p>
+
+Fig. Manner of articulation of the [ɜ] vowel.
 
 For the method to pronounce the [ɜ:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=i4uNG4afo14)
 
@@ -196,7 +228,45 @@ For the method to pronounce the [ɜ:] vowel, please refer to the video in [Rache
 
 The schwa appears in many spellings; for example, in a, as in abide[ə'baid]; in e, as in fether['feðər]; in o, as in continue[kən'tɪnju:], or in u, as in supply[sə'paɪ],
 
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ə.png"></p>
+
+Fig. Manner of articulation of the [ə] vowel.
+
 For the method to pronounce the [ə] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=rM9NxK74JSE)
+
+## ph
+Common diphthongs in English include:
+| vowel        | For example      |
+|-------------- | -------- |
+|   /eɪ/   | *a*te, r*ei*gn, v*ai*n, fl*a*vor, sl*ay*, conv*ey* |
+|   /aɪ/   | *eye*, *I*, p*ie*, cr*y*, c*y*pher, cl*i*mb, l*i*me, l*i*ght, k*ay*ak, Th*ai*, h*ei*ght |
+|   /oɪ/   |  b*oy*, m*oi*st, Fr*eu*d |
+|   /oʊ/   |  t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, chat*eau* |
+|   /aʊ/   |  l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, Mac*au* |
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_eɪ.png"></p>
+
+Fig. Manner of articulation of the [eɪ] vowel.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_aɪ.png"></p>
+
+Fig. Manner of articulation of the [aɪ] vowel.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_oɪ.png"></p>
+
+Fig. Manner of articulation of the [oɪ] vowel.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_oʊ.png"></p>
+
+Fig. Manner of articulation of the [oʊ] vowel.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_aʊ.png"></p>
+
+Fig. Manner of articulation of the [aʊ] vowel.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_eɪ.png"></p>
+
+Fig. Manner of articulation of the [eɪ] vowel.
 
 # Consonant
 
