@@ -180,7 +180,7 @@ Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[re
 
 The commonest spelling is e, as in leg[leg], credit['kredɪt]. Other spellings are ea, as in dead[ded]; ie, as in friend[frend]; a, as in any[eni]; or ai, as in again[ə'gen].
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_e.png"></p>
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɛ.png"></p>
 
 Fig. Manner of articulation of the [e] vowel.
 
