@@ -129,14 +129,14 @@ Figure 21:	Manner of articulation of labio-dental fricatives [f] and [v].
 
 Video. Rachel's English: How to Pronounce F and V consonants
 
-## Dental sounds [∂], [∂̞] and [ɵ]
+### Dental sounds [∂], [∂̞] and [ɵ]
 The tip of the tongue is placed between the upper and bottom front teeth, making loose contact. The air is forced its way through the narrow passage formed by the teeth and tongue, which causes the frication characteristic of these sounds. There is a voiceless sound [ɵ], and two voiced allophones [∂] and [∂̞]. The latter is used when a word is not fully enunciated (in particular in the context of consonant reduction). In [∂̞] the tongue does not go through the teeth fully, but just stays behind the teeth and presses them a little bit. This allophone is called a dental approximant. In the video in the following picture this sound is covered. Both phonemes /ɵ/ and /∂/ are associated to spelling th.
 
 [![Rachel's English: How to Pronounce TH Consonants [θ] + [ð]](http://img.youtube.com/vi/VUAYmTnWaCY/0.jpg)](http://www.youtube.com/watch?v=VUAYmTnWaCY)
 
 Video. Rachel's English: How to Pronounce TH Consonants [θ] + [ð]
 
-## Alveolar sounds [s] and [z]
+### Alveolar sounds [s] and [z]
 Sounds [s] and [z] have the same manner and place of articulation; they only differ in voicing. Sound [s] is voiceless, whereas sound [z] is voiced. As for their articulation, the blade of the tongue is raised towards the roof of the mouth. The tip of the tongue rests just behind the bottom front teeth; see the following picture.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-s-z.jpg"></p>
@@ -159,16 +159,7 @@ In the video below Rachel explains both sounds [s] and [z] and pays close attent
 
 Video. Rachel's English: How to Pronounce S and Z consonants.
 
-## Affricate consonants ([ʧ] and [ʤ])
-An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
-
-Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
-
-[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
-
-Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
-
-## Post-alveolar sounds [ʃ] and [ʒ]
+### Post-alveolar sounds [ʃ] and [ʒ]
 The two post-alveolar sounds take the same tongue position, [ʃ] being the voiceless consonant and [ʒ] its voiced counterpart. In these sounds the front of the tongue is curled (hence, the term post-alveolar) and approaches the roof of the mouth without touching it; see the following picture. The hard palate is a relatively large area. Here the tongue approaches the area immediately after the alveolar ridge (hence, the term post-alveolar) as opposed to palatal consonants, where the approximation takes place at the centre of the hard palate. Since it is also a sibilant consonant, the centre of the tongue forms a groove or channel. The sound is produced by the frication created when the airstream passes through that narrow passage. The tip of the tongue is relaxed and slightly touching the bottom front teeth. The lips are a little bit rounder to help channel the airstream.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-sh-dg.jpg"></p>
@@ -189,12 +180,21 @@ Here we have Rachel’s video explaining the pronunciation of these two sounds.
 
 Video. Rachel's English: How to Pronounce SH [ʃ] and ZH [ʒ] consonants
 
-## Glottal sound [h]
+### Glottal sound [h]
 This is a complicated sound to describe from a technical point of view. By its manner of articulation it is classed as a fricative, although for some authors this sound lacks some basic characteristics of a consonant and is, therefore, treated as a vowel or a transitional state of the glottis. Here, it will be considered a glottal fricative. The sound [h] is produced by the vocal cords coming close together, without touching each another, and vibrating. Since the sound is produced in the larynx, the mouth position usually corresponds to the next sound in the word; see the video by Rachel below. In the video below around minute 0:45 we can see how the vocal cords produce sound [h]. Sound [h] is usually spelled h, as in here[hɪɻ].
 
 [![Rachel's English: How to Pronounce the H consonant](http://img.youtube.com/vi/sHoXdWW3bQI/0.jpg)](http://www.youtube.com/watch?v=sHoXdWW3bQI)
 
 Video. Rachel's English: How to Pronounce the H consonant
+
+## Affricate consonants ([ʧ] and [ʤ])
+An affricate consonant begins as a stop and is released as a fricative. In English there are only two affricate sounds, [ʧ] and [ʤ].
+
+Sound [ʧ] is voiceless and sound [ʤ] is voiced. Both are the combination of an alveolar stop and a post-alveolar fricative. The IPA symbols indicate the combination of the consonant sounds ([t]+[ʃ]=[ʧ] and [d]+[ʒ]=[ʤ]). In the case of the voiceless affricate [ʧ], stop [t] is less aspirated than [th]; the manner and place of articulation of the post-alveolar is exactly the same as in [ʃ]. This also applies to the voiced sound [ʤ]. Common spellings for [ʧ] are ch, t, and tch, as in choose, question, or catch. In the case of [ʤ], its most common spellings are j in initial position, as in job; letter g, as in general; and combinations ge and dge, as in large and fridge.
+
+[![Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds](http://img.youtube.com/vi/unfuGPc3iXo/0.jpg)](http://www.youtube.com/watch?v=unfuGPc3iXo)
+
+Video. Rachel's English: How to Pronounce CH [ʧ] and JJ [ʤ] Sounds
 
 ## Nasal consonants
 In this kind of consonants the air can escape freely from the nose because the soft palate does not lean against the rear wall of the throat but just hangs loosely. Therefore, the air passes through the oral and nasal cavities. Nasal consonants in English are [m], [n], and [ɳ]. However, these consonants are actually stops and during the closure and blockage stages the air only escapes from the nose.
