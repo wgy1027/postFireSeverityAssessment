@@ -234,7 +234,7 @@ Fig. Manner of articulation of the [ə] vowel.
 
 For the method to pronounce the [ə] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=rM9NxK74JSE)
 
-## ph
+## diphthong
 Common diphthongs in English include:
 | vowel        | For example      |
 |-------------- | -------- |
@@ -246,27 +246,27 @@ Common diphthongs in English include:
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_eɪ.png"></p>
 
-Fig. Manner of articulation of the [eɪ] vowel.
+Fig. Manner of articulation of the [eɪ] diphthong.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_aɪ.png"></p>
 
-Fig. Manner of articulation of the [aɪ] vowel.
+Fig. Manner of articulation of the [aɪ] diphthong.
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_oɪ.png"></p>
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔɪ.png"></p>
 
-Fig. Manner of articulation of the [oɪ] vowel.
+Fig. Manner of articulation of the [oɪ] diphthong.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_oʊ.png"></p>
 
-Fig. Manner of articulation of the [oʊ] vowel.
+Fig. Manner of articulation of the [oʊ] diphthong.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_aʊ.png"></p>
 
-Fig. Manner of articulation of the [aʊ] vowel.
+Fig. Manner of articulation of the [aʊ] diphthong.
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_eɪ.png"></p>
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ju.png"></p>
 
-Fig. Manner of articulation of the [eɪ] vowel.
+Fig. Manner of articulation of the [ju] diphthong.
 
 # Consonant
 
