@@ -24,17 +24,17 @@ Common monophthongs in General American English include:
 
 | vowel        | For example  |
 |------------- | ------------ |
-| /i/ | pol*i*ce, f*ee*t, *ea*t, and sill*y* |
-| /ɪ/ |*i*t, s*i*t, k*i*ck, m*y*th and b*i*tter |
-| /ɛ/ | *e*nd, b*e*t, l*e*ss, and l*e*tter |
-| /æ/ | *a*t, *a*pple, f*a*t, and m*a*tter |
-| /ə/ | kingd*o*m, ph*o*togr*a*phy, ph*i*los*o*phy, ketch*u*p, and h*u*ndred |
-| /ɚ/ | butt*er*, coll*ar*, flav*or*, f*ir*m, and b*ur*st |
-| /ʌ/ | b*u*s, bl*oo*d, c*o*me, and *u*p |
-| /u/ | c*oo*l, t*u*ne, s*ou*p, and kung f*u,* |
-| /ʊ/ | c*oo*k, sh*ou*ld, p*u*dding, and f*oo*t, r*ook* |
-| /ɔ/ | *a*ll, f*ou*ght, h*o*t, and b*o*t
-| /ɑ/ | f*a*ther, w*a*lk, *a*rm, h*ea*rt, w*a*sp, l*a*ger, *e*nvelope and *aa*rdv*a*rk |
+| /i/ | pol*i*ce, f*ee*t, *ea*t, sill*y* |
+| /ɪ/ |*i*t, s*i*t, k*i*ck, m*y*th, b*i*tter |
+| /ɛ/ | *e*nd, b*e*t, l*e*ss, l*e*tter |
+| /æ/ | *a*t, *a*pple, f*a*t, m*a*tter |
+| /ə/ | kingd*o*m, ph*o*togr*a*phy, ph*i*los*o*phy, ketch*u*p, h*u*ndred |
+| /ɚ/ | butt*er*, coll*ar*, flav*or*, f*ir*m, b*ur*st |
+| /ʌ/ | b*u*s, bl*oo*d, c*o*me, *u*p |
+| /u/ | c*oo*l, t*u*ne, s*ou*p, kung f*u,* |
+| /ʊ/ | c*oo*k, sh*ou*ld, p*u*dding, f*oo*t, r*ook* |
+| /ɔ/ | *a*ll, f*ou*ght, h*o*t, b*o*t
+| /ɑ/ | f*a*ther, w*a*lk, *a*rm, h*ea*rt, w*a*sp, l*a*ger, *e*nvelope, *aa*rdv*a*rk |
 
 **Diphthong**s are a combination of two different vowel sounds, one vowel sounds turns into another sound as you say them. If you pronounce the words below slowly, you can hear the two vowel sounds of the diphthongs.
 
@@ -43,9 +43,14 @@ Common diphthongs in English include:
 |-------------- | -------- |
 |   /eɪ/   | *a*te, r*ei*gn, v*ai*n, fl*a*vor, sl*ay*, conv*ey* |
 |   /aɪ/   | *eye*, *I*, p*ie*, cr*y*, c*y*pher, cl*i*mb, l*i*me, l*i*ght, k*ay*ak, Th*ai*, h*ei*ght |
-|   /oɪ/   |  b*oy*, m*oi*st, and Fr*eu*d |
-|   /oʊ/   |  t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, and chat*eau* |
-|   /aʊ/   |  l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, and Mac*au* |
+|   /oɪ/   |  b*oy*, m*oi*st, Fr*eu*d |
+|   /oʊ/   |  t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, chat*eau* |
+|   /aʊ/   |  l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, Mac*au* |
+
+| vowel        | For example      |
+|-------------- | -------- |
+| i | ɪ | ɛ | æ | ə | ɚ | ʌ | u | ʊ | ɔ | ɑ | eɪ | aɪ | oɪ | oʊ | aʊ |
+| ē | i | e | a | ə | r | ə | ü | u̇ | ä | ä | ā  | ī  | ȯi | ō  | au̇ |
 
 ## Pronunciation of [i:]
 Sound [i:] is a long close front unrounded tense vowel. It appears in words such as see[si:], or heat[hi:t].
