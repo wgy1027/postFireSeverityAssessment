@@ -54,14 +54,14 @@ In fact, the English alphabet has fewer consonant letters than English has conso
 
 In General American English, /r/ when not followed by a vowel is realized as an r-coloring of the preceding vowel or its coda: nurse [ˈnɚs], butter [ˈbʌtɚ].
 
-# Stops
+## Stops
 According to the organs involved in the closure of the oral cavity, stops are classed as follows:
 - Bilabial stops: the airstream is held by using both lips. Bilabial stops are [ph], [p], [p˺], and [b].
 - Alveolar stops: the airstream is held by pushing the tip of the tongue against the alveolar ridge. Alveolar stops are [th], [t], [t˺], and [d].
 - Velar stops: the airstream is held by pushing the back of the tongue against the soft palate. Velar stops are [kh], [k], k˺, and [g].
 - Glottal stops: the airstream is held by closing the vocal folds (remember that the space between the vocal folds is the glottis). Glottal stops are [ʔ] and [tʔ]. Sound [ʔ] is a pure glottal stop, not associated to any other sound, while [tʔ] is a co-articulation of [t] and [ʔ] (see Section 4.1.5subsubsection).
 
-## Bilabial sounds [ph], [p], [p˺], and [b]
+### Bilabial sounds [ph], [p], [p˺], and [b]
 The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released; see Figure 10. There are three voiceless allophones, [ph], [p], [p˺], and one voiced allophone, [b]. Spellings commonly associated with bilabials are p, pp for sound [p], as in pen[phen], happy[ˈhæpi], or lap[læp˺], and b, bb for sound [b], as in best[best] or robber[ˈrɑ:bər].
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
@@ -74,7 +74,7 @@ In this video Rachel describes all allophones of phoneme /p/.
 
 Video. Rachel's English: How to Pronounce B and P consonants
 
-## Alveolar sounds [th], [t], [t˺], and [d]
+### Alveolar stops [th], [t], [t˺], and [d]
 In alveolar sounds the closure is produced by the tongue blocking the airstream against the alveolar ridge; see the follow picture. In order to do so, the tongue widens to seal off the oral cavity. It is the blade of the tongue that makes contact with the alveolar ridge; the tip of the tongue is in rest position just behind the upper front teeth. As in the case of voiceless bilabial stops, there are an aspirated and de-aspirated allophones.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-t-d.jpg"></p>
@@ -86,7 +86,7 @@ Common spellings of phoneme /t/ are:
 - The past simple of a regular verb ends in phoneme /t/ when the last sound of the verb is a voiceless sound different from /t/: trip[thrɪp]PICtripped[thrɪp˺t], ask[æsk]PICasked[æsk˺t], laugh[læf]PIClaughed[læfth], toss[tɑ:s]PICtossed[tɑ:sth], mash[mæʃ]PICmashed[mæʃth]. Past simple endings are often aspirated to clearly distinguish them from other tenses. Past simple endings are seldom unreleased.
 Spelling th, although less frequent, can be found, as in Thailand[ˈthaɪlænd].
 
-## Velar sounds [kh], [k], [k˺], and [g]
+### Velar stops [kh], [k], [k˺], and [g]
 In velar sounds the closure is produced by the back of the tongue leaning against the soft palate, which blocks the airstream; see Figure 17. Similarly to bilabial and alveolar stops, aspirated, de-aspirated, and unreleased allophones ( [kh], [k], [k˺]) can be observed. When the stop is voiceless, sounds [kh], [k], and [k˺] are produced. If the stop is voiced, sound [g] results.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-k-g.jpg"></p>
