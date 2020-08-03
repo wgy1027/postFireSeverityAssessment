@@ -45,14 +45,155 @@ Common diphthongs in English include:
 
 
 
+
+## Pronunciation of [i:]
+Sound [i:] is a long close front unrounded tense vowel. It appears in words such as see[si:], or heat[hi:t].
+- Position of the tongue (backness/height): The tongue is as far forward as possible in the mouth. The middle part of the tongue is curved, almost touching the roof of the mouth, while the tip is behind the bottom front teeth.
+- Lip position: Lips are very spread, like in a smile. The corner of the lips are pulled wide.
+- Jaw-dropping: The jaw is fairly closed, but the teeth do not touch.
+- Length: [i:] is long sound.
+- Tenseness: [i:] is a tense sound.
+
+Common spellings for sound [i:] are: ee and ea, as in bee[bi:], or, as in easy['i:zi]; less common spellings are e, as in these[ði:z]; ey, as in key[ki:]; i, as in kilo['ki:loʊ]; eo, as in people['pi:pl].
+
+[![Rachel's English: How to Pronounce EE [i] Vowel](http://img.youtube.com/vi/_HuIAwQxEM4/0.jpg)](http://www.youtube.com/watch?v=_HuIAwQxEM4)
+
+Video. Rachel's English: How to Pronounce EE [i] Vowel.
+
+## Pronunciation of [ɪ]
+Sound [ɪ] is a short near-close near-front unrounded lax vowel, as in it[ɪt], hit[hɪt].
+- Position of the tongue (backness/height): The tongue is curved in the middle, but the tip is down, just behind the bottom front teeth. In this sound the tongue is not as close to the roof of the mouth as it is in sound [i:].
+- Lip position: Lips are in a neutral position; the corners of the lips are still pulled back a little bit, but without tension.
+- Jaw-dropping: The jaw is completely relaxed
+- Length: [ɪ] is a short sound.
+- Tenseness: [ɪ] is a lax vowel.
+
+The commonest spellings for sound [ɪ] is i, as in six[sɪks], cinema['sɪnəmə], or dinner['dɪnər]; a less common spelling is u, as in busy['bɪzi].
+
+[![Rachel's English: How to Pronounce IH [ɪ] vowel](http://img.youtube.com/vi/-BAYrt2oER8/0.jpg)](http://www.youtube.com/watch?v=-BAYrt2oER8)
+
+Video. Rachel's English: How to Pronounce IH [ɪ] vowel.
+
+**The tense/relax distinction for [i:] and [ɪ]**
+
+In the next video the difference between [i:] and [ɪ] in terms of the distinction tense/lax is explained.
+
+[![Rachel's English: the difference between [i:] and [ɪ]](http://img.youtube.com/vi/qq7Rmbt7_qQ/0.jpg)](http://www.youtube.com/watch?v=qq7Rmbt7_qQ)
+
+Video. Rachel's English: the difference between [i:] and [ɪ].
+
+## Pronunciation of [u:]
+Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju:z].
+- Position of the tongue (backness/height): The back part of the tongue raises toward the soft palate, while the front part of the tongue is down, just behind the bottom front teeth.
+- Lip position: Lips take up a very rounded position, projected away from the mouth.
+- Jaw-dropping: The jaw is closed and the teeth do not touch.
+- Length: [u:] is long sound.
+- Tenseness: [u:] is a tense sound.
+
+Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
+
+[![Rachel's English: How to Pronounce the OO [u] Vowel](http://img.youtube.com/vi/klJQmJpmjdc/0.jpg)](http://www.youtube.com/watch?v=klJQmJpmjdc)
+
+Video. Rachel's English: How to Pronounce the OO [u] Vowel.
+
+## Pronunciation of [ʊ]
+Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], or book[bʊk].
+- Position of the tongue (backness/height): It is a very similar position to that of [u:]. The back part of the tongue raises toward the soft palate, without actually touching it, while the tip of the tongue rests down behind the bottom front teeth. However, the difference with [u:] is that the back part of the tongue is raised less, and the tongue itself is not as back as before.
+- Lip position: Again, the lips are rounded, but not as much as in [u:], where they are very much projected forward.
+- Jaw-dropping: The jaw is closed and the teeth do not touch.
+- Length: [ʊ] is a short sound.
+- Tenseness: [ʊ] is a lax vowel. Both the tongue and the lips are less stiff than in [u:].
+
+Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
+
+## Pronunciation of [ɑ:]
+Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
+- Position of the tongue (backness/height): The tongue is really flat in the mouth. The back part of the tongue is pulled back in the mouth, but the tip is just behind the bottom front teeth.
+- Lip position: Lips are in neutral position.
+- Jaw-dropping: The jaw drops more than in any other vowel. The tongue presses down a little.
+- Length: [ɑ:] is a long sound.
+- Tenseness: [ɑ:] is a tense vowel.
+
+Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈfɑ:rðər]
+
+## Pronunciation of [ɔ:]
+Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
+- Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ:] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
+- Lip position: Lips take up the rounded position. The position for these vowel is less marked than in vowel [u:].
+- Jaw-dropping: The jaw drops, not as much as in the case of [ɑ:].
+- Length: [ɔ:] is a long sound.
+- Tenseness: [ɔ:] is a tense vowel.
+
+Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
+
+## Pronunciation of [ʌ]
+Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
+- Position of the tongue (backness/height): The tongue is relaxed and slightly pressed down in the back. It is also flat in shape as opposed to other vowel sounds where the tongue is curled. As for height, it is raised a little more than in vowel [ɑ:], where the tongue is as low as possible.
+- Lip position: Lips are in neutral position.
+- Jaw-dropping: The jaw is in neutral position, near to rest position. It is not as open as in vowel [ɑ:].
+- Length: [ʌ] is a short sound.
+- Tenseness: This is a lax vowel, as attested by the tongue and lip positions.
+- Sometimes vowels [ɑ:] and [ʌ] are confused. Apart from length and tenseness, jaw-dropping stresses some differences. Because of the jaw-dropping in vowel [ɑ:], the volume createdin the mouth for the air to go through is greater than in the case of vowel [ʌ]. That gives a different timbral quality to each vowel. Check the tongue positions out on the videos.
+
+The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
+
+## Pronunciation of [e]
+Sound [e] is an open-mid front unrounded short lax vowel, as in bed[bed], red[red]. Strictly speaking, the IPA symbol for this sound [ɛ]. Following authoritative dictionaries, such as the Oxford Dictionary and others, we will use the easier symbol [e] for this sound.
+- Position of the tongue (backness/height): Since this is a front vowel the tongue is pulled forwards. The mid part of the tongue is raised towards the roof of the mouth. The tip of the tongue rests against the bottom front teeth. In the video an interested observation is pointed out. The tongue is somewhat widened, a feature not very often taken into account.
+- Lip position: Lips are not rounded and are near the rest position.
+- Jaw-dropping: The jaw is open a little.
+- Length: [e] is a short sound.
+- Tenseness: [e] is a lax vowel.
+
+The commonest spelling is e, as in leg[leg], credit['kredɪt]. Other spellings are ea, as in dead[ded]; ie, as in friend[frend]; a, as in any[eni]; or ai, as in again[ə'gen].
+
+## Pronunciation of [æ]
+Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn], or hat[hæt].
+- Position of the tongue (backness/height): The back part of the tongue is raised a little; the front of the tongue stretches forward and presses behind the bottom front teeth. The production of this sound requires stretching of the tongue.
+- Lip position: Lips are more spread than in the rest position but less than in vowel [i:].
+- Jaw-dropping: The production of this sound requires a large opening jaw. This vowel will not sound natural unless the jaw drops as needed.
+- Length: [æ] is a short vowel.
+- Tenseness: This is a tense vowel.
+
+The usual spelling for this sound is a, as in bat[bæt], or carry['kæri]. Many monosyllabic words with a are pronounced with [æ], such as bat, cat, fat, gap, hat, rat, or sat.
+
+## Pronunciation of [ɜ:]
+[ɜ:] is an open-mid central unrounded long tense vowel, as in fur[fɜ:], or bird[bɜ:d]. In American English is always followed by a retroflex approximant, the so-called rhotic accent (see [Go12] for further information on rhotic accent).
+- Position of the tongue (backness/height): As central vowel, the tongue raises towards the roof of the mouth in the middle and even touches lightly the top teeth. However, the tip of the tongue hangs down, but it is not close to the bottom front teeth. Again, the video makes an important point by remarking that the tongue is fattened.
+- Lip position: The lips are slightly rounded, but not as much as in [u:] or [ɔ:].
+- Jaw-dropping: The jaw is in neutral position.
+- Length: [ɜ:] is a long vowel.
+- Tenseness: [ɜ:] is a tense vowel.
+
+Common spellings are: ir, as in first[fɜ:st]; or, as in word[wɜ:rd]; ur, as in fur[fɜ:r]; our, as in journey[dʒɜ:rni]; ear, as in early[ɜ:li]; or er, as in were[wɜ:r].
+
+## Pronunciation of the schwa sound [ə]
+[ə] is a mid central unrounded short lax vowel, as in about[ə'baʊt], interesting['ɪntrəstɪŋ]. The schwa always goes on an unstressed syllable. Partly due to vowel reduction, this is the commonest sound in American English.
+- Position of the tongue (backness/height): The tongue is relaxed and flat, placed at mid height in the mouth. The back part of the tongue is slightly pulled back and the tip is just behind the bottom front teeth.
+- Lip position: Lips are very relaxed and in neutral position.
+- Jaw-dropping: The jaw is in a rest position without the teeth quite touching.
+- Length: [ə] is a short vowel.
+- Tenseness: [ə] is a lax vowel.
+
+The schwa appears in many spellings; for example, in a, as in abide[ə'baid]; in e, as in fether['feðər]; in o, as in continue[kən'tɪnju:], or in u, as in supply[sə'paɪ],
+
 # Consonant
 
 In articulatory phonetics, a **consonant** is a speech sound that is articulated with complete or partial closure of the vocal tract. Examples are IPA, pronounced with the lips; [t], pronounced with the front of the tongue; [k], pronounced with the back of the tongue; [h], pronounced in the throat; [f] and [s], pronounced by forcing air through a narrow channel (**fricative**s); and [m] and [n], which have air flowing through the nose (**nasal**s). Contrasting with consonants are **vowel**s.
 
 In fact, the English alphabet has fewer consonant letters than English has consonant sounds, so **digraph**s like "ch", "sh", "th", and "zh" are used to extend the alphabet, and some letters and digraphs represent more than one consonant. For example, the sound spelled "th" in "this" is a different consonant from the "th" sound in "thin". (In the IPA, they are transcribed [ð] and [θ], respectively.)
 
-
 In General American English, /r/ when not followed by a vowel is realized as an r-coloring of the preceding vowel or its coda: nurse [ˈnɚs], butter [ˈbʌtɚ].
+
+The following table shows the consonant sounds found in English. When consonants are shown in pairs, voiceless consonants appear to the left of the black bullet and voiced consonants to the right. Main allophones have also been included in the Table, which will be explained in detail later.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-Consonant-table.jpg"></p>
+
+Fig. English consonants and semivowels.
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-upper_vocal_tract.jpg"></p>
+
+Fig. The upper vocal tract
 
 ## Stops
 According to the organs involved in the closure of the oral cavity, stops are classed as follows:
