@@ -226,11 +226,11 @@ In General American English, /r/ when not followed by a vowel is realized as an 
 
 The following table shows the consonant sounds found in English. When consonants are shown in pairs, voiceless consonants appear to the left of the black bullet and voiced consonants to the right. Main allophones have also been included in the Table, which will be explained in detail later.
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-Consonant-table.jpg"></p>
+<p align="center"><img align="center" width="350" src="./notePic/americanEnglishPronunciation-Consonant-table.jpg"></p>
 
 Fig. English consonants and semivowels.
 
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-upper_vocal_tract.jpg"></p>
+<p align="center"><img align="center" width="350" src="./notePic/americanEnglishPronunciation-upper_vocal_tract.jpg"></p>
 
 Fig. The upper vocal tract
 
