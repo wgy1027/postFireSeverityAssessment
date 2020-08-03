@@ -30,11 +30,11 @@ Common monophthongs in General American English include:
 | /æ/ | *a*t, *a*pple, f*a*t, m*a*tter |
 | /ə/ | kingd*o*m, ph*o*togr*a*phy, ph*i*los*o*phy, ketch*u*p, h*u*ndred |
 | /ɚ/ | butt*er*, coll*ar*, flav*or*, f*ir*m, b*ur*st |
+| /ɑ/ | f*a*ther, w*a*lk, *a*rm, h*ea*rt, w*a*sp, l*a*ger, *e*nvelope, *aa*rdv*a*rk |
 | /ʌ/ | b*u*s, bl*oo*d, c*o*me, *u*p |
 | /u/ | c*oo*l, t*u*ne, s*ou*p, kung f*u,* |
 | /ʊ/ | c*oo*k, sh*ou*ld, p*u*dding, f*oo*t, r*ook* |
-| /ɔ/ | *a*ll, f*ou*ght, h*o*t, b*o*t
-| /ɑ/ | f*a*ther, w*a*lk, *a*rm, h*ea*rt, w*a*sp, l*a*ger, *e*nvelope, *aa*rdv*a*rk |
+| /ɔ/ | *a*ll, f*ou*ght, h*o*t, b*o*t|
 
 **Diphthong**s are a combination of two different vowel sounds, one vowel sounds turns into another sound as you say them. If you pronounce the words below slowly, you can hear the two vowel sounds of the diphthongs.
 
@@ -89,38 +89,6 @@ For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel'
 
 For the difference between [i:] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
 
-## Pronunciation of [u:]
-Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju:z].
-- Position of the tongue (backness/height): The back part of the tongue raises toward the soft palate, while the front part of the tongue is down, just behind the bottom front teeth.
-- Lip position: Lips take up a very rounded position, projected away from the mouth.
-- Jaw-dropping: The jaw is closed and the teeth do not touch.
-- Length: [u:] is long sound.
-- Tenseness: [u:] is a tense sound.
-
-Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
-
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_u.png"></p>
-
-Fig. Manner of articulation of the [u:] vowel.
-
-For the method to pronounce the [u:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=klJQmJpmjdc).
-
-## Pronunciation of [ʊ]
-Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], or book[bʊk].
-- Position of the tongue (backness/height): It is a very similar position to that of [u:]. The back part of the tongue raises toward the soft palate, without actually touching it, while the tip of the tongue rests down behind the bottom front teeth. However, the difference with [u:] is that the back part of the tongue is raised less, and the tongue itself is not as back as before.
-- Lip position: Again, the lips are rounded, but not as much as in [u:], where they are very much projected forward.
-- Jaw-dropping: The jaw is closed and the teeth do not touch.
-- Length: [ʊ] is a short sound.
-- Tenseness: [ʊ] is a lax vowel. Both the tongue and the lips are less stiff than in [u:].
-
-Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
-
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ʊ.png"></p>
-
-Fig. Manner of articulation of the [ʊ] vowel.
-
-For the method to pronounce the [ʊ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VrIPpIfC8e4)
-
 ## Pronunciation of [ɑ:]
 Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
 - Position of the tongue (backness/height): The tongue is really flat in the mouth. The back part of the tongue is pulled back in the mouth, but the tip is just behind the bottom front teeth.
@@ -136,22 +104,6 @@ Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈ
 Fig. Manner of articulation of the [ɑ:] vowel.
 
 For the method to pronounce the [ɑ:] vowel, please refer to the video in [Rachel's English]((http://www.youtube.com/watch?v=TWO6g9x-TgI)
-
-## Pronunciation of [ɔ:]
-Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
-- Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ:] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
-- Lip position: Lips take up the rounded position. The position for these vowel is less marked than in vowel [u:].
-- Jaw-dropping: The jaw drops, not as much as in the case of [ɑ:].
-- Length: [ɔ:] is a long sound.
-- Tenseness: [ɔ:] is a tense vowel.
-
-Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
-
-<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔ.png"></p>
-
-Fig. Manner of articulation of the [ɔ] vowel.
-
-For the method to pronounce the [ɔ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=O6fEHqj8U84)
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
@@ -233,6 +185,54 @@ The schwa appears in many spellings; for example, in a, as in abide[ə'baid]; in
 Fig. Manner of articulation of the [ə] vowel.
 
 For the method to pronounce the [ə] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=rM9NxK74JSE)
+
+## Pronunciation of [u:]
+Sound [u:] is a close back rounded long tense vowel, as in moon[mu:n], or use[ju:z].
+- Position of the tongue (backness/height): The back part of the tongue raises toward the soft palate, while the front part of the tongue is down, just behind the bottom front teeth.
+- Lip position: Lips take up a very rounded position, projected away from the mouth.
+- Jaw-dropping: The jaw is closed and the teeth do not touch.
+- Length: [u:] is long sound.
+- Tenseness: [u:] is a tense sound.
+
+Common spellings for [u:] are oo, as in boo[bu:]; oe, as in shoe[ʃu:]; ou, as in route[ru:t]; ue, as in clue[klu:]. This sound often appears in the pair [ju:] associated with spellings ew and u, as in few[fju:] and music['mju:zik].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_u.png"></p>
+
+Fig. Manner of articulation of the [u:] vowel.
+
+For the method to pronounce the [u:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=klJQmJpmjdc).
+
+## Pronunciation of [ʊ]
+Sound [ʊ] is a near-close near-back rounded short lax vowel, as in put[pʊt], or book[bʊk].
+- Position of the tongue (backness/height): It is a very similar position to that of [u:]. The back part of the tongue raises toward the soft palate, without actually touching it, while the tip of the tongue rests down behind the bottom front teeth. However, the difference with [u:] is that the back part of the tongue is raised less, and the tongue itself is not as back as before.
+- Lip position: Again, the lips are rounded, but not as much as in [u:], where they are very much projected forward.
+- Jaw-dropping: The jaw is closed and the teeth do not touch.
+- Length: [ʊ] is a short sound.
+- Tenseness: [ʊ] is a lax vowel. Both the tongue and the lips are less stiff than in [u:].
+
+Common spellings for [ʊ] are oo, as in book[bʊk]. Notice that in general oo is pronounced as [u:], but the spelling ook is an exception and it is always pronounced as [ʊk]. Other common spellings are u and ou, as in full[fʊl] and would[wʊd].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ʊ.png"></p>
+
+Fig. Manner of articulation of the [ʊ] vowel.
+
+For the method to pronounce the [ʊ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VrIPpIfC8e4)
+
+## Pronunciation of [ɔ:]
+Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
+- Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ:] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
+- Lip position: Lips take up the rounded position. The position for these vowel is less marked than in vowel [u:].
+- Jaw-dropping: The jaw drops, not as much as in the case of [ɑ:].
+- Length: [ɔ:] is a long sound.
+- Tenseness: [ɔ:] is a tense vowel.
+
+Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
+
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔ.png"></p>
+
+Fig. Manner of articulation of the [ɔ] vowel.
+
+For the method to pronounce the [ɔ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=O6fEHqj8U84)
 
 ## diphthong
 Common diphthongs in English include:
