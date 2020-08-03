@@ -139,13 +139,13 @@ Video. Rachel's English: How to Pronounce TH Consonants [θ] + [ð]
 ## Alveolar sounds [s] and [z]
 Sounds [s] and [z] have the same manner and place of articulation; they only differ in voicing. Sound [s] is voiceless, whereas sound [z] is voiced. As for their articulation, the blade of the tongue is raised towards the roof of the mouth. The tip of the tongue rests just behind the bottom front teeth; see the following picture.
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-s-z.jpg"></p>
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-s-z.jpg"></p>
 
 Fig. Manner of articulation of alveolar fricatives [s] and [z].
 
 Furthermore, earlier on we defined sounds [s] and [z] as being sibilants. The tongue is thus curved along its medial axis, with its sides actually touching the alveolar ridge and forming a narrow passage or groove through which the airstream passes. That is the way this sibilant consonant is produced. Lips are parted and the corners pull back as in a smile. In Figure 25, we can see the articulatory gesture for [s] as in saw pronounced by Ladefoged. On the right, the solid line shows the position of the tongue, as extracted from x-rays, whereas the grey line indicates the position of the sides of the tongue, as given by palatograms. Between both lines, it is possible to imagine the exact tongue shape for this sound. On the left, it is shown a transverse view taken from the coronal section (indicated by the arrow on the left).
 
-<p align="center"><img align="center" width="300" src="./notePic/americanEnglishPronunciation-Tongue-shape-s.jpg"></p>
+<p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-Tongue-shape-s.jpg"></p>
 
 Fig. Tongue shape for alveolar fricatives [s] and [z].
 
