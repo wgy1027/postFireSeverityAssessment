@@ -12,13 +12,13 @@ As well, government and university researchers have developed several fire occur
 
 
 higher slopes increase the rate of spread and intensity, but usually reduce the residence time of fire. Burn severity is expected to be more severe in coniferous forests
-than in broadleaved forests [[Fernandes et al. 2010](Fernandes2010)]. The pre-fire tree species composition could play an important role in determining post-fire reflectance and recovery and, subsequently, burn severity [[Dragozi et al., 2016](#Dragozi2016)]. Even more, the season of the year when each fire takes place is expected to influence the initial fire severity, and delayed vegetation response.
+than in broadleaved forests [[Fernandes et al. 2010](#Fernandes2010)]. The pre-fire tree species composition could play an important role in determining post-fire reflectance and recovery and, subsequently, burn severity [[Dragozi et al., 2016](#Dragozi2016)]. Even more, the season of the year when each fire takes place is expected to influence the initial fire severity, and delayed vegetation response [[Fernandes et al., 2017](#Fernandes2010)].
 
 
 # Reference:
 
 <span id="Valor2017">[Valor2017] Valor, T., Olabarria, J., Pique, M., Casals, P., 2017. The effects of burning season and severity on the mortality over time of Pinus nigra spp. salzmannii (Dunal) Franco and P. sylvestris L. For. Ecol. Manag. 406, 172–183.</span>
 
-<span id="Fernandesf2010">[Fernandes2010] Fernandes, P.M., Luz, A., Loureiro, C., 2010. Changes in wildfire severity from maritime pine woodland to contiguous forest types in the mountains of northwestern Portugal. For. Ecol. Manag. 260, 883–892. https://doi.org/10.1016/j.foreco.2010.06.008. </span>
+<span id="Fernandes2010">[Fernandes2010] Fernandes, P.M., Luz, A., Loureiro, C., 2010. Changes in wildfire severity from maritime pine woodland to contiguous forest types in the mountains of northwestern Portugal. For. Ecol. Manag. 260, 883–892. https://doi.org/10.1016/j.foreco.2010.06.008. </span>
 
 <span id="Dragozi2016">[Dragozi2016] Dragozi, E., Gitas, I.Z., Bajocco, S., Stavrakoudis, D.G., 2016. Exploring the relationship between burn severity field data and very high resolution GeoEye images: the Case of the 2011 Evros wildfire in Greece. Rem. Sens. 8. https://doi.org/10.3390/rs8070566. </span>
