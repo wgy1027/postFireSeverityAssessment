@@ -175,7 +175,7 @@ landscape 景观 landform 地形；地貌 temperate ecosystem 温带生态系统
 
 deciduous forest 落叶森林 evergreen forest 常绿森林 larch forest 落叶松林 conifer forest 针叶林 broadleaf tree 阔叶树 chaparral 丛林 agricultural land 农业用地 woodland 林地；森林 pristine forest 原始森林 secondary forest 次生林 wetland 湿地 wildland 荒地 upland 山地；高地 pasture 草地；牧场 grassland 草原 savanna 大草原 rangeland 牧场 shrubland 灌木地；灌丛带 underbrush 林下灌木丛 hay 干草 cultivated crop 中耕作物 open space 空地 forest stand 林分；林段  stand density 林分密度 stratify 分层；成层 tree thickness 树皮厚度 breast height 胸高
 
-spruce 云杉 fir 冷杉；枞木 taiga 针叶树林地带；北方针叶林 steppe 大草原 coniferous 针叶的；结球果的；松柏科的 eucalypt 桉树 pitch pine 北美脂松 genus 类，种；[生物] 属
+spruce 云杉 fir 冷杉；枞木 taiga 针叶树林地带；北方针叶林 steppe 大草原 coniferous 针叶的；结球果的；松柏科的 eucalypt 桉树 pitch pine 北美脂松 genus 类，种；[生物] 属 aspens 白杨 oaks 橡树 maple 枫树 ash tree 白蜡树 birch 桦树 beech 山毛榉
 
 canopy structure 冠层结构 overstory 上层林冠 understory 林下叶层
 
