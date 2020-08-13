@@ -1,21 +1,39 @@
 1 (train chugging) (train whistle blows)
+
 ADULT SHELDON: I've always loved trains. In fact, if my career in theoretical physics hadn't worked out, my backup plan was to become a professional ticket taker. Or hobo. (train whistle blows) And when I figured out that trains allowed me to prove Newton's first law An object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force I felt like Neil Armstrong on the moon, alone and happy.
+
 MARY: Shelly, dinner's ready!
+
 Be-bop-a-lula, baby, what I say (giggles) I don't care how dimwitted you are. Scientific principles have to make you smile. Of course, nobody I knew in East Texas in 1989 cared about Newtonian physics. The only Newtons they cared about were Wayne and Fig.
+
 MISSY: Sheldon, if you don't get in here, - I'm gonna lick your toothbrush!
+
 SHELDON: Coming!
+
 That's my sister. And she's done it before. Do the walk of life Yeah, he do the walk of life. The hell were you doing - out there?
+
 MARY: George, language.
+
 DAD: What language? So?
+
 SHELDON: I was exploring dimensional kinematics.
+
 JoJon: Admit it. He's adopted.
+
 SHELDON: How can I be adopted when I have a twin sister? Think, monkey, think.
+
 MARY: That's enough. No one's adopted.
+
 I wish I was.
+
 That can still be arranged. Now, let's pray.
+
 A moment, please.
+
 DAD: (sighs)
+
 MARY: Leave him be.
+
 He can hold hands with his family. It won't kill him.
 DAD: We don't know that.
 SHELDON: Georgie, did you wash your hands before dinner? Or even this week?
