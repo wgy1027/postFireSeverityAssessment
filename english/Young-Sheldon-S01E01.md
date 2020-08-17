@@ -7,21 +7,13 @@ Abstract: 9-year-old Sheldon Cooper learns that having a brilliant mind doesn't 
 
 (train whistle blows)
 
-ADULT SHELDON: I've always loved trains.
-
-In fact, if my career  in theoretical physics hadn't worked out, my backup plan  was to become a professional ticket taker.
-
-Or hobo.
+ADULT SHELDON: I've always loved trains. In fact, if my career  in theoretical physics hadn't worked out, my backup plan  was to become a professional ticket taker. Or hobo.
 
 (train whistle blows)
 
 (♪♪♪)
 
-And when I figured out that trains allowed me  to prove Newton's first law...
-
-An object in motion stays in motion  with the same speed and in the same direction  unless acted upon by an unbalanced force...
-
-I felt like Neil Armstrong on the moon,  alone and happy.
+And when I figured out that trains allowed me  to prove Newton's first law... An object in motion stays in motion  with the same speed and in the same direction  unless acted upon by an unbalanced force... I felt like Neil Armstrong on the moon,  alone and happy.
 
 MARY: Shelly, dinner's ready!
 
@@ -38,79 +30,58 @@ The only Newtons they cared about  were Wayne and Fig.
 MISSY: Sheldon, if you don't get in here,  - I'm gonna lick your toothbrush!
 - Coming!
 
-That's my sister.
-
-And she's done it before.
+YOUNG SHELDON: That's my sister. And she's done it before.
 
 ♪ Do the walk of life ♪
 
 ♪ Yeah, he do the walk of life. ♪
 
-The hell were you doing  - out there?
-- George,
+GEORGE: The hell were you doing out there?
 
-language.
+MARY: George, language.
 
-What language? So?
+GEORGE: What language? So?
 
-I was exploring dimensional kinematics.
+YOUNG SHELDON: I was exploring dimensional kinematics.
 
-Admit it... He's adopted.
+GEORGIE: Admit it... He's adopted.
 
-SHELDON: How can I be adopted  when I have a twin sister?
+YOUNG SHELDON: How can I be adopted  when I have a twin sister? Think, monkey, think.
 
-Think, monkey, think.
+MARY: That's enough. No one's adopted.
 
-MARY: That's enough.
+MISSY: I wish I was.
 
-No one's adopted.
+MARY: That can still be arranged. Now, let's pray.
 
-I wish I was.
-
-That can still be arranged.
-
-Now, let's pray.
-
-A moment, please.
+YOUNG SHELDON: A moment, please.
 
 (sighs)
 
-- Leave him be.
-- He can hold hands
+MARY: Leave him be.
 
-with his family.
-It won't kill him.
+GEORGE: He can hold hands with his family. It won't kill him.
 
-We don't know that.
-
-Georgie, did you wash your hands before dinner?
-
-Or even this week?
+GEORGE: We don't know that. Georgie, did you wash your hands before dinner? Or even this week?
 
 None of your business.
 
-Hence the mittens.
+GEORGE: Hence the mittens.
 
 MARY: Thank you, God, for this food  we're about to receive and for the nourishment of our bodies,  and bless the hands that prepared it.
 
 ALL: Amen.
 
-How come we ain't got no tater tots?
+GEORGIE: How come we ain't got no tater tots?
 
-I made tater tots last night.
+MARY: I made tater tots last night.
 
 GEORGE: I'd take tater tots  over mashed potaters any day.
 
 - Just eat what I made you.
-- Can we at least
+- Can we at least have tater tots tomorrow?
 
-have tater tots tomorrow?
-
-ADULT SHELDON: It was family dinners like this  that led me to adopt a mid-Atlantic accent.
-
-Nobel Prize winners...
-
-(Southern accent) ought not be orderin' tater tots.
+ADULT SHELDON: It was family dinners like this  that led me to adopt a mid-Atlantic accent. Nobel Prize winners... (Southern accent) ought not be orderin' tater tots.
 
 Everybody excited to start school Monday?
 
@@ -124,19 +95,17 @@ Freshman year, that's a big deal.
 
 How can I be excited when he's gonna be  in the same grade as me?
 
-SHELDON: Don't worry, Georgie, I'm not planning  on being in the ninth grade for very long.
+YOUNG SHELDON: Don't worry, Georgie, I'm not planning  on being in the ninth grade for very long.
 
 All I know is he's not in the same grade as me anymore,  and I'm thrilled.
 
-Good luck with your finger painting.
+YOUNG SHELDON: Good luck with your finger painting.
 
 You're gonna get your ass kicked in high school.
 
 MARY: Hey, language.
 
-I'm not going to be assaulted.
-
-High school is a haven for higher learning.
+YOUNG SHELDON: I'm not going to be assaulted. High school is a haven for higher learning.
 
 Oh, dear God.
 
@@ -153,12 +122,13 @@ Georgie?
 
 I got to study my playbook.
 
-I'll go with you, Mom.
+YOUNG SHELDON: I'll go with you, Mom.
 
 MISSY: Why are you going?
 
 - You don't believe in God.
-- No,
+
+YOUNG SHELDON: No,
 
 but I believe in Mom.
 
@@ -196,12 +166,13 @@ ALL: ♪ Onward, Christian soldiers ♪
 
 ♪ Going on before. ♪
 
-In Matthew nine, verse four, Jesus said,  "Why would you entertain evil thoughts in your hearts?"
+JEFF: In Matthew nine, verse four, Jesus said,  "Why would you entertain evil thoughts in your hearts?"
 
-- (quietly) Do you have evil thoughts?
-- Shh.
+YOUNG SHELDON: (quietly) Do you have evil thoughts?
 
-I just don't think this part applies to me.
+MARY: Shh.
+
+YOUNG SHELDON: I just don't think this part applies to me.
 
 That's fine.
 Be quiet and listen.
@@ -212,11 +183,11 @@ Most evil doesn't start till puberty.
 
 (clears throat)
 
-Hello.
+YOUNG SHELDON: Hello.
 
 Philippians 4:8,  "Finally, brothers, whatever is..."
 
-Do you have evil thoughts?
+YOUNG SHELDON: Do you have evil thoughts?
 
 I'm having one right now.
 
@@ -224,10 +195,9 @@ Really? What is it?
 
 When we get home, I'm gonna kick your little balls.
 
-You can't.
-They haven't descended yet.
+You can't. They haven't descended yet.
 
-- Mom?
+YOUNG SHELDON: Mom?
 - What?
 
 When should I be expecting my testicles?
@@ -240,12 +210,11 @@ Nothin' is wrong with him.
 
 Now, turn around before I knock your lights out.
 
-PASTOR: think continually on these things.
+JEFF: think continually on these things.
 
 A good thought leads  to a good thing.
 
-You feel it in your body.
-You feel it in your...
+You feel it in your body. You feel it in your...
 
 ADULT SHELDON: My mom was my Christian soldier.
 
@@ -259,13 +228,13 @@ And for the record, they descended when I was 15.
 
 Shelly, it's your last day of summer. Go out and enjoy it.
 
-But I have to learn the student handbook.
+YOUNG SHELDON: But I have to learn the student handbook. Ooh, did you know extreme hairstyles,  goatees and mustaches are not allowed?
 
-Ooh, did you know extreme hairstyles,  goatees and mustaches are not allowed?
+MARY: I didn't.
 
-I didn't. I personally find that very reassuring.
+YOUNG SHELDON: I personally find that very reassuring.
 
-Look what a beautiful day it is.
+MARY: Look what a beautiful day it is.
 
 (loud whirring)
 
@@ -273,15 +242,15 @@ Look what a beautiful day it is.
 
 (deep barking)
 
-Go play.
+MARY: Go play.
 
-"Go play"... if only life were that simple.
+YOUNG SHELDON: "Go play"... if only life were that simple.
 
-There, I played.
+YOUNG SHELDON: There, I played.
 
-Hey, Sheldon!
+BILLY: Hey, Sheldon!
 
-Hello, Billy Sparks.
+YOUNG SHELDON: Hello, Billy Sparks.
 
 - Hello, Matilda Sparks.
 - I heard
@@ -289,26 +258,27 @@ Hello, Billy Sparks.
 - you're going to high school tomorrow.
 - I am.
 
-You're going to have to find someone else  to torment on the playground.
+YOUNG SHELDON: You're going to have to find someone else  to torment on the playground.
 
 "Torment"?
 
-(sighs) It means to maliciously harass.
+YOUNG SHELDON: (sighs) It means to maliciously harass.
 
 "Her ass"? (chuckles)
 
 That's funny.
 
-Well, this was nice.
+YOUNG SHELDON: Well, this was nice.
 
 Hey, doofus!
 
 (squawks)
 
-Mom!
+YOUNG SHELDON: Mom!
 
 - Good girl.
-- Mom!
+
+YOUNG SHELDON: Mom!
 
 MARY: What am I supposed to do? His feet are growing.
 
@@ -326,7 +296,7 @@ MARY: Will you please keep your voice down?
 
 They're fighting about you again.
 
-They're fighting about money.
+YOUNG SHELDON: They're fighting about money.
 
 It's a common argument in marriages.
 
@@ -340,33 +310,25 @@ Mom?
 
 Hmm?
 
-Do we have financial problems?
+YOUNG SHELDON: Do we have financial problems?
 
-Don't you worry about that.
-
-We are fine.
-
-Now, go to sleep.
+Don't you worry about that. We are fine. Now, go to sleep.
 
 (sighs)
 
-She's lying. She just said that to make you feel better.
+MISSY: She's lying. She just said that to make you feel better.
 
-Mom doesn't lie.
-
-Sure, she thinks  the Earth was made in six days,  but that's 'cause she's gullible, not a liar.
+YOUNG SHELDON: Mom doesn't lie. Sure, she thinks the Earth was made in six days,  but that's 'cause she's gullible, not a liar.
 
 MISSY: Mom,  Sheldon can't find his bowtie.
 
-Really? I laid it out for him.
+MARY: Really? I laid it out for him.
 
-Leave it alone, Mary.
-He doesn't need a bowtie.
+Leave it alone, Mary. He doesn't need a bowtie.
 
-It's his first day of school.
-Let him wear what he wants.
+It's his first day of school. Let him wear what he wants.
 
-SHELDON: Mom, I can't find my bowtie!
+YOUNG SHELDON: Mom, I can't find my bowtie!
 
 Dear Lord, why's he got to wear a bowtie?
 
@@ -378,14 +340,14 @@ Everybody's gonna know he's your brother.
 
 It's gonna be awful for you.
 
-Tell her to shut up.
+MISSY: Tell her to shut up.
 
-She's not wrong.
+GEOGIE: She's not wrong.
 
 (TV plays quietly)
 
 - It's got to be here.
-- SHELDON: It's not.
+-YOUNG SHELDON: It's not.
 
 - It's not!
 Shelly, stay calm. We'll find it.
@@ -395,8 +357,7 @@ Shelly, stay calm. We'll find it.
 
 you don't really need a tie.
 
-I have to find my tie.
-I have to find my tie.
+YOUNG SHELDON: I have to find my tie. I have to find my tie.
 
 Be right back.
 
@@ -415,17 +376,17 @@ She's gonna find your dirty magazines.
 
 Shut up!
 
-You are not having a good day.
+MISSY: You are not having a good day.
 
 (sighs)
 
 (sighs)
 
-Ugh!
+MARY: Ugh!
 
 (sighs)
 
-Hey. Hey, he didn't take it.
+GEORGE: Hey. Hey, he didn't take it.
 
 - Then what happened to it?!
 - SHELDON: Help me find my bowtie!
@@ -443,13 +404,9 @@ Isn't that weird enough?
 
 Give it to me. Come on.
 
-It's not just Sheldon.
+It's not just Sheldon. Georgie's gonna be in class with him. Not in the bathroom!
 
-Georgie's gonna be in class with him.
-
-Not in the bathroom!
-
-Give it.
+MARY: Give it.
 
 ♪ Think about it ♪
 
@@ -457,25 +414,23 @@ Give it.
 
 ♪ Down in the heart or hidden in the stars above ♪
 
-Would you like to play a driving game?
+YOUNG SHELDON: Would you like to play a driving game?
 
-Not really. I always lose.
+MARY: Not really. I always lose.
 
-- I know. That's why it's fun.
+YOUNG SHELDON: I know. That's why it's fun.
 - (laughs)
 
-How about license plates with prime numbers  - followed by a cons...?
+YOUNG SHELDON: How about license plates with prime numbers  - followed by a cons...?
 - Why don't we just talk?
 
 Very well.
 
-You understand  that some people are gonna be intimidated by you  'cause of how smart you are?
+MARY: You understand  that some people are gonna be intimidated by you  'cause of how smart you are?
 
-Or maybe they'll recognize my intellect  and make me their leader.
+YOUNG SHELDON: Or maybe they'll recognize my intellect and make me their leader.
 
-Lord, look after my son.
-
-Don't let him get stuffed in a gym bag.
+MARY: Lord, look after my son. Don't let him get stuffed in a gym bag.
 
 ♪ Bring me a higher love, oh, oh ♪
 
@@ -485,30 +440,25 @@ Don't let him get stuffed in a gym bag.
 
 (distorted speech)
 
-Oh, dear.
+YOUNG SHELDON: Oh, dear.
 
-Yeah.
+MARY: Yeah.
 
-That boy has an exposed tattoo.
+YOUNG SHELDON: That boy has an exposed tattoo.
 
 He does.
 
-I wonder if he knows  that's in violation of the dress code.
+YOUNG SHELDON: I wonder if he knows  that's in violation of the dress code.
 
-Speaking of which, how about we lose the bowtie?
+MARY: Speaking of which, how about we lose the bowtie?
 
-Why?
+YOUNG SHELDON: Why?
 
-Look around, honey. None of the other kids are wearing one.
+MARY: Look around, honey. None of the other kids are wearing one.
 
 Well, perhaps I'll start a fad.
 
-No, you won't.
-Please trust Mommy.
-
-All right, tell you what.
-
-You take it off, and this weekend,  I'll take you to RadioShack.
+No, you won't. Please trust Mommy. All right, tell you what. You take it off, and this weekend,  I'll take you to RadioShack.
 
 Hmm?
 
@@ -520,7 +470,7 @@ Hmm?
 
 You doing okay?
 
-I guess.
+YOUNG SHELDON: I guess.
 
 (roars)
 
@@ -532,100 +482,71 @@ I like that.
 
 MARY: And remember, if anybody bothers you, what do you say?
 
-My dad's a football coach.
+YOUNG SHELDON: My dad's a football coach.
 
-And? My brother's a football player.
+And?
+
+YOUNG SHELDON: My brother's a football player.
 
 Good.
 
-Hey, Mom, look.
-
-That girl's pregnant.
+YOUNG SHELDON: Hey, Mom, look. That girl's pregnant.
 
 Congratulations.
 
 (toilet flushing)
 
-Well, that was revolting.
+YOUNG SHELDON: Well, that was revolting.
 
-All right. This is your homeroom.
+All right. This is your homeroom. Do you want me to go in with you?
 
-Do you want me to go in with you?
-
-No. Although I could've used you in the restroom.
+YOUNG SHELDON: No. Although I could've used you in the restroom.
 
 Okay, well...
 
-You have a good day.
+You have a good day. And I'll pick you up after school,  same door we came in.
 
-And I'll pick you up after school,  same door we came in.
-
-Are you crying or having an allergy attack?
+YOUNG SHELDON: Are you crying or having an allergy attack?
 
 Allergies.
 
-It's probably the ammonia.
+YOUNG SHELDON: It's probably the ammonia.
 
 Probably. (sniffles)
 
-Okay. Let the learning begin.
+YOUNG SHELDON: Okay. Let the learning begin.
 
 (exhales)
 
-All right, everybody, my name is Ms. MacElroy.
+MacElroy: All right, everybody, my name is Ms. MacElroy. In addition to being your homeroom teacher,  I'll be seeing some of you in my English class,  and some of you on the volleyball court. Just to give you a little history,  I've been here at Medford for 29 years... I taught some of your older brothers and sisters,  and sadly, some of your parents. Not much I haven't seen. Until today. I'm sure you're well aware we have a student with us,  who, despite his young age,  is remarkably gifted. And I expect y'all to make him feel welcome. Yes, Sheldon?
 
-In addition to being your homeroom teacher,  I'll be seeing some of you in my English class,  and some of you on the volleyball court.
-
-Just to give you a little history,  I've been here at Medford for 29 years...
-
-I taught some of your older brothers and sisters,  and sadly, some of your parents.
-
-Not much I haven't seen.
-
-Until today.
-
-I'm sure you're well aware we have a student with us,  who, despite his young age,  is remarkably gifted.
-
-And I expect y'all to make him feel welcome.
-
-Yes, Sheldon?
-
-Per the student dress and grooming code,  this boy's hair is too long,  this boy is wearing sports attire  outside of a designated area  and this girl's blouse is diaphanous,  which means I can see her brassiere.
+YOUNG SHELDON: Per the student dress and grooming code,  this boy's hair is too long,  this boy is wearing sports attire  outside of a designated area  and this girl's blouse is diaphanous,  which means I can see her brassiere.
 
 - (laughter)
 - Thank you.
 
-I will take that into account.
-
-All right.
-
-We have a few minutes before first period.
+I will take that into account. All right. We have a few minutes before first period.
 
 I need y'all to fill out these forms.
 
 What?
 
-Also in violation  of the grooming code on page 48,  article five, subsection B,  you have a bit of a mustache.
+YOUNG SHELDON: Also in violation  of the grooming code on page 48,  article five, subsection B,  you have a bit of a mustache.
 
 (laughter)
 
-This is a stupid idea.
-This boy does not  belong in our school.
+This is a stupid idea. This boy does not  belong in our school.
 
-PETERSEN: Come on Vicky, it's just the first day.
+PETERSEN: Come on Vicky, it's just the first day. Why don't we all just take a deep breath here?
 
-Why don't we all just take a deep breath here?
-
-The hell with that. Five minutes into my math class,  he questioned my credentials.
+The hell with that. Five minutes into my math class, he questioned my credentials.
 
 How am I supposed to control a classroom when a kid accuses me  of being in breach of the hygiene code?
 
-Well, Hubert, it wouldn't kill you to shower  a little more often. George, you want to weigh in here?
+Well, Hubert, it wouldn't kill you to shower a little more often. George, you want to weigh in here?
 
 - Well...
-- INGRAM: Oral Roberts University
-
-is a wonderful school.
+- INGRAM: Oral Roberts University is a wonderful school.
 
 He said I was intimidated by his intelligence,  and then,  he offered to be my "leader."
 
@@ -639,36 +560,23 @@ He said I was intimidated by his intelligence,  and then,  he offered to be my "
 
 Do you know this sonata?
 
-No.
+YOUNG SHELDON: No.
 
 How long have you played the piano?
 
-I don't play piano.
+YOUNG SHELDON: I don't play piano.
 
-PETERSEN: George,  you got any thoughts here?
+PETERSEN: George, you got any thoughts here?
 
 I certainly do.
 
 Mary, tell him.
 
-It's simple.
-We don't have a choice.
+MARY: It's simple. We don't have a choice.
 
-Well, you gave it a shot.
+Well, you gave it a shot. We wish you luck with Sheldon elsewhere...
 
-We wish you luck with Sheldon elsewhere...
-
-MARY: No, no, no.
-
-We don't have a choice.
-
-He's got to stay here.
-
-We can't afford  private school.
-
-I sure can't homeschool him.
-
-He's doing calculus and Euclidean something or other.
+MARY: No, no, no. We don't have a choice. He's got to stay here. We can't afford  private school. I sure can't homeschool him. He's doing calculus and Euclidean something or other.
 
 Euclidean geometry.
 
@@ -682,26 +590,23 @@ Coach, can you help me out here, please?
 
 'Cause I'm dyin'.
 
-I'd rather not.
+GEORGE: I'd rather not.
 
-G minor.
+YOUNG SHELDON: G minor.
 
-F.
+YOUNG SHELDON: F.
 
-E flat.
+YOUNG SHELDON: E flat.
 
-C minor.
+YOUNG SHELDON: C minor.
 
 You have perfect pitch.
 
-Okay.
+YOUNG SHELDON: Okay.
 
 Sweetheart, you should really pursue music.
 
-No, thank you.
-Musicians take drugs.
-
-Is there a faculty restroom I could use?
+YOUNG SHELDON: No, thank you. Musicians take drugs. Is there a faculty restroom I could use?
 
 (whistle blows)
 
@@ -740,7 +645,7 @@ Stop! Stop!
 
 What the hell is wrong with you?
 
-You okay?
+GEORGE: You okay?
 
 No, I'm not okay.
 
@@ -755,9 +660,7 @@ All right, what is going on?
 
 What do you think's going on?!
 
-You mean Sheldon?
-
-You can't let that bother you.
+GEORGE: You mean Sheldon? You can't let that bother you.
 
 It doesn't bother you?
 
@@ -773,21 +676,13 @@ Right. Ever since he could talk, I quit having any choices.
 
 (groans)
 
-I know it's hard.
-
-I'm telling you, as your coach, quit your whining,  get your uniform on and you get your ass back out there.
+I know it's hard. I'm telling you, as your coach, quit your whining, get your uniform on and you get your ass back out there.
 
 But what about as my dad?
 
 Your dad is having a bad day.
 
-Listen to your coach.
-
-Can a clock be powered by an ordinary potato?
-
-I hope so, boys and girls,  or this is going to be a really boring episode.
-
-The supplies you'll need...
+Listen to your coach. Can a clock be powered by an ordinary potato? I hope so, boys and girls,  or this is going to be a really boring episode. The supplies you'll need...
 
 Why can't we watch DuckTales?
 
@@ -795,9 +690,7 @@ Why can't we watch DuckTales?
 
 It's TV, we aren't supposed to learn.
 
-Two alligator grips and, let's see...
-
-Of course, a clock.
+Two alligator grips and, let's see... Of course, a clock.
 
 Missy, go somewhere else. I need to talk to your brother.
 
@@ -809,12 +702,13 @@ I hate everybody.
 
 It's time for science.
 
-Hey, he was about to power a clock with a potato.
+YOUNG SHELDON: Hey, he was about to power a clock with a potato.
 
 Not possible.
 
 - Now, listen...
-- Am I in trouble?
+
+YOUNG SHELDON: Am I in trouble?
 
 No.
 
@@ -826,7 +720,7 @@ But they were breaking the grooming codes  and the dress codes.
 
 I saw one boy with a T-shirt that said...
 
-(whispering) "Bite me."
+YOUNG SHELDON: (whispering) "Bite me."
 
 Yeah. That-that's terrible.
 
@@ -842,52 +736,35 @@ Your dad had a real good coaching job  and I saw some grown-ups breaking rules.
 
 What'd they do?
 
-I-It's kind of complicated, but...
-
-football coaches aren't allowed to recruit kids  from other high schools to play on their teams.
+I-It's kind of complicated, but... football coaches aren't allowed to recruit kids  from other high schools to play on their teams.
 
 And you told on them?
 
 Yeah. You know what happened?
 
-Justice descended upon the rule breakers?
+YOUNG SHELDON: Justice descended upon the rule breakers?
 
-I got fired, Sheldon.
+I got fired, Sheldon. And I got a bad reputation.
 
-And I got a bad reputation.
+YOUNG SHELDON: Oh. That's why you drink so much beer.
 
-Oh. That's why you drink so much beer.
+Just do yourself a favor. Okay? Go to school tomorrow,  and mind your own business. All right?
 
-Just do yourself a favor.
+YOUNG SHELDON: Dad. Are you sad that you got fired?
 
-Okay? Go to school tomorrow,  and mind your own business.
+Mostly angry. But yeah. Maybe a little sad.
 
-All right?
-
-Dad.
-
-Are you sad that you got fired?
-
-Mostly angry.
-
-But yeah.
-
-Maybe a little sad.
-
-All right, let's say grace.
-
-Thank you, God,  for this food we are about to receive.
+MARY: All right, let's say grace. Thank you, God, for this food we are about to receive.
 
 (muffled praying continues)
 
-ADULT SHELDON: That was the first time  I held my father's hand.
+ADULT SHELDON: That was the first time I held my father's hand.
 
-MARY: our bodies and bless the hands that prepared it.
+MARY: our bodies and bless the hands that prepared it. Amen.
 
-Amen.
+GEORGIE: Amen.
 
-- GEORGIE: Amen.
-- Amen.
+OTHERS: Amen.
 
 MARY: Hey, George Jr., wait your turn.
 
