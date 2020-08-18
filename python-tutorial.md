@@ -1,6 +1,6 @@
 
 
-check the current OS in Python?
+check the current Operating System in Python?
 
 Answer:
 
