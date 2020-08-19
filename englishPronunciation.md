@@ -53,15 +53,15 @@ The difference between IPA and Merriam-Webster's Dictionary
 | IPA | i | ɪ | ɛ | æ | ə | ɚ | ʌ | u | ʊ | ɔ | ɑ | eɪ | aɪ | oɪ | oʊ | aʊ |
 | MW  |ē | i | e | a | ə | r | ə | ü | u̇ | ä | ä | ā  | ī  | ȯi | ō  | au̇ |
 
-## Pronunciation of [i:]
-Sound [i:] is a long close front unrounded tense vowel. It appears in words such as see[si:], or heat[hi:t].
+## Pronunciation of [i]
+Sound [i] is a long close front unrounded tense vowel. It appears in words such as see[si], or heat[hit].
 - Position of the tongue (backness/height): The tongue is as far forward as possible in the mouth. The middle part of the tongue is curved, almost touching the roof of the mouth, while the tip is behind the bottom front teeth.
 - Lip position: Lips are very spread, like in a smile. The corner of the lips are pulled wide.
 - Jaw-dropping: The jaw is fairly closed, but the teeth do not touch.
-- Length: [i:] is long sound.
-- Tenseness: [i:] is a tense sound.
+- Length: [i] is long sound.
+- Tenseness: [i] is a tense sound.
 
-Common spellings for sound [i:] are: ee and ea, as in bee[bi:], or, as in easy['i:zi]; less common spellings are e, as in these[ði:z]; ey, as in key[ki:]; i, as in kilo['ki:loʊ]; eo, as in people['pi:pl].
+Common spellings for sound [i] are: ee and ea, as in bee[bi], or, as in easy['izi]; less common spellings are e, as in these[ðiz]; ey, as in key[ki]; i, as in kilo['kiloʊ]; eo, as in people['pipl].
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_i.png"></p>
 
