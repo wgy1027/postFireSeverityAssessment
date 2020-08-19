@@ -71,7 +71,7 @@ For the method to pronounce the [i] vowel, please refer to the video in [Rachel'
 
 ## Pronunciation of [ɪ]
 Sound [ɪ] is a short near-close near-front unrounded lax vowel, as in it[ɪt], hit[hɪt].
-- Position of the tongue (backness/height): The tongue is curved in the middle, but the tip is down, just behind the bottom front teeth. In this sound the tongue is not as close to the roof of the mouth as it is in sound [i:].
+- Position of the tongue (backness/height): The tongue is curved in the middle, but the tip is down, just behind the bottom front teeth. In this sound the tongue is not as close to the roof of the mouth as it is in sound [i].
 - Lip position: Lips are in a neutral position; the corners of the lips are still pulled back a little bit, but without tension.
 - Jaw-dropping: The jaw is completely relaxed
 - Length: [ɪ] is a short sound.
@@ -85,9 +85,9 @@ Fig. Manner of articulation of the [ɪ] vowel.
 
 For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=-BAYrt2oER8).
 
-**The tense/relax distinction for [i:] and [ɪ]**
+**The tense/relax distinction for [i] and [ɪ]**
 
-For the difference between [i:] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
+For the difference between [i] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
 
 ## Pronunciation of [ɑ:]
 Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
@@ -141,7 +141,7 @@ For the method to pronounce the [e] vowel, please refer to the video in [Rachel'
 ## Pronunciation of [æ]
 Sound [æ] is a near-open front unrounded short tense vowel [æ], as in man[mæn], or hat[hæt].
 - Position of the tongue (backness/height): The back part of the tongue is raised a little; the front of the tongue stretches forward and presses behind the bottom front teeth. The production of this sound requires stretching of the tongue.
-- Lip position: Lips are more spread than in the rest position but less than in vowel [i:].
+- Lip position: Lips are more spread than in the rest position but less than in vowel [i].
 - Jaw-dropping: The production of this sound requires a large opening jaw. This vowel will not sound natural unless the jaw drops as needed.
 - Length: [æ] is a short vowel.
 - Tenseness: This is a tense vowel.
@@ -325,7 +325,7 @@ Fig. Manner of articulation of alveolar stops [k] and [g]
 
 Common spellings of phoneme /k/ are:
 - Letter c in word-initial, as in cat[khæt], and also within a word, as in fact[fæk˺t].
-- Letter k in word-initial, as in keep[ki:p], and also within a word, as in like[laɪk].
+- Letter k in word-initial, as in keep[kip], and also within a word, as in like[laɪk].
 - Combinations ck and ch, as in black[bæk] and school[sku:l].
 - Combination qu, as in quiet[khwaɪət].
 - Letter x, as in six[sɪks].
@@ -393,7 +393,7 @@ Taken from the paper by Stone and Lundgerg, the tongue shape corresponding to so
 
 Fig. Tongue shape for [ʃ]. Anterior is on the lower left and posterior on the upper right.
 
-The most common spelling for [ʃ] is sh, as in shop[ʃɑ:p]; less common spellings are: c, as in ocean[ˈoʊʃn]; ch, as in machine[məˈʃi:n]; or initial s, as in sure[ʃʊr]. As for the voiced sound [ʒ], which is rare in English, it is normally spelled s or si, as in usual[ˈju:ʒəl] or Asia[ˈeɪʒə].
+The most common spelling for [ʃ] is sh, as in shop[ʃɑ:p]; less common spellings are: c, as in ocean[ˈoʊʃn]; ch, as in machine[məˈʃin]; or initial s, as in sure[ʃʊr]. As for the voiced sound [ʒ], which is rare in English, it is normally spelled s or si, as in usual[ˈju:ʒəl] or Asia[ˈeɪʒə].
 
 Here we have Rachel’s video explaining the pronunciation of these two sounds.
 
@@ -435,19 +435,19 @@ Last nasal sound is [ɳ], a velar stop like [k] and [g]. In the following pictur
 Fig. Pronunciation of phoneme [ɳ] as compared to oral velar stops
 
 Sound [ɳ] is associated with some fixed spellings:
-- The ending of the present participle ing, as in eating[ˈi:tɪɳ].
+- The ending of the present participle ing, as in eating[ˈitɪɳ].
 - Letter n before k, g pronounced as velar stops is pronounced as ɳ, as in think[ɵɪɳk], or angry/ˈæɳgɹi/. Therefore, spellings nk are ng frequently associated with this consonant.
 
 For the method to pronounce the [ŋ] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=NduCJKb4iR8)
 
 ## Semivowels
 ### Palatal semivowel [j]
-This semivowel is pronounced in a similar way to vowel [i:], but semivowel [j] is very short. Another difference is that in the case of vowel [i:] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth. Sound [j] is usually spelled y, as in year[jɪr].
+This semivowel is pronounced in a similar way to vowel [i], but semivowel [j] is very short. Another difference is that in the case of vowel [i] the tongue does not touch the roof of the mouth, while in the case of semivowel [j] contact is made. In the articulation of [j] the front of the tongue is raised and then the sides of the tongue touch the hard palate. A groove in the middle of the tongue is formed over which the sound travels. The tip of the tongue are down, just behind the bottom front teeth. Notice that [j] is a central consonant as the air is directed through the centre of the mouth. Sound [j] is usually spelled y, as in year[jɪr].
 
 For the method to pronounce the [j] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=4F8GAifCdVY)
 
 ### Velar semivowel [w]
-It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvi:lər] . The articulation of [w] is carried out as follows:
+It is articulated as a voiced approximant at the velum and at the same time is articulated with the lips. More precisely, this sound is termed as a labio-velar approximant[ˈleɪbioʊˈvilər] . The articulation of [w] is carried out as follows:
 
 - The lips are projected forward and take on a rounded position.
 - The back of the tongue is pulled back and raised and comes close to the soft palate. This position is similar to that of vowel [u:], but the back of the tongue is closer to the soft palate.
