@@ -112,7 +112,7 @@ Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or no
 - Jaw-dropping: The jaw is in neutral position, near to rest position. It is not as open as in vowel [ɑ:].
 - Length: [ʌ] is a short sound.
 - Tenseness: This is a lax vowel, as attested by the tongue and lip positions.
-- Sometimes vowels [ɑ:] and [ʌ] are confused. Apart from length and tenseness, jaw-dropping stresses some differences. Because of the jaw-dropping in vowel [ɑ:], the volume createdin the mouth for the air to go through is greater than in the case of vowel [ʌ]. That gives a different timbral quality to each vowel. Check the tongue positions out on the videos.
+- Sometimes vowels [ɑ:] and [ʌ] are confused. Apart from length and tenseness, jaw-dropping stresses some differences. Because of the jaw-dropping in vowel [ɑ:], the volume created in the mouth for the air to go through is greater than in the case of vowel [ʌ]. That gives a different timbral quality to each vowel. Check the tongue positions out on the videos.
 
 The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
 
