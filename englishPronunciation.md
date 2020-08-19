@@ -103,7 +103,7 @@ Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈ
 
 Fig. Manner of articulation of the [ɑ:] vowel.
 
-For the method to pronounce the [ɑ:] vowel, please refer to the video in [Rachel's English]((http://www.youtube.com/watch?v=TWO6g9x-TgI)
+For the method to pronounce the [ɑ:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=TWO6g9x-TgI)
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
