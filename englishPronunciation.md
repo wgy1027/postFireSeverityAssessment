@@ -90,20 +90,20 @@ For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel'
 For the difference between [i] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
 
 ## Pronunciation of [ɑ:]
-Sound [ɑ:] is an open back unrounded long tense vowel, as in heart[hɑ:t], or palm[pɑ:m].
+Sound [ɑ] is an open back unrounded long tense vowel, as in heart[hɑt], or palm[pɑm].
 - Position of the tongue (backness/height): The tongue is really flat in the mouth. The back part of the tongue is pulled back in the mouth, but the tip is just behind the bottom front teeth.
 - Lip position: Lips are in neutral position.
 - Jaw-dropping: The jaw drops more than in any other vowel. The tongue presses down a little.
-- Length: [ɑ:] is a long sound.
-- Tenseness: [ɑ:] is a tense vowel.
+- Length: [ɑ] is a long sound.
+- Tenseness: [ɑ] is a tense vowel.
 
-Common spellings for [ɑ:] are ar and a, as in father['fɑ:ðər], or farther[ˈfɑ:rðər]
+Common spellings for [ɑ] are ar and a, as in father['fɑðər], or farther[ˈfɑrðər]
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɑ.png"></p>
 
-Fig. Manner of articulation of the [ɑ:] vowel.
+Fig. Manner of articulation of the [ɑ] vowel.
 
-For the method to pronounce the [ɑ:] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=TWO6g9x-TgI)
+For the method to pronounce the [ɑ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=TWO6g9x-TgI)
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
@@ -218,15 +218,15 @@ Fig. Manner of articulation of the [ʊ] vowel.
 
 For the method to pronounce the [ʊ] vowel, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=VrIPpIfC8e4)
 
-## Pronunciation of [ɔ:]
-Sound [ɔ:] is an open-mid back rounded long tense vowel, as in thought[θɔ:t], or caught[kɔ:t].
-- Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ:] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
+## Pronunciation of [ɔ]
+Sound [ɔ] is an open-mid back rounded long tense vowel, as in thought[θɔt], or caught[kɔt].
+- Position of the tongue (backness/height): The tongue is more raised than in the case of [ɑ] and is placed in the middle. The tongue as a whole is raised, that is, both the tip and the back part. The tongue is pulled back a little and the tip does not touch the teeth.
 - Lip position: Lips take up the rounded position. The position for these vowel is less marked than in vowel [u:].
-- Jaw-dropping: The jaw drops, not as much as in the case of [ɑ:].
-- Length: [ɔ:] is a long sound.
-- Tenseness: [ɔ:] is a tense vowel.
+- Jaw-dropping: The jaw drops, not as much as in the case of [ɑ].
+- Length: [ɔ] is a long sound.
+- Tenseness: [ɔ] is a tense vowel.
 
-Common spellings for [ɔ:] are the following: a, as in all[ɔ:]; al, as in walk[wɔ:k]; au, as in autonomy[ɔ:'tɑ:nəmi]; aw, as in saw[sɔ:]; augh, as in caught[kɔ:t]; ough, as in cought[kɔ:t]; ar, as in warm[wɔ:rm]; or, as in born[bɔ:rn]; oor, as in door[dɔ:r]; ore, as in before[bɪ'fɔ:r]; or our, as in four[fɔ:r].
+Common spellings for [ɔ] are the following: a, as in all[ɔ]; al, as in walk[wɔk]; au, as in autonomy[ɔ'tɑnəmi]; aw, as in saw[sɔ]; augh, as in caught[kɔt]; ough, as in cought[kɔt]; ar, as in warm[wɔrm]; or, as in born[bɔrn]; oor, as in door[dɔr]; ore, as in before[bɪ'fɔr]; or our, as in four[fɔr].
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔ.png"></p>
 
@@ -240,7 +240,7 @@ Common diphthongs in English include:
 |-------------- | -------- |
 |   /eɪ/   | *a*te, r*ei*gn, v*ai*n, fl*a*vor, sl*ay*, conv*ey* |
 |   /aɪ/   | *eye*, *I*, p*ie*, cr*y*, c*y*pher, cl*i*mb, l*i*me, l*i*ght, k*ay*ak, Th*ai*, h*ei*ght |
-|   /oɪ/   |  b*oy*, m*oi*st, Fr*eu*d |
+|   /ɔɪ/   |  b*oy*, m*oi*st, Fr*eu*d |
 |   /oʊ/   |  t*oe*, r*ow*, g*o*, b*oa*t, m*o*de, chat*eau* |
 |   /aʊ/   |  l*ou*d, h*ou*se, c*ow*, ab*ou*t, D*ao*ism, Mac*au* |
 
@@ -254,7 +254,7 @@ Fig. Manner of articulation of the [aɪ] diphthong.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_ɔɪ.png"></p>
 
-Fig. Manner of articulation of the [oɪ] diphthong.
+Fig. Manner of articulation of the [ɔɪ] diphthong.
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation_oʊ.png"></p>
 
