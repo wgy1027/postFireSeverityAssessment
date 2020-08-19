@@ -89,7 +89,7 @@ For the mehod to pronounce the [ɪ] vowel, please refer to the video in [Rachel'
 
 For the difference between [i] and [ɪ] in terms of the distinction tense/lax is explained, please referto the video in [Rachel's English](http://www.youtube.com/watch?v=qq7Rmbt7_qQ).
 
-## Pronunciation of [ɑ:]
+## Pronunciation of [ɑ]
 Sound [ɑ] is an open back unrounded long tense vowel, as in heart[hɑt], or palm[pɑm].
 - Position of the tongue (backness/height): The tongue is really flat in the mouth. The back part of the tongue is pulled back in the mouth, but the tip is just behind the bottom front teeth.
 - Lip position: Lips are in neutral position.
@@ -107,12 +107,12 @@ For the method to pronounce the [ɑ] vowel, please refer to the video in [Rachel
 
 ## Pronunciation of [ʌ]
 Sound [ʌ] is an open-mid back unrounded short lax vowel, as in hut[hʌt], or nothing['nʌθɪŋ].
-- Position of the tongue (backness/height): The tongue is relaxed and slightly pressed down in the back. It is also flat in shape as opposed to other vowel sounds where the tongue is curled. As for height, it is raised a little more than in vowel [ɑ:], where the tongue is as low as possible.
+- Position of the tongue (backness/height): The tongue is relaxed and slightly pressed down in the back. It is also flat in shape as opposed to other vowel sounds where the tongue is curled. As for height, it is raised a little more than in vowel [ɑ], where the tongue is as low as possible.
 - Lip position: Lips are in neutral position.
-- Jaw-dropping: The jaw is in neutral position, near to rest position. It is not as open as in vowel [ɑ:].
+- Jaw-dropping: The jaw is in neutral position, near to rest position. It is not as open as in vowel [ɑ].
 - Length: [ʌ] is a short sound.
 - Tenseness: This is a lax vowel, as attested by the tongue and lip positions.
-- Sometimes vowels [ɑ:] and [ʌ] are confused. Apart from length and tenseness, jaw-dropping stresses some differences. Because of the jaw-dropping in vowel [ɑ:], the volume created in the mouth for the air to go through is greater than in the case of vowel [ʌ]. That gives a different timbral quality to each vowel. Check the tongue positions out on the videos.
+- Sometimes vowels [ɑ] and [ʌ] are confused. Apart from length and tenseness, jaw-dropping stresses some differences. Because of the jaw-dropping in vowel [ɑ], the volume created in the mouth for the air to go through is greater than in the case of vowel [ʌ]. That gives a different timbral quality to each vowel. Check the tongue positions out on the videos.
 
 The commonest spelling is u, as in bus[bʌs], mother['mʌðər], or under['ʌndər]. Less frequent spellings are ou, as in month[mʌŋθ], and ou, as in country['kʌntri].
 
@@ -294,7 +294,7 @@ According to the organs involved in the closure of the oral cavity, stops are cl
 - Glottal stops: the airstream is held by closing the vocal folds (remember that the space between the vocal folds is the glottis). Glottal stops are [ʔ] and [tʔ]. Sound [ʔ] is a pure glottal stop, not associated to any other sound, while [tʔ] is a co-articulation of [t] and [ʔ] (see Section 4.1.5subsubsection).
 
 ### Bilabial sounds [ph], [p], [p˺], and [b]
-The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released; see Figure 10. There are three voiceless allophones, [ph], [p], [p˺], and one voiced allophone, [b]. Spellings commonly associated with bilabials are p, pp for sound [p], as in pen[phen], happy[ˈhæpi], or lap[læp˺], and b, bb for sound [b], as in best[best] or robber[ˈrɑ:bər].
+The closure of the oral cavity is carried out by the lips, which come together to stop the airstream. Then the airstream is held just behind the lips, and finally is released; see Figure 10. There are three voiceless allophones, [ph], [p], [p˺], and one voiced allophone, [b]. Spellings commonly associated with bilabials are p, pp for sound [p], as in pen[phen], happy[ˈhæpi], or lap[læp˺], and b, bb for sound [b], as in best[best] or robber[ˈrɑbər].
 
 <p align="center"><img align="center" width="200" src="./notePic/americanEnglishPronunciation-p-b.jpg"></p>
 
@@ -312,8 +312,8 @@ In alveolar sounds the closure is produced by the tongue blocking the airstream 
 Fig. Manner of articulation of alveolar stops [t] and [d]
 
 Common spellings of phoneme /t/ are:
-- t and tt, as in ten[then], stop[stɑ:p], or wait[weɪt˺].
-- The past simple of a regular verb ends in phoneme /t/ when the last sound of the verb is a voiceless sound different from /t/: trip[thrɪp]PICtripped[thrɪp˺t], ask[æsk]PICasked[æsk˺t], laugh[læf]PIClaughed[læfth], toss[tɑ:s]PICtossed[tɑ:sth], mash[mæʃ]PICmashed[mæʃth]. Past simple endings are often aspirated to clearly distinguish them from other tenses. Past simple endings are seldom unreleased.
+- t and tt, as in ten[then], stop[stɑp], or wait[weɪt˺].
+- The past simple of a regular verb ends in phoneme /t/ when the last sound of the verb is a voiceless sound different from /t/: trip[thrɪp]PICtripped[thrɪp˺t], ask[æsk]PICasked[æsk˺t], laugh[læf]PIClaughed[læfth], toss[tɑs]PICtossed[tɑsth], mash[mæʃ]PICmashed[mæʃth]. Past simple endings are often aspirated to clearly distinguish them from other tenses. Past simple endings are seldom unreleased.
 Spelling th, although less frequent, can be found, as in Thailand[ˈthaɪlænd].
 
 ### Velar stops [kh], [k], [k˺], and [g]
@@ -393,7 +393,7 @@ Taken from the paper by Stone and Lundgerg, the tongue shape corresponding to so
 
 Fig. Tongue shape for [ʃ]. Anterior is on the lower left and posterior on the upper right.
 
-The most common spelling for [ʃ] is sh, as in shop[ʃɑ:p]; less common spellings are: c, as in ocean[ˈoʊʃn]; ch, as in machine[məˈʃin]; or initial s, as in sure[ʃʊr]. As for the voiced sound [ʒ], which is rare in English, it is normally spelled s or si, as in usual[ˈju:ʒəl] or Asia[ˈeɪʒə].
+The most common spelling for [ʃ] is sh, as in shop[ʃɑp]; less common spellings are: c, as in ocean[ˈoʊʃn]; ch, as in machine[məˈʃin]; or initial s, as in sure[ʃʊr]. As for the voiced sound [ʒ], which is rare in English, it is normally spelled s or si, as in usual[ˈju:ʒəl] or Asia[ˈeɪʒə].
 
 Here we have Rachel’s video explaining the pronunciation of these two sounds.
 
