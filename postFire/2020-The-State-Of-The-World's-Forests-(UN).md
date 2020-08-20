@@ -77,11 +77,9 @@ FAO (2009) defines food security as a situation that exists when all people, at 
 
 Forests and trees outside forests (including trees in agroforestry systems, other trees on farms and trees in non-forested rural and urban landscapes) contribute to all four dimensions of food security through the provision of nutritious food, income, employment, energy and ecosystem services (FAO, 2013a; FAO, 2017b; HLPE, 2017). Forest depletion or degradation can thus have a negative impact on food security and nutrition. Widespread conversion of forests to other land uses, particularly for agriculture, may increase food security of farmers and communities that depend on their products in the short or medium term but may also have negative long-term environmental, livelihood and food-security impacts on people; these impacts will primarily affect forest communities but also affect national and global populations. Furthermore, the aggregate long-term impact of the loss of biodiversity and ecosystem services resulting from loss of forest is likely to result in reduced agricultural productivity. The contribution of forests to food security and nutrition therefore calls for more direct attention in the forest policies of most countries.
 
-**Contributions of forests and trees to the four pillars of food security** 
+### Contributions of forests and trees to the four pillars of food security
 
-- Availability (the actual or potential presence of food).
-
-Worldwide, around 1 billion people depend to some extent on wild foods such as wild meat, edible insects, edible plant products, mushrooms and fish (Burlingame, 2000). Some studies indicate that in developing countries these households tend to have the lowest incomes (Angelsen et al., 2014). Even though foods from forests have been estimated to represent less than 0.6 percent of global food consumption (FAO, 2014c), they are key to ensuring the availability of nutrient-dense foods and important vitamins and trace elements in many communities. Forests and trees outside forests also support food availability by providing fodder for livestock, either as browse or as animal feed. The contributions of fodder to food availability are twofold: livestock are a source of meat and milk and also support agricultural production by providing draught power and manure, which can increase farm productivity. 
+**Availability (the actual or potential presence of food).** Worldwide, around 1 billion people depend to some extent on wild foods such as wild meat, edible insects, edible plant products, mushrooms and fish (Burlingame, 2000). Some studies indicate that in developing countries these households tend to have the lowest incomes (Angelsen et al., 2014). Even though foods from forests have been estimated to represent less than 0.6 percent of global food consumption (FAO, 2014c), they are key to ensuring the availability of nutrient-dense foods and important vitamins and trace elements in many communities. Forests and trees outside forests also support food availability by providing fodder for livestock, either as browse or as animal feed. The contributions of fodder to food availability are twofold: livestock are a source of meat and milk and also support agricultural production by providing draught power and manure, which can increase farm productivity. 
 
 Ecosystem services provided by forests and trees in agroforestry and silvopastoral systems support agricultural, livestock, forestry and fishery production through water and microclimate regulation, shade and windbreak provision, soil protection, nutrient cycling, biological pest control and pollination (Reed et al., 2017) (see the example in Box 26 and the section on Forest biodiversity and sustainable agriculture, p. 70). Their role in countering and mitigating climate change risks is vital in ensuring availability of food in many areas (see Case Study 1 on large-scale dryland restoration for the resilience of small-scale farmers and pastoralists in Africa, in Chapter 5, p. 98).
 
@@ -99,7 +97,7 @@ Forests and the biodiversity they contain also help to support local people’s 
 
 In addition to providing measures for coping with short-term instability in food supplies (which can lead to acute food insecurity), forests and forest diversity provide ecosystem services that are critical to ensuring mediumto long-term stability of food supplies (which can prevent chronic food insecurity), including through their support to sustainable agricultural, livestock and fishery production (described above under Availability; see also section on Forest biodiversity and sustainable agriculture, p. 70). The role of forests in the maintenance of biodiversity as a gene pool for food and medicinal crops is essential to secure the diversity needed to promote long-term quality of diets.
 
-**Forest foods**
+### Forest foods
 
 Forest foods form a small (in terms of calories) but critical part of diets commonly consumed by rural, food-insecure populations, also adding variety to predominantly staple diets. In some communities that consume high levels of forest food, wild forest foods alone are sufficient to meet minimum dietary requirements for fruits, vegetables and animal source foods (Rowland et al., 2015).
 
@@ -131,7 +129,7 @@ Rearing insects for food and feed is being explored as a way to alleviate pressu
 
 The value of farming edible insects goes beyond their nutritional and economic value, as farming edible insects for food and feed puts much less pressure on already limited resources such as land, soils, water and energy than does other forms of livestock production. For instance, it is much more environmentally friendly to produce protein from yellow mealworm (Tenebrio molitor) than from beef (FAO, 2013b). In recent years, farming of insects for food has also become environmentally, socially and economically accepted in some European countries such as Belgium, Finland and the Netherlands, where insects have not been part of traditional diets (e.g. Luke, 2018).
 
-**Forest biodiversity and sustainable agriculture**
+### Forest biodiversity and sustainable agriculture
 
 Forest and agricultural production systems often overlap to varying degrees; sometimes they overlap completely, as in agroforestry. Around 40 percent of global agricultural land has more than 10 percent tree cover (Zomer et al., 2009).
 
@@ -160,7 +158,7 @@ Agroforestry, whether organized as trees in agricultural landscapes or farming i
 
 Forests, trees and their associated biodiversity provide a wide range of products and services that contribute to human health, including medicines, food, clean water and air, shade or simply a green space in which to exercise and relax (Nilsson et al., 2010). The more biodiverse a forest or tree system is, the wider the range of products and services it can provide.
 
-**Medicines from the forest**
+### Medicines from the forest
 
 In addition to the contributions of forests and trees to nutrition and food security discussed above – which are in themselves vital for human health – forest biodiversity also encompasses an enormous range of plant, animal and microbial material with known or potential medicinal values. These substances are not only of local importance but are also commercialized on national and international markets or used as models to synthesize new medicines (the majority of active compounds that were originally derived from forest plants are now produced in laboratories). More than 28 000 plant species, many of which are found in forest ecosystems, are currently recorded as being of medicinal use (Willis, 2017).
 
@@ -172,7 +170,7 @@ Traditional knowledge of forest medicinal plants and their associated benefits i
 
 Clearly, preserving and maintaining traditional knowledge associated with forest biodiversity and protecting the rights of rural people to share the benefits from the use of their knowledge and resources, as recognized in the Nagoya Protocol (CBD, 2011), is extremely important for the health and well-being of local communities as well as for the global community.
 
-**Benefits of forest for mental and physical health**
+### Benefits of forest for mental and physical health
 
 There is growing evidence that exposure to natural environments has positive impacts on human physical and mental health across all socio-economic strata and genders, particularly in urban areas (Triguero-Mas et al., 2015) and particularly for socio-economically disadvantaged urban populations (Maas et al., 2006; Mitchell and Popham, 2008). In industrialized countries and urban contexts, green environments can enhance the motivation for physical exercise (Health Council of the Netherlands, 2004) and reduce health problems attributable to a sedentary lifestyle such as excess weight, chronic stress and attention fatigue. Green spaces have also been seen to reduce mental distress and improve well-being (Hartig, Mang and Evans, 1991; Groenewegen et al., 2006; White et al., 2013). It has been hypothesized that exposure to nature may reduce mental fatigue by inspiring unconscious cognitive processes that require little or no effort (Kaplan and Kaplan, 1989). However, some urban residents associate wilder green spaces with vulnerability, which emphasizes the need for careful planning of urban green spaces (Jorgensen, Hitchmough and Dunnet, 2006).
 
@@ -184,13 +182,13 @@ More than 90 percent of the world’s population lives in places where air pollu
 
 Forests also indirectly decrease the occurrence of food- and waterborne diseases by filtering water and providing woodfuel for cooking food and boiling water. This is vital since waterborne diarrhoeal diseases, for example, are responsible for 2 million deaths each year, with the majority occurring in children under five (WHO/ UNICEF, 2000). In addition, traditional diets based on diverse plant and animal-based foods gathered from woods and forests show promise for reducing diseases such as type 2 diabetes and obesity as these foods are mainly low in fat and high in protein and complex carbohydrates (Sarkar, Walker-Swaney and Shetty, 2019).
 
-**Cultural services of forests**
+### Cultural services of forests
 
 Well-being is a condition not only of individuals but also of the broader community. Many people and communities, and particularly indigenous peoples, have long, multigenerational links with specific forest areas; they derive not only direct benefits from the forest but also intangible benefits resulting from a deep spiritual relationship with forested landscapes and native species, expressed in beliefs, customs, traditions and cultures (Fritz-Vietta, 2016).
 
 Biodiversity conservation initiatives that fail to take cultural values into consideration may have adverse effects on the individual and societal health of forest dwellers. For example, restricting harvest or collection of some traditionally important food products might cause psychological unrest and affect well-being even if nutritional needs are met through other sources; this has been seen, for example, among several ethnic groups in the Congo Basin who suffer from psychological stress when bushmeat is unavailable (Dounias and Ichikawa, 2017).
 
-**Forest-related health risks**
+### Forest-related health risks
 
 The abundant biodiversity in forests, particularly in the tropics, encompasses an astonishing range of pathogens, parasites and their vectors. The majority of new infectious diseases of humans are zoonotic, meaning that they originate in animals (Olival et al., 2017). Their emergence may be linked to change in forest area and the expansion of human populations into forest areas, both of which increase human exposure to wildlife (Wilcox and Ellis, 2006) and, in some cases, to the consumption of wild meat. Forest-associated diseases include malaria, Chagas disease (also known as American trypanosomiasis), African trypanosomiasis (sleeping sickness), leishmaniasis and Lyme disease (Table 4). HIV and Ebola, both zoonotic and both focuses of global attention, have clear forest origins. Other lesser-known pathogens associated with trees and forests include Henipah viruses, and new pathogens are being identified all the time, such as the SARS-CoV2 virus that caused the current COVID-19 pandemic. While it is not yet possible to determine exactly how humans were initially infected, COVID-19 is also assumed to be of zoonotic origin (WHO 2020).
 
@@ -200,7 +198,7 @@ Other potentially fatal health risks include accidents related to logging or oth
 
 These issues suggest a role for responsible forest management in ensuring human well-being (McFarlane et al., 2019).
 
-**Managing forests for health**
+### Managing forests for health
 
 In view of the inextricable connection of human, animal and environmental health, the “One Health” approach aims to improve health and well-being through risk prevention and mitigation at the interface between humans, animals and their various environments. In Africa, for example, FAO, WHO and World Organisation for Animal Health (OIE) are jointly implementing One Health programming that brings together professionals and policymakers in forestry, natural resources, agriculture, livestock and public health to ensure balance among all the relevant sectors and disciplines.
 
