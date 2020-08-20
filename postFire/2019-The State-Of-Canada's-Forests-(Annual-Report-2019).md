@@ -91,7 +91,7 @@ Canada's forests are a rich source of economic, cultural, and environmental bene
 
 **What is the outlook?**
 
-- Given the nature of the Canadian forest sector, some economic activities will always be located near the resource, away from urban areas. As a result, the forest sector will continue be an important resource of jobs and income for communities across Canadia, including remote ones.
+- Given the nature of the Canadian forest sector, some economic activities will always be located near the resource, away from urban areas. As a result, the forest sector will continue be an important source of jobs and income for communities across Canadia, including remote ones.
 - Efforts to diversify forest products manufacturing will strengthen the sector and provide opportunities for Canadians, particularly those who live in rural areas.
 - Strong demand for Canada's foest products will create new and diverse opportunities for people in forest-reliant, rural and Indigeous communities, as well as for people in other communities who benefit from living near forests and participating in the forest sector.
 
