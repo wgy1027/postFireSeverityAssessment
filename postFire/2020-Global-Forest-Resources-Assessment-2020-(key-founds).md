@@ -8,7 +8,7 @@ FRA is the mechanism for collecting data on two forest-related indicators of the
 
 # Forests cover nearly one-third of the land globally
 
-The world has a total forest area of 4.06 billion hectares (ha), which is 31 percent of the total land area. This area is equivalent to 0.52 ha per person1 – although forests are not distributed equally among the world’s peoples or geographically. The tropical domain has the largest proportion of the world’s forests (45 percent), followed by the boreal, temperate and subtropical domains.
+The world has a total forest area of 4.06 billion hectares (ha), which is 31 percent of the total land area. This area is equivalent to 0.52 ha per person – although forests are not distributed equally among the world’s peoples or geographically. The tropical domain has the largest proportion of the world’s forests (45 percent), followed by the boreal, temperate and subtropical domains.
 
 More than half (54 percent) of the world’s forests is in only five countries – the Russian Federation, Brazil, Canada, the United States of America and China.
 
@@ -24,7 +24,7 @@ Africa had the largest annual rate of net forest loss in 2010–2020, at 3.9 mil
 
 The rate of net forest loss has increased in Africa in each of the three decades since 1990. It has declined substantially in South America, however, to about half the rate in 2010–2020 compared with 2000–2010.
 
-Asia had the highest net gain of forest area in 2010–2020, followed by Oceania and Europe.2 Nevertheless, both Europe and Asia recorded substantially lower rates of net gain in 2010–2020 than in 2000–2010. Oceania experienced net losses of forest area in the decades 1990–2000 and 2000–2010.
+Asia had the highest net gain of forest area in 2010–2020, followed by Oceania and Europe. Nevertheless, both Europe and Asia recorded substantially lower rates of net gain in 2010–2020 than in 2000–2010. Oceania experienced net losses of forest area in the decades 1990–2000 and 2000–2010.
 
 # Deforestation continues, but at a lower rate
 An estimated 420 million ha of forest has been lost worldwide through deforestation since 1990, but the rate of forest loss has declined substantially. In the most recent five-year period (2015–2020), the annual rate of deforestation was estimated at 10 million ha, down from 12 million ha in 2010–2015.
@@ -57,12 +57,12 @@ The area of primary forest has decreased by 81 million ha since 1990, but the ra
 Most of the forests in Europe have management plans; on the other hand, management plans exist for less than 25 percent of forests in Africa and less than 20 percent in South America. The area of forest under management plans is increasing in all regions – globally, it has increased by 233 million ha since 2000, reaching 2.05 billion ha in 2020.
 
 # Fire is a prevalent forest disturbance in the tropics
-Forests face many disturbances that can adversely affect their health and vitality and reduce their ability to provide a full range of goods and ecosystem services. About 98 million ha of forest were affected by fire in 2015;3 this was mainly in the tropical domain, where fire burned about 4 percent of the total forest area in that year. More than two-thirds of the total forest area affected was in Africa and South America.
+Forests face many disturbances that can adversely affect their health and vitality and reduce their ability to provide a full range of goods and ecosystem services. About 98 million ha of forest were affected by fire in 2015; this was mainly in the tropical domain, where fire burned about 4 percent of the total forest area in that year. More than two-thirds of the total forest area affected was in Africa and South America.
 
 Insects, diseases and severe weather events damaged about 40 million ha of forests in 2015, mainly in the temperate and boreal domains.
 
 # The world’s forests are mostly publicly owned, but the share of privately owned forests has increased since 1990
-Seventy-three percent of the world’s forests is under public ownership,4 22 percent is privately owned, and the ownership of the remainder is categorized as either “unknown” or “other” (the latter mainly comprising forests where ownership is disputed or in transition).
+Seventy-three percent of the world’s forests is under public ownership, 22 percent is privately owned, and the ownership of the remainder is categorized as either “unknown” or “other” (the latter mainly comprising forests where ownership is disputed or in transition).
 
 Public ownership is predominant in all regions and most subregions. Of the regions, Oceania, North and Central America and South America have the highest proportions of private forests.
 
