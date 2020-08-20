@@ -19,9 +19,31 @@ The baseline for reporting status was 2015, for which most data were available. 
 In addition to the disturbances listed above, FRA 2020 includes analyses of forest fire (Box 7) and forest degradation (Box 8, p. 95).
 
 ---
-**NOTE**
+**Box 7. Fire**
 
-It works with almost all markdown flavours (the below blank line matters).
+Humans have used fire as a management tool for millennia, for example to improve hunting conditions, favour plants used for food or fibre, clear vegetation for agriculture and grazing, facilitate travel and control pests. Fires contribute to the maintenance of some ecosystems, such as savannas, and lessfrequent fires in temperate and boreal ecosystems help create habitat mosaics of various ages and stages of regeneration. More or less fire in an ecosystem may change the species mix, habitat structure and biodiversity.
+
+Nearly all disastrous wildfires are associated with extreme fire-danger conditions driven by meteorological factors such as a lack of precipitation, high wind speeds, low humidity and high temperatures.
+
+Wildfires continue to have significant impacts globally, causing the loss of, among other things, human life, built assets, biodiversity, habitat, production and productivity; the degradation of landscapes; and the disruption of livelihoods. Recent damaging fire events associated with heat waves and droughts include those in the Amazon (where weather conditions hastened fire spread) and the Arctic in 2019; Australia in 2009 and 2019/20; Canada in 2016; Chile in 2017; (Continued) Greece in 2007 and 2018; Indonesia in 2019; Portugal in 2003, 2005 and 2017; the Russian Federation in 2010; and the United States of America in 2013, 2017, 2018 and 2019.
+
+An estimated 90 percent of fires are readily contained and contribute to 10 percent or less of the total area burned. The other approximately 90 percent of the area affected by fire is burned by 5–10 percent of fires. Some wildfires exceed the limits of suppression and are therefore uncontainable.
+
+An estimated 7.20 billion ha of land (i.e. not limited to forests) was burned in 2001–2018 at an average of just more than 400 million ha per year, according to data prepared by the Joint Research Centre of the European Commission (Artes et al., 2019). There was no clear overall trend, although Figure 40 shows that the land area burned between 2013 and 2018 was less than the long-term average.
+
+More than two-thirds of the wildfires in 2001–2018 were in Africa. Globally, the largest areas burned were in the subregions of Eastern and Southern Africa, Western and Central Africa, Oceania (mainly Australia), Northern Africa and South America, all exceeding 500 million ha over the period (Figure 41). Notably, Western and Central Africa and Eastern and Southern Africa both averaged more than 100 million ha per year over the period (Figure 42).
+
+The area burned does not always reflect damage or loss, particularly in forests. South America, Northern Africa, Oceania (mainly Australia), Western and Central Africa and Eastern and Southern Africa all have large areas of savanna and grassland, much of which burns cyclically and where fire is an ecological influence.
+
+FAO analysed wildfires in tree-covered areas to obtain a better understanding of global fire dynamics. The analysis, which spanned 2001–2019, used a combination of ModerateResolution Imaging Spectroradiometer (MODIS) “burned area collection 6” product and tree-cover information (using a tree-cover threshold of 30 percent) from the Global Forest Change product (Hansen et al., 2013). Note, however, that this analysis is subject to the issues described in Box 4 and Box 5 and should be interpreted with caution.
+
+According to the analysis, 78 percent of burned areas in tree-covered areas between 2001 and 2019 were in Africa (only 5 percent of this area was in Northern Africa).
+
+On average, tree-covered areas accounted for about 29 percent of the total area burned by wildfires between 2001 and 2018 (Table 70), ranging from a low of 23 percent to a high of 34 percent. The largest area of tree-covered land as a proportion of the total wildfire area was in Central America (47 percent), followed by South and Southeast Asia (44 percent). These findings are comparable with data collected for FRA 2020 indicating that 98 million ha of forest, or 3 percent of global forest area, was affected by fire in 2015, which was 26 percent of the total burned area reported by Artes et al. (2019) in that year. The fires occurred mainly in the tropics, where they affected about 4 percent of the forest area (Table 71).
+
+Many scientists, fire managers and fire management agencies consider that wildlands face increasingly difficult fire weather conditions, extended fire seasons and larger fires influenced by climate change (e.g. Bowman et al., 2017; IUFRO, 2018; Jolly et al., 2015; Sankey, 2018; San Miguel et al., 2017). Estimates for Europe indicate a potential increase of annual burned area of 120–270 percent above the average in 2000–2010 by 2090 (IUFRO, 2018). Ongoing changes in global fire activity in terms of location, intensity, severity and frequency will likely have immense costs in terms of biodiversity, ecosystem services, human well-being, livelihoods and national economies.
+
+Reliable time-series data on the area of forest burned are needed to better understand trends in wildland and forest fires. Systems for monitoring the area subject to fire could be a starting point for more intensive analyses leading to appropriate intersections with other datasets such as forest cover and their validation at the country level for future FRAs.
 
 ---
 
