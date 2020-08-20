@@ -53,3 +53,45 @@ Forest fire occurrence varies greatly from year to year, both nationally and in 
 - There is a buildup of highly flammable forest fuels from drought and insect-caused mortality, as a result of climate change and other factors.
 - Extreme weather events and shifting weather patterns associated with climate change increase the occurrence of drought and high winds - conditions ideal for fire spread.
 
+# How do forests benefit Canadaians?
+Canadians across the country benefit from a vast array of economic, social and environmental outcomes from forests.
+
+**Key contributor to the Canadian economy**
+
+The Canadian forest sector provides quality, well-paying jobs to Canadians. Forthermore, it is a key economic engine for many communities across the country, including rural and Indigenous communities.
+
+The sector directly employed 210,615 people in 2018 - forests, scientists, engineers, computer technologist, technicians and skilled tradespeople - and is responsible for an additional 91,874 indirect jobs in the rest of the economy. These jobs support 300 communities across the country. Many of these communities, often far from urban areas, would have few or no alternatives without the forest sector.
+
+**More than a job provider**
+
+Forests provide much more than jobs. Some of those other benefits might be harder to measure. But we know that approximately 11 million Canadians living in or adjacent to forested areas, as well as those living in urban areas, deeply value and enjoy forests.
+
+Also, forests provide recreational and ecotourism opportunities for people living in both urban and rural areas and are important for cultural, aesthetic and spiritual reasons. More and more, remote communities across the country are taking advantage of local forest resources to support reliable and affortable bioheat systems and reduce reliance on diesel.
+
+**Home to complex ecosystem**
+
+Forest benefit Canadians environmentally with the rich ecosystem they support. This ecosystem preserves soils, cycles nutrients and supports biodiversity. Trees and other forest plants filter pollutions from air and water, acting as natural cleaner.
+
+By absorbing and storing carbon, forests play a key role in the carbon cycle - the constant movement of carbon from the land and water to the atmosphere and living organisms. This cycle helps maintain the global carbon balance. In addition, forests can help moderate climate change by absorbing carbon emitted by human activities such as burning fossil fuels. Trees in cities and other urban areas also help improve air and water quality and reduce surface and air temperatures.
+
+## Indicator: Employment
+In 2018, Canada's forest sector employed 210,615 people, essentially stable (-0.34%) between 2017 and 2018.
+
+## Indicator: Average earnings
+
+## Indicator: Communities
+Canada's forests are a rich source of economic, cultural, and environmental benefits for people across the country. These benefits are important to people and their communities in both rural and urban Canada.
+
+**Why is this indicator import?**
+
+- When a community relies heavily on the forest sector for jobs and income, any adverse economic events affecting the sector affects not only forest sector employees, but all members of the community.
+- Forests provide more than just economic benefits. Forests are often central to the health and well-being of the people who living in forest-reliant communities, providing many environmental servies and recreational activities.
+
+**What is the outlook?**
+
+- Given the nature of the Canadian forest sector, some economic activities will always be located near the resource, away from urban areas. As a result, the forest sector will continue be an important resource of jobs and income for communities across Canadia, including remote ones.
+- Efforts to diversify forest products manufacturing will strengthen the sector and provide opportunities for Canadians, particularly those who live in rural areas.
+- Strong demand for Canada's foest products will create new and diverse opportunities for people in forest-reliant, rural and Indigeous communities, as well as for people in other communities who benefit from living near forests and participating in the forest sector.
+
+
+
