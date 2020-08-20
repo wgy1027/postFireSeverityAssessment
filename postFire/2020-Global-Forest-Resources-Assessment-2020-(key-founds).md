@@ -1,10 +1,10 @@
 
 # Introduction
-This publication contains the main ndings of the Global Forest Resources Assessment 2020(FRA 2020). The data in FRA 2020 – the “backbone” of the assessment – have been obtained through a transparent, traceable reporting process and The application of a standardized reporting methodology enables the monitoring of change over time in parameters such as forest area, management, ownership and use and the aggregation of data at the regional and global levels.
+This publication contains the main fndings of the Global Forest Resources Assessment 2020(FRA 2020). The data in FRA 2020 – the “backbone” of the assessment – have been obtained through a transparent, traceable reporting process and The application of a standardized reporting methodology enables the monitoring of change over time in parameters such as forest area, management, ownership and use and the aggregation of data at the regional and global levels.
 
 The information provided by FRA presents a comprehensive view of the world’s forests and the ways in which the resource is changing. Such a clear global picture forests and forestry.
 
-FRA is the mechanism for collecting data on two forest-related indicators of the Sustainable Development Goals (SDGs), which the United Nations General Assembly adopted in 2015. Specically, data submitted to FRA contribute to reporting on SDG indicator 15.1.1 (forest area as a proportion of total land area in 2015) and indicator 15.2.1 (progress towards sustainable forest management).
+FRA is the mechanism for collecting data on two forest-related indicators of the Sustainable Development Goals (SDGs), which the United Nations General Assembly adopted in 2015. Specifically, data submitted to FRA contribute to reporting on SDG indicator 15.1.1 (forest area as a proportion of total land area in 2015) and indicator 15.2.1 (progress towards sustainable forest management).
 
 # Forests cover nearly one-third of the land globally
 
