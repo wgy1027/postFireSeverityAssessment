@@ -89,7 +89,8 @@ Globally, 424 million ha of forest is designated primarily for biodiversity cons
 # The area of forest designated primarily for soil and water protection is increasing
 An estimated 399 million ha of forest is designated primarily for the protection of soil and water, an increase of 119 million ha since 1990. The rate of increase in the area of forest allocated for this purpose has grown over the entire period but especially in the last ten years.
 
-More than 180 million ha of forest is used mainly for social services An area of 186 million ha of forest worldwide is allocated for social services such as recreation, tourism, education research and the conservation of cultural and spiritual sites. The area designated for this forest use has increased at a rate of 186 000 ha per year since 2010.
+# More than 180 million ha of forest is used mainly for social services
+An area of 186 million ha of forest worldwide is allocated for social services such as recreation, tourism, education research and the conservation of cultural and spiritual sites. The area designated for this forest use has increased at a rate of 186 000 ha per year since 2010.
 
 # Conclusion
 The full report of FRA 2020, including an in-depth analysis and individual reports from the 236 countries and territories covered by the assessment, will be published in June 2020. The complete FRA 2020 database and the 236 individual reports will be available online from mid-2020. Visit www.fao.org/forest-resources-assessment
