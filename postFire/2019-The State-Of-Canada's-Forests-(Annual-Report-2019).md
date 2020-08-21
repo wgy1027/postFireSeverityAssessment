@@ -11,7 +11,7 @@ Natural disturbance regimes vary from one region to another within Canada. For e
 
 **Disturbances have important ecological and socio-economic impacts**
 
-Extensive stand mortality caused by natural disturbances can have succession through the release of nutrients from affected trees and the reduction of competition among surviving and newly establishing trees. Conversely, natural disturbances may have negative impacts on forest ecosystems or the people, communities and businesses who rely on forests. Exotic or non-native insects and diseases introduced through global trade (e.g. emerald ash borer, asian longhorned beetle) can have serious negative impacts because Canada's native forests may not be adapted to them. Also, fire poses threats to human safety, property and infrastructure. Natural disturbances can also temporarily communities and citizens.
+Extensive stand mortality caused by natural disturbances can have succession through the release of nutrients from affected trees and the reduction of competition among surviving and newly establishing trees. Conversely, natural disturbances may have negative impacts on forest ecosystems or the people, communities and businesses who rely on forests. Exotic or non-native insects and diseases introduced through global trade (e.g. emerald ash borer, asian longhorned beetle) can have serious negative impacts because Canada's native forests may not be adapted to them. Also, fire poses threats to human safety, property and infrastructure. Natural disturbances can also temporarily reduce the supply of timer, with socio-economic impacts on communities and citizens.
 
 **Disturbances affect the carbon cycle**
 
