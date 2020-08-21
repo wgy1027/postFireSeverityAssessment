@@ -66,9 +66,6 @@ This study proposes an approach for holistically characterising and analysing fo
 
 we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) imagery acquired from a constellation of nano-satellites operated by Planet Labs (“Planet”) to assess fire damage to urban trees in the wildland-urban interface of a Mediterranean city in Israel (Haifa).
 
-## Assessment of VIIRS 375 m active fire detection product for direct burned area mapping
-2017
-
 ## Validation of the USGS Landsat Burned Area Essential Climate Variable (BAECV) across the conterminous United States
 2017
 
@@ -97,6 +94,9 @@ we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) i
 2017
 
 ## Burn severity mapping from Landsat MESMA fraction images and Land Surface Temperature
+2017
+
+## Assessment of VIIRS 375 m active fire detection product for direct burned area mapping
 2017
 
 ## Assessment of forest recovery at Wu-Ling fire scars in Taiwan using multi-temporal Landsat imagery
