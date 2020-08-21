@@ -7,7 +7,7 @@ Natural disturbances vary in severity, extent and frequency. All together, these
 
 **Natural disturbances vary from one region to another**
 
-Natural disturbance regimes vary from one region to another within Canada. For example, spruce budworm outbreaks are most prevalent in the balsam fir forests of eastern Canada while wildfires burned more areas annually in the boreal forest and the taiga in central Canada. Some disturbances are specific to a particular tree species (e.g. mountain pine beetle affects only pine species) while others can affect the whole landscape (e.g. fires) thus resulting in specific ecological dynamics. Disturbance severity can strongly vary. with some being stand-replacing (e.g. crown fires) and others causing only partial mortality (e.g. surface fires).
+Natural disturbance regimes vary from one region to another within Canada. For example, spruce budworm outbreaks are most prevalent in the balsam fir forests of eastern Canada while wildfires burned more areas annually in the boreal forest and the taiga in central Canada. Some disturbances are specific to a particular tree species (e.g. mountain pine beetle affects only pine species) while others can affect the whole landscape (e.g. fires) thus resulting in specific ecological dynamics. Disturbance severity can strongly vary, with some being stand-replacing (e.g. crown fires) and others causing only partial mortality (e.g. surface fires).
 
 **Disturbances have important ecological and socio-economic impacts**
 
