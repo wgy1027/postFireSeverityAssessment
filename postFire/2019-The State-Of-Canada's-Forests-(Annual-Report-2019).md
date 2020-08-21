@@ -15,7 +15,7 @@ Extensive stand mortality caused by natural disturbances can have succession thr
 
 **Disturbances affect the carbon cycle**
 
-Forests play an important role in the carbon cyde as they absorb carbon as they grow and release it when they die, decay or burn. The impacts of natural disturbances are among the many complex factors that determine whether forests absorb or release more carbon each year.
+Forests play an important role in the carbon cycle as they absorb carbon as they grow and release it when they die, decay or burn. The impacts of natural disturbances are among the many complex factors that determine whether forests absorb or release more carbon each year.
 
 **Natural disturbances are affected by climate change**
 
@@ -93,7 +93,7 @@ Canada's forests are a rich source of economic, cultural, and environmental bene
 
 - Given the nature of the Canadian forest sector, some economic activities will always be located near the resource, away from urban areas. As a result, the forest sector will continue be an important source of jobs and income for communities across Canadia, including remote ones.
 - Efforts to diversify forest products manufacturing will strengthen the sector and provide opportunities for Canadians, particularly those who live in rural areas.
-- Strong demand for Canada's foest products will create new and diverse opportunities for people in forest-reliant, rural and Indigeous communities, as well as for people in other communities who benefit from living near forests and participating in the forest sector.
+- Strong demand for Canada's froest products will create new and diverse opportunities for people in forest-reliant, rural and Indigeous communities, as well as for people in other communities who benefit from living near forests and participating in the forest sector.
 
 
 
