@@ -96,25 +96,36 @@ we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) i
 ## Calibrating Satellite-Based Indices of Burn Severity from UAV-Derived Metrics of a Burned Boreal Forest in NWT, Canada
 2017
 
-## 2017 Burn severity mapping from Landsat MESMA fraction images and Land Surface Temperature
+## Burn severity mapping from Landsat MESMA fraction images and Land Surface Temperature
+2017
 
-## 2017 Assessment of forest recovery at Wu-Ling fire scars in Taiwan using multi-temporal Landsat imagery
+## Assessment of forest recovery at Wu-Ling fire scars in Taiwan using multi-temporal Landsat imagery
+2017
 
-## 2017 A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series
+## A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series
+2017
 
-## 2016 Using one year post-fire fire severity assessments to estimate longer-term effects of fire in conifer forests of northern and eastern California, USA
+## Using one year post-fire fire severity assessments to estimate longer-term effects of fire in conifer forests of northern and eastern California, USA
+2016
 
-## 2016 Tree mortality based fire severity classification for forest inventories A Pacific Northwest national forests example 
+## Tree mortality based fire severity classification for forest inventories A Pacific Northwest national forests example 
+2016
 
-## 2016 The role of forest fire severity on vegetation recovery after 18 years. Implications for forest management of Quercus suber L. in Iberian Peninsula
+## The role of forest fire severity on vegetation recovery after 18 years. Implications for forest management of Quercus suber L. in Iberian Peninsula
+2016
 
-## 2016 Resilience of Mediterranean terrestrial ecosystems and fire severity in semiarid areas_ Responses of Aleppo pine forests in the short, mid and long term
+## Resilience of Mediterranean terrestrial ecosystems and fire severity in semiarid areas_ Responses of Aleppo pine forests in the short, mid and long term
+2016
 
-## 2016 Remote sensing approach to detect post-fire vegetation regrowth in Siberian boreal larch forest
+## Remote sensing approach to detect post-fire vegetation regrowth in Siberian boreal larch forest
+2016
+2016
 
-## 2016 Mapping a burned forest area from Landsat TM data by multiple methods
+## Mapping a burned forest area from Landsat TM data by multiple methods
+2016
 
-## 2016 Improving remote sensing research and education in developing countries_ Approaches and recommendations
+## Improving remote sensing research and education in developing countries_ Approaches and recommendations
+2016
 
 ## High severity fire and mixed conifer forest-chaparral dynamics in the southern Cascade Range, USA
 2016
@@ -166,9 +177,6 @@ we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) i
 
 ## Effects of fire severity and post-fire climate on short-term vegetation recovery of mixed-conifer and red fir forests in the Sierra Nevada Mountains of California
 2015
-
-## Wildland fire emissions, carbon, and climate_Wildland fire detection and burned area in the United States
-2014
 
 ## Wildland fire emissions, carbon, and climate_ Wildland fire detection and burned area in the United States
 2014
