@@ -97,7 +97,8 @@ Several international science plans/programmes dealing with global fire assessme
 
 Nevertheless, it should also be confirmed that, a core set of characteristics for global burned area products can be extracted from the proposed requirements by these projects. The global burned area data must be or have:
 - Long-term series data for understanding the long-term fire, climate and vegetation interaction. These series can be generated from various sensors but temporal consistence should be assured.
-- Temporal stability and consistency, within 5% • Temporal resolution, daily data with original spatial resolution of the sensor, weekly, 10-day or monthly basis on global scale.
+- Temporal stability and consistency, within 5%
+- Temporal resolution, daily data with original spatial resolution of the sensor, weekly, 10-day or monthly basis on global scale.
 - Spatial resolution, originally 250 m (or minimum 500 m), horizontal resolution 1 km acceptable, 0.5 degree or higher resolution on global scale.
 - Accuracy: highest standard 5% (maximum error of omission and commission), with demonstrated systematic and adequate validation using internationally agreed validation protocol.
 - Error tractability and uncertainty characterization, in a manner that can be easily understood and utilized by users in various applications.
