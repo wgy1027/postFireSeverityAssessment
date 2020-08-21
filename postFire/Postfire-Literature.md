@@ -74,6 +74,8 @@ we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) i
 ## Using high spatial resolution satellite imagery to map forest burn severity across spatial scales in a Pine Barrens ecosystem
 2017
 
+We assessed a 432 ha forest fire that occurred in April 2012 on Long Island, New York, within the Pine Barrens region. The mapping of forest burn severity was explored here at fine spatial scales, for the first time using remotely sensed spectral indices and a set of Multiple Endmember Spectral Mixture Analysis (MESMA) fraction images from bi-temporal — pre- and post-fire event — WorldView-2 (WV-2) imagery at 2 m spatial resolution. Two kinds of evaluation: (1) We first evaluated our approach using 1 m by 1 m validation points at the sub-crown scale per severity class (i.e. unburned, low, moderate, and high severity) from the post-fire 0.10 m color aerial ortho-photos; (2) we validated the burn severity mapping of geo-referenced dominant tree crowns (crown scale) and 15 m by 15 m fixed-area plots (inter-crown scale) with the post-fire 0.10 m aerial orthophotos and measured crown information of twenty forest inventory plots.
+
 ## Testing a Landsat-based approach for mapping disturbance causality in U.S. forests
 2017
 
@@ -93,17 +95,25 @@ In this paper, the authors present an algorithm that identifies burned areas in 
 ## Evaluation of forest fire on Madeira Island using Sentinel-2A MSI imagery
 2017
 
+This study presents the preliminary results of the assessment of several spectral indices calculated using the Sentinel-2A MSI imagery, to evaluate the burn severity of Madeira fires during August 2016. The study confirmed the advantages of several spectral indices such as Normalized Difference Vegetation Index (NDVI), Green Normalized Difference Vegetation Index (GNDVI), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVIreXn) using red-edge spectral bands to assess the post-fire conditions.
+
 ## Effects of Burn Severity and Environmental Conditions on Post-Fire Regeneration in Siberian Larch Forest
 2017
 
 ## Calibrating Satellite-Based Indices of Burn Severity from UAV-Derived Metrics of a Burned Boreal Forest in NWT, Canada
 2017
 
+Our study investigated the potential to map biophysical indicators of burn severity (residual green vegetation and charred organic surface) at very high (3 cm) resolution, using color orthomosaics and vegetation height models derived from UAV-based photographic surveys and Structure from Motion methods.
+
 ## Burn severity mapping from Landsat MESMA fraction images and Land Surface Temperature
 2017
 
+This study assessed the utility of combined Multiple Endmember Spectral Mixture Analysis (MESMA) fraction images and Land Surface Temperature (LST) to accurately map burn severity. Burn severity degree (low, moderate, and high) was measured 2–3 months after fire in 111 field plots using the Composite Burn Index (CBI). Four fraction images were generated using MESMA from the reflective bands of a post-fire Landsat 7 Enhanced Thematic Mapper (ETM+) image: char, green vegetation (GV), non-photosynthetic vegetation and soil (NPVS) and shade. The thermal band was converted to LST using a single channel algorithm. Next, Multinomial Logistic Regression (MLR) was used to obtain the probability of each burn severity level from MESMA fraction images and LST. Finally, a burn severity map was generated from the probability images.
+
 ## Assessment of VIIRS 375 m active fire detection product for direct burned area mapping
 2017
+
+In this study, we apply that VIIRS 375m active fire detection product and assess its performance for direct burned area estimation. Consecutive VIIRS 375 m active fire detections were aggregated to produce the VIIRS 375 m burned area (BA) estimation over ten ecologically diverse study areas. The accuracy of the burned area estimations was assessed by comparison with Landsat-8 supervised burned area classification.
 
 ## Assessment of forest recovery at Wu-Ling fire scars in Taiwan using multi-temporal Landsat imagery
 2017
@@ -186,6 +196,8 @@ In this study, focusing on the most serious forest fire in the history of P. R. 
 
 ## Ten years of global burned area products from spaceborne remote sensing—A review_ Analysis of user needs and recommendations for future developments
 2014
+
+We surveyed a wide range of users of global fire data products whilst also undertaking a review of the latest scientific literature. 
 
 ## Remote Sensing Techniques in Monitoring Post-Fire Effects and Patterns of Forest Recovery in Boreal Forest Regions A Review
 2014
