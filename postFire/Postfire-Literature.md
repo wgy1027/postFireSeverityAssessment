@@ -239,13 +239,13 @@ we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) i
 ## Modeling of multi-strata forest fire severity using Landsat TM Data
 2011
 
-## Analyzing the Impacts of Frequency and Severity of Forest Fire on the Recovery of Disturbed Forest using Landsat Time Series and EO-1 Hyperion in the Southern Brazilian Amazon
-2011
-
 ## Estimation of Biomass Burned Areas Using Multiple-Satellite-Observed Active Fires
 2011
 
 ## Detecting trends in forest disturbance and recovery using yearly Landsat time series_ 2. TimeSync — Tools for calibration and validation
+2011
+
+## Analyzing the Impacts of Frequency and Severity of Forest Fire on the Recovery of Disturbed Forest using Landsat Time Series and EO-1 Hyperion in the Southern Brazilian Amazon
 2011
 
 ## A time-integrated MODIS burn severity assessment using the multi-temporal differenced normalized burn ratio (dNBRMT)
