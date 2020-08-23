@@ -41,16 +41,22 @@ Year: 2018
 In this study, we developed an algorithm for continuous monitoring of annual burned areas using Landsat time series. The algorithm is based on burned pixel detection using harmonic model fitting with Landsat time series and breakpoint identification in the time series data.
 
 ## Burn severity metrics in fire-prone pine ecosystems along a climatic gradient using Landsat imagery
-Year:
-2018
+Year: 2018
 
-Main content:
+Main content: 
 Multispectral imagery is a widely used source of information to address post-fire ecosystem management. The aim of this study is to evaluate the ability of remotely sensed indices derived from Landsat 8 OLI/TIRS to assess initial burn severity (overall, on vegetation and on soil) in fire-prone pine forests along the Mediterranean-Transition-Oceanic climatic gradient in the Mediterranean Basin. We selected four large wildfires which affected pine forests in a climatic gradient within the Iberian Peninsula. In each wildfire we established CBI plots to obtain field values of three burn severity metrics: site, vegetation and soil burn severity. The ability of 13 spectral indices to match these three field burn severity metrics was compared and their transferability along the climatic gradient assessed using linear regression models. Specifically, we analysed the performance of 12 indices previously used for burn severity assessments (8 reflective, 2 thermal, 2 mixed) and a new reflective index (dNBR-EVI).
 
-Note:
+Note: 
 In this paper, the burn severity is defined as the change in the burn area with respect to the pre-fire situation and operationally denoted as the aboveground and belowground organic matter consumed by fire. And the wildfire have affects on vegetation and soil. As a field measurement, the Composite Burn Index (CBI) is a integrative burn severity indicator by synthesizing several visually estimated metrics of four vegetation strata and soil. Besides, CBI has the advantages of rapid application and known relation with many other impacts on the ecosystems and post-fire recovery. Burn severity based on remote sensing falls into three categories: those based on spectral mixture analysis, radiative transfer models, and spectral indices. 
 
 The objective of this study is to evaluate the ability of remotely sensed indices derived from Landsat sensors for initial burn severity assessments in fire-prone ecosystems dominated by Pinus species along the Mediterranean-Transition-Oceanic climatic gradient.
+
+## Analyzing spatial and temporal variability in short-term rates of post-fire vegetation return from Landsat time series
+Year: 2018
+Journal: Remote Sensing of Environment
+
+Main content: 
+In this research, we used three spectral recovery metrics derived from an annual Landsatbased per-pixel Normalized Burn Ratio time series to determine trends in the short-term rates of spectral recovery for areas disturbed by wildfire (1986–2006), as assessed using a series of 5-year post-disturbance windows to observe forest recovery trends. 
 
 ## A VIIRS direct broadcast algorithm for rapid response mapping of wildfire burned area in the western United States
 Year: 2018
@@ -60,6 +66,7 @@ We present a direct broadcast (DB) rapid response burned area mapping algorithm 
 ## A spatial and temporal analysis of forest dynamics using Landsat time-series
 Year: 2018
 
+Main content: 
 This study proposes an approach for holistically characterising and analysing forest dynamics across large areas and long-time periods using information derived from Landsat timeseries. To achieve this, we first developed a two-phase classification process to predictively map (1) disturbance and recovery levels and (2) disturbance causal agents for multiple detected disturbance events. The model explanatory data included a range of trajectory-based metrics derived from Landsat time-series, while model training and validation data were derived from a human-interpreted reference dataset. While previous studies have often described forest dynamics using some specific spectral change metrics, we demonstrated an ensemble approach to map disturbance and recovery trends (by treating them as a single metric) and to characterise not only abruptly occurring change events (e.g., clear-fell logging and wildfire) but also events of low severity (e.g., prescribed burning and selective logging). In addition, we adopted a space-time data cube concept to simultaneously report both newly detected disturbance events (detected disturbances) as well as events that have previously occurred but are ongoing (ongoing disturbances).
 
 ## A numerical simulation study on the impact of smoke aerosols from Russian forest fires on the air pollution over Asia
