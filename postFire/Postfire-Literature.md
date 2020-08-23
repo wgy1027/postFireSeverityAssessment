@@ -249,7 +249,10 @@ Main content:
 In this work, an unmixing-based methodology was evaluated in three Mediterranean study areas to estimate burn severity from medium spatial resolution optical satellite data. Post-fire Landsat 5 Thematic Mapper (TM) images were unmixed into four fraction images: non-photosynthetic vegetation and ash (NPV–Ash), green vegetation (GV), soil and shade using Multiple Endmember Spectral Mixture Analysis (MESMA). MESMA decomposes each pixel using different combinations of potential endmembers, overcoming the Linear Spectral Mixture Analysis limitation of using the same number of endmembers to model all image pixels. Next, a decision tree was used to classify the shade normalized fraction images into four classes: unburned and low, moderate, and high levels of burn severity. Finally, the burn severity estimates were validated using error matrix, producer and user accuracies per class, and κ statistic.
 
 ## Mapping post-fire forest regeneration and vegetation recovery using a combination of very high spatial resolution and hyperspectral satellite imagery
-Year: 2014
+Year: 2013
+
+Main content: 
+The aim of this work was to map post-fire forest regeneration and vegetation recovery on the Mediterranean island of Thasos by using a combination of very high spatial (VHS) resolution (QuickBird) and hyperspectral (EO-1 Hyperion) imagery and by employing object-based image analysis. More specifically, the work focused on (1) the separation and mapping of three major post-fire classes (forest regeneration, other vegetation recovery, unburned vegetation) existing within the fire perimeter, and (2) the differentiation and mapping of the two main forest regeneration classes, namely, Pinus brutia regeneration, and Pinus nigra regeneration. The data used in this study consisted of satellite images and field observations of homogeneous regenerated and revegetated areas.
 
 ## Long-Term Satellite Detection of Post-Fire Vegetation Trends in Boreal Forests of China
 Year: 2013
