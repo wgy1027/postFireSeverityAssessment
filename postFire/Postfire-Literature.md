@@ -260,8 +260,14 @@ Year: 2013
 ## Landscape-scale effects of fire severity on mixed-conifer and red fir forest structure in Yosemite National Park
 Year: 2013
 
+Main content: 
+We estimated and stratified burned area by fire severity using the Landsat-derived Relativized differenced Normalized Burn Ratio (RdNBR). Airborne LiDAR data, acquired in July 2010, measured the vertical and horizontal structure of canopy material and landscape patterning of canopy patches and gaps.
+
 ## Forest Fire Monitoring in Nagarjunasagar-Srisailam Tiger Reserve, Andhra Pradesh, India Using Geospatial Techniques
 Year: 2013
+
+Main content: 
+In order to prepare the forest burnt area map and analyse fire prone areas in Nagarjunasagar-Srisailam Tiger Reserve (NSTR), Andhra Pradesh, India using multi-temporal satellite data, Unsupervised classification and visual image interpretation techniques were used. 
 
 ## Synergy of VSWIR (0.4–2.5 μm) and MTIR (3.5–12.5 μm) data for post-fire assessments
 Year: 2012
