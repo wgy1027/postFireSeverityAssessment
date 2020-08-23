@@ -41,9 +41,16 @@ Year: 2018
 In this study, we developed an algorithm for continuous monitoring of annual burned areas using Landsat time series. The algorithm is based on burned pixel detection using harmonic model fitting with Landsat time series and breakpoint identification in the time series data.
 
 ## Burn severity metrics in fire-prone pine ecosystems along a climatic gradient using Landsat imagery
-Year: 2018
+Year:
+2018
 
+Main content:
 Multispectral imagery is a widely used source of information to address post-fire ecosystem management. The aim of this study is to evaluate the ability of remotely sensed indices derived from Landsat 8 OLI/TIRS to assess initial burn severity (overall, on vegetation and on soil) in fire-prone pine forests along the Mediterranean-Transition-Oceanic climatic gradient in the Mediterranean Basin. We selected four large wildfires which affected pine forests in a climatic gradient within the Iberian Peninsula. In each wildfire we established CBI plots to obtain field values of three burn severity metrics: site, vegetation and soil burn severity. The ability of 13 spectral indices to match these three field burn severity metrics was compared and their transferability along the climatic gradient assessed using linear regression models. Specifically, we analysed the performance of 12 indices previously used for burn severity assessments (8 reflective, 2 thermal, 2 mixed) and a new reflective index (dNBR-EVI).
+
+Note:
+In this paper, the burn severity is defined as the change in the burn area with respect to the pre-fire situation and operationally denoted as the aboveground and belowground organic matter consumed by fire. And the wildfire have affects on vegetation and soil. As a field measurement, the Composite Burn Index (CBI) is a integrative burn severity indicator by synthesizing several visually estimated metrics of four vegetation strata and soil. Besides, CBI has the advantages of rapid application and known relation with many other impacts on the ecosystems and post-fire recovery. Burn severity based on remote sensing falls into three categories: those based on spectral mixture analysis, radiative transfer models, and spectral indices. 
+
+The objective of this study is to evaluate the ability of remotely sensed indices derived from Landsat sensors for initial burn severity assessments in fire-prone ecosystems dominated by Pinus species along the Mediterranean-Transition-Oceanic climatic gradient.
 
 ## A VIIRS direct broadcast algorithm for rapid response mapping of wildfire burned area in the western United States
 Year: 2018
