@@ -328,6 +328,15 @@ Year: 2006
 Landscape Assessment primarily addresses the need to identify and quantify fire effects over large areas, at times involving many burns.. In contrast to individual case studies, the ability to compare results is emphasized along with the capacity to aggregate information across broad regions and over time.
 In this paper,  burn severity is defined as a scaled index gauging the magnitude of ecological change caused by fire. In the process, two methodologies are integrated. Burn Remote Sensing (BR) involves remote sensing with Landsat 30-meter data and a derived radiometric value called the Normalized Burn Ratio (NBR). As another one, The Burn Index (BI) adds a complementary field sampling approach, called the Composite Burn Index (CBI), which entails a relatively large plot, independent severity ratings for individual strata, and a synoptic rating for the whole plot area. Plot sampling can be used to calibrate and validate remote sensing results, to relate detected radiometric change to actual fire effects on the ground.
 
+## FIREMON: LandscapeAssessment
+Year: 2006
+
+Main content: 
+It in introduce the details about the Landscape Assessment which primarily addresses the need to identify and quantify fire effects over large areas at times involving many burns. In the process, two methodologies are integrated: (1) Burn Remote Sensing (BR) involving remote sensing with Landsat 30-meter data and a derived radiometric value called the Normalized Burn Ratio (NBR); (2) Composite Burn Index (CBI) which entails a relatively large plot, independent severity ratings for individual strata, and a synoptic rating for the whole plot area.
+
+Note: 
+Here, the burn severity is defined as a scaled index gauging the magnitude of ecological change caused by fire.
+
 ## Design of committee machines for classification of single-wavelength lidar signals applied to early forest fire detection
 Year: 2005
 
