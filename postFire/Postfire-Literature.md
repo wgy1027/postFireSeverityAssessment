@@ -82,6 +82,12 @@ Year: 2018 bad
 
 we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) imagery acquired from a constellation of nano-satellites operated by Planet Labs (“Planet”) to assess fire damage to urban trees in the wildland-urban interface of a Mediterranean city in Israel (Haifa).
 
+## 长时间序列多源遥感数据的森林干扰监测算法研究进展
+Year: 2018
+
+Main content: 
+本文全面评述了长时间序列遥感数据准备和预处理技术以及国内外基于遥感数据源的多时相森林干扰监测方法，重点分析了基于Landsat的多种指数监测和自动化方法的优缺点，并总结了其与多源数据结合的扩展应用，最后就现有方法与国内外新的数据、技术手段的关联进行了展望，以期为推广中国本土卫星影像应用于森林干扰监测提供理论借鉴。
+
 ## Validation of the USGS Landsat Burned Area Essential Climate Variable (BAECV) across the conterminous United States
 Year: 2017
 
