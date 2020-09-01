@@ -101,6 +101,12 @@ Year: 2017
 
 In this study, a two-step modeling approach was used to map the type and timing of forest disturbances occurring between 1984 and 2010 in ten Landsat scenes located in diverse forest systems of the conterminous U.S. In step one, Random Forest (RF) models were developed to predict the presence of five forest disturbance agents (conversion, fire, harvest, stress and wind) and stable (i.e. undisturbed) forest. Models were developed using a suite of predictors including spectral change metrics derived from a nonparametric shape-restricted spline fitting algorithm, as well as several topographic and biophysical variables which potentially influence the initiation and/or spread of forest disturbance agents. Step two involved applying a rule-based model to the spectrally-based shape parameters (e.g. shape type, year and duration) to assign a year to the disturbance types and locations predicted in step one.
 
+## Post-disaster assessment with unmanned aerial vehicles: A survey on practical implementations and research approaches
+Year: 2017
+
+Main content: 
+In this paper, we provide a review of the principal aspects related to search & rescue (SAR) with unmanned aerial vehicles (UAVs), with particular interest in the phase of post-disaster assessment (PDA). The analysis of this paper focus on the aerial platforms used in the field, multirobot software architectures, onboard sensors and simultaneous localization and mapping approaches, terrain coverage algorithms, autonomous navigation techniques, and human-swarm interfaces. 
+
 ## Mapping fire severity and fire extent in forest in Victoria for ecological and fuel outcomes
 Year: 2017
 
