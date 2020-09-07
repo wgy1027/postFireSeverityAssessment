@@ -5,6 +5,9 @@ Year: 2018 bad
 
 we take advantage of frequent (i.e., ca. daily), high-spatial-resolution (3 m) imagery acquired from a constellation of nano-satellites operated by Planet Labs (“Planet”) to assess fire damage to urban trees in the wildland-urban interface of a Mediterranean city in Israel (Haifa).
 
+## A numerical simulation study on the impact of smoke aerosols from Russian forest fires on the air pollution over Asia
+Year: 2018
+
 ## Testing a Landsat-based approach for mapping disturbance causality in U.S. forests
 Year: 2017
 

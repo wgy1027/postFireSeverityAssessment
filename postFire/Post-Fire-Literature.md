@@ -50,6 +50,8 @@ This study assesses the performance of the Random Forest classifier (RF) for imp
 ## Mapping Burn Severity of Forest Fires in Small Sample Size Scenarios
 Year: 2018
 
+Journal: Forest
+
 Main content: 
 In order to develop alternative method of mapping burn severity using limited number of field plots, we proposed a support vector regression (SVR) based method using multi-temporal satellite data to map the burn severity, evaluated its performance by calculating correlations between the predicted and the observed Composite Burn Index (CBI), and compared the performance with that of the regression analysis method (based on dNBR).
 
@@ -82,9 +84,6 @@ Year: 2018
 Main content: 
 This study proposes an approach for holistically characterising and analysing forest dynamics across large areas and long-time periods using information derived from Landsat timeseries. To achieve this, we first developed a two-phase classification process to predictively map (1) disturbance and recovery levels and (2) disturbance causal agents for multiple detected disturbance events. The model explanatory data included a range of trajectory-based metrics derived from Landsat time-series, while model training and validation data were derived from a human-interpreted reference dataset. While previous studies have often described forest dynamics using some specific spectral change metrics, we demonstrated an ensemble approach to map disturbance and recovery trends (by treating them as a single metric) and to characterise not only abruptly occurring change events (e.g., clear-fell logging and wildfire) but also events of low severity (e.g., prescribed burning and selective logging). In addition, we adopted a space-time data cube concept to simultaneously report both newly detected disturbance events (detected disturbances) as well as events that have previously occurred but are ongoing (ongoing disturbances).
 
-## A numerical simulation study on the impact of smoke aerosols from Russian forest fires on the air pollution over Asia
-Year: 2018
-
 ## 长时间序列多源遥感数据的森林干扰监测算法研究进展
 Year: 2018
 
@@ -94,6 +93,7 @@ Main content:
 ## Using high spatial resolution satellite imagery to map forest burn severity across spatial scales in a Pine Barrens ecosystem
 Year: 2017
 
+Main content: 
 We assessed a 432 ha forest fire that occurred in April 2012 on Long Island, New York, within the Pine Barrens region. The mapping of forest burn severity was explored here at fine spatial scales, for the first time using remotely sensed spectral indices and a set of Multiple Endmember Spectral Mixture Analysis (MESMA) fraction images from bi-temporal — pre- and post-fire event — WorldView-2 (WV-2) imagery at 2 m spatial resolution. Two kinds of evaluation: (1) We first evaluated our approach using 1 m by 1 m validation points at the sub-crown scale per severity class (i.e. unburned, low, moderate, and high severity) from the post-fire 0.10 m color aerial ortho-photos; (2) we validated the burn severity mapping of geo-referenced dominant tree crowns (crown scale) and 15 m by 15 m fixed-area plots (inter-crown scale) with the post-fire 0.10 m aerial orthophotos and measured crown information of twenty forest inventory plots.
 
 ## Post-disaster assessment with unmanned aerial vehicles: A survey on practical implementations and research approaches
@@ -142,16 +142,28 @@ In the USA Monitoring Trends in Burn Severity (MTBS) program is used to generate
 Year: 2016
 
 ## A new burn severity index based on land surface temperature and enhanced vegetation index
-2016
+Year: 2016
+
+Main content: 
+In this paper, a new index is proposed by considering Land Surface Temperature and enhanced vegetation index (EVI) together. The accuracy of the proposed index was evaluated by using 264 composite burn index (CBI) field sample data of the five fires across different regional eco-type areas in the Western United States.
 
 ## Object-based assessment of burn severity in diseased forests using high-spatial and high-spectral resolution MASTER airborne imagery
 Year: 2015
 
+Main content: 
+This study examines the impacts of fire and exotic disease (sudden oak death) on forests, with an emphasis on the assessment of post-fire burn severity in a forest where trees have experienced three stages of disease progression prefire: early-stage (trees retaining dried foliage and fine twigs), middle-stage (trees losing fine crown fuels), and late-stage (trees falling down). (1) The research was conducted by applying Geographic Object-Based Image Analysis (GEOBIA) to MASTER airborne images that were acquired immediately following the fire for rapid assessment and contained both high-spatial (4 m) and high-spectral (50 bands) resolutions. (2) We also assessed two widely used band reduction algorithms, PCA (principal component analysis) and MNF (minimum noise fraction). To increase computation efficiency, only the top 5 PCA and MNF and top 10 PCA and MNF components were evaluated,
+
 ## Mapping burn severity in a disease-impacted forest landscape using Landsat and MASTER imagery
 Year: 2015
 
+Main content: 
+In this study, we combined (pre- and post-fire) Landsat imagery and (post-fire) high-spectral resolution airborne MASTER data [MODIS (moderate resolution imaging spectroradiometer)/ASTER (advanced spaceborne thermal emission and reflection radiometer)] to map burn severity in a California coastal forest environment, where a non-native forest disease sudden oak death (SOD) was causing substantial tree mortality.
+
 ## Estimation and evaluation of multi-decadal fire severity patterns using Landsat sensors
 Year: 2015
+
+Main content: 
+This study aimed to assess the relationship between the Landsat differenced normalised burn ratio (dNBR) and field measured geometrically structured composite burn index (GeoCBI) for retrospective analysis of fire severity over a 23 year period in sclerophyll woodland and heath ecosystems. Further, we assessed for reduced dNBR fire severity classification accuracies associated with vegetation regrowth at increasing time between ignition and image capture. This was achieved by assessing four Landsat images captured at increasing time since ignition of the most recent burnt area.
 
 ## Challenges of assessing fire and burn severity using field measures, remote sensing and modelling
 Year: 2014
