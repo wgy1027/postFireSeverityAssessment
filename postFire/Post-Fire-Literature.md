@@ -1,3 +1,33 @@
+## Th state of the World's forests (UN)
+Year: 2020
+
+Main content: 
+
+
+## Global Forest Resources Assessment 2020 (main Report)
+Year: 2020
+
+Main content: 
+
+
+## Global Forest Resources Assessment 2020 (key-Founds)
+Year: 2020
+
+Main content: 
+
+
+## 2020年世界森林状况报告-联合国
+Year: 2020
+
+Main content: 
+
+
+## The state of Canada's forests (annual report 2019)
+Year: 2019
+
+Main content: 
+
+
 ## Fire and burn severity assessment: Calibration of Relative Differenced Normalized Burn Ratio (RdNBR) with field data
 Year: 2019
 
@@ -61,9 +91,6 @@ Year: 2018
 Main content: 
 本文全面评述了长时间序列遥感数据准备和预处理技术以及国内外基于遥感数据源的多时相森林干扰监测方法，重点分析了基于Landsat的多种指数监测和自动化方法的优缺点，并总结了其与多源数据结合的扩展应用，最后就现有方法与国内外新的数据、技术手段的关联进行了展望，以期为推广中国本土卫星影像应用于森林干扰监测提供理论借鉴。
 
-## Validation of the USGS Landsat Burned Area Essential Climate Variable (BAECV) across the conterminous United States
-Year: 2017
-
 ## Using high spatial resolution satellite imagery to map forest burn severity across spatial scales in a Pine Barrens ecosystem
 Year: 2017
 
@@ -79,11 +106,12 @@ In this paper, we provide a review of the principal aspects related to search & 
 Year: 2017
 
 Main content: 
-This study shows how high-resolution (~15 cm) simultaneous colour and infra-red digital aerial photography can be used to map both fire severity and, particularly, fire extent, in forest in south-eastern Australia.
+This study shows how high-resolution (~15 cm) simultaneous colour and infra-red digital aerial photography can be used to map both fire severity and fire extent in forest in south-eastern Australia.
 
 ## Evaluation of forest fire on Madeira Island using Sentinel-2A MSI imagery
 Year: 2017
 
+Main content: 
 This study presents the preliminary results of the assessment of several spectral indices calculated using the Sentinel-2A MSI imagery, to evaluate the burn severity of Madeira fires during August 2016. The study confirmed the advantages of several spectral indices such as Normalized Difference Vegetation Index (NDVI), Green Normalized Difference Vegetation Index (GNDVI), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVIreXn) using red-edge spectral bands to assess the post-fire conditions.
 
 ## Calibrating Satellite-Based Indices of Burn Severity from UAV-Derived Metrics of a Burned Boreal Forest in NWT, Canada
@@ -104,36 +132,11 @@ Year: 2016
 Main content: 
 In order to explore how fire severity maps relate to longer term post-fire conditions in the absence of management actions, we characterized field-measured fire effects in forests 5–7 years after fire in severity categories as they were mapped with one year post-fire satellite data. The severity maps we used were produced from a relativized differenced normalized burn ratio (RdNBR) derived from Landsat images and calibrated to three severity metrics: composite burn index (CBI), percent change in basal area (BA), and percent change in tree canopy cover (CC).
 
-## Tree mortality based fire severity classification for forest inventories: A Pacific Northwest national forests example 
+## Tree mortality based fire severity classification for forest inventories: A Pacific Northwest national forests example
 Year: 2016
 
+Main content: 
 In the USA Monitoring Trends in Burn Severity (MTBS) program is used to generate the national-scale fire severity classification with satellite image change-detection, but it is not clear how much forested area burns in smaller fires or whether ground-based fire severity estimates from a statistical sample of all forest lands might provide additional, useful information. In light of this point, We developed a tree mortality based fire severity classification using remeasured tree data from 10,008 plots in a probabilistic survey of National Forests System (NFS) lands in Oregon and Washington, using 8 tree mortality and abundance metrics. We estimate that 12.5% of NFS forest lands in the region experienced a fire event during 1993–2007, with an annual rate of 0.96%.
-
-## The role of forest fire severity on vegetation recovery after 18 years. Implications for forest management of Quercus suber L. in Iberian Peninsula
-Year: 2016
-
-## Resilience of Mediterranean terrestrial ecosystems and fire severity in semiarid areas: Responses of Aleppo pine forests in the short, mid and long term
-Year: 2016
-
-## Remote sensing approach to detect post-fire vegetation regrowth in Siberian boreal larch forest
-Year: 2016
-
-## Mapping a burned forest area from Landsat TM data by multiple methods
-Year: 2016
-
-In this study, focusing on the most serious forest fire in the history of P. R. China which occurred in this region, we made use of two Landsat-5 TM (Thematic Mapper) images, and proposed to map the overall burned area and burned forest area by multiple methods. During the mapping, the fire perimeter, as well as rivers, roads and urban areas were first extracted and masked visually, and then four indices of Normalized Difference Vegetation Index, Enhanced Vegetation Index, Vegetation Fractional Cover and Disturbance Index were calculated. For each index, the optimal threshold for separating burned from unburned forest area was determined using their histograms. For comparison, threshold segmentation using single-band reflectance was performed, in addition to a Maximum Likelihood Classifier (MLC) based supervised classification of all features and forest area alone; their accuracies were also evaluated and analysed.
-
-## Improving remote sensing research and education in developing countries_ Approaches and recommendations
-2016
-
-## High severity fire and mixed conifer forest-chaparral dynamics in the southern Cascade Range, USA
-Year: 2016
-
-## Burn severity influence on post-fire vegetation cover resilience from Landsat MESMA fraction images time series in Mediterranean forest ecosystems
-Year: 2016
-
-## Assessing postfire recovery of chamise chaparral using multi-temporal spectral vegetation index trajectories derived from Landsat imagery
-Year: 2016
 
 ## Assessing post-fire ground cover in Mediterranean shrublands with field spectrometry and digital photography
 Year: 2016
@@ -141,63 +144,32 @@ Year: 2016
 ## A new burn severity index based on land surface temperature and enhanced vegetation index
 2016
 
-## Semi-automated mapping of burned areas in semi-arid ecosystems using MODIS time-series imagery
-Year: 2015
-
-## Quantifying influences and relative importance of fire weather, topography, and vegetation on fire size and fire severity in a Chinese boreal forest landscape
-Year: 2015
-
 ## Object-based assessment of burn severity in diseased forests using high-spatial and high-spectral resolution MASTER airborne imagery
 Year: 2015
 
-## Mixed severity fire effects within the Rim fire_ Relative importance of local climate, fire weather, topography, and forest structure
-2015
-
 ## Mapping burn severity in a disease-impacted forest landscape using Landsat and MASTER imagery
-Year: 2015
-
-## Global burned area mapping from ENVISAT-MERIS and MODIS active fire data
-Year: 2015
-
-## Exploring the relationships between post-fire vegetation regeneration dynamics, topography and burn severity_ A case study from the Montane Cordillera Ecozones of Western Canada
 Year: 2015
 
 ## Estimation and evaluation of multi-decadal fire severity patterns using Landsat sensors
 Year: 2015
 
-## Effects of fire severity and post-fire climate on short-term vegetation recovery of mixed-conifer and red fir forests in the Sierra Nevada Mountains of California
-Year: 2015
-
-## Wildland fire emissions, carbon, and climate_ Wildland fire detection and burned area in the United States
-Year: 2014
-
-## Ten years of global burned area products from spaceborne remote sensing—A review_ Analysis of user needs and recommendations for future developments
-Year: 2014
-
-We surveyed a wide range of users of global fire data products whilst also undertaking a review of the latest scientific literature. 
-
-## Remote Sensing Techniques in Monitoring Post-Fire Effects and Patterns of Forest Recovery in Boreal Forest Regions A Review
-Year: 2014
-
-This article attempts to provide a comprehensive review of current research with respect to remotely sensed data and methods used to model post-fire effects and forest recovery patterns in boreal forest regions. The review reveals that remote sensing-based monitoring of post-fire effects and forest recovery patterns in boreal forest regions is not only limited by the gaps in both field data and remotely sensed data, but also the complexity of far-northern fire regimes, climatic conditions and environmental conditions. 
-
-## Post-fire resilience in the Alpine region estimated from MODIS satellite multispectral data
-Year: 2014
-
-## Forest disturbances, forest recovery, and changes in forest types across the Carpathian ecoregion from 1985 to 2010 based on Landsat image composites
-Year: 2014
-
 ## Challenges of assessing fire and burn severity using field measures, remote sensing and modelling
 Year: 2014
+
+Main content: 
+We highlight the challenges in effective assessment of fire and burn severity in the field and using both remote sensing and simulation models. We draw on diverse recent research for guidance on assessing fire effects on vegetation and soil using field methods, remote sensing and models.
 
 ## Atmospheric effects on the performance and threshold extrapolation of multi-temporal Landsat derived dNBR for burn severity assessment
 Year: 2014
 
+Main content: 
+In this study, we compared the performance of dNBR calculated from six atmospheric correction methods using an optimality approach. The six correction methods included one partial (Top of atmosphere reflectance, TOA), two absolute, and three relative methods. We assessed how the correction methods affected the CBI-dNBR correlation and burn severity mapping in a Chinese boreal forest fire which occurred in 2010.
+
 ## Assessing fire severity using imaging spectroscopy data from the Airborne Visible_Infrared Imaging Spectrometer (AVIRIS) and comparison with multispectral capabilities
 Year: 2014
 
-## Assessing fire effects on forest spatial structure using a fusion of Landsat and airborne LiDAR data in Yosemite National Park
-Year: 2014
+Main content: 
+Here, we used an alternative indicator, the burned fraction derived from spectral mixture analysis (SMA), to evaluate and compare the performance for assessing fire severity of broadband and narrowband imaging spectroscopy (IS) data in the visible to shortwave infrared (VSWIR, 0.35–2.5um).
 
 ## Spectral analysis of fire severity in north Australian tropical savannas
 Year: 2013
@@ -211,45 +183,21 @@ Year: 2013
 Main content: 
 In this work, an unmixing-based methodology was evaluated in three Mediterranean study areas to estimate burn severity from medium spatial resolution optical satellite data. Post-fire Landsat 5 Thematic Mapper (TM) images were unmixed into four fraction images: non-photosynthetic vegetation and ash (NPV–Ash), green vegetation (GV), soil and shade using Multiple Endmember Spectral Mixture Analysis (MESMA). MESMA decomposes each pixel using different combinations of potential endmembers, overcoming the Linear Spectral Mixture Analysis limitation of using the same number of endmembers to model all image pixels. Next, a decision tree was used to classify the shade normalized fraction images into four classes: unburned and low, moderate, and high levels of burn severity. Finally, the burn severity estimates were validated using error matrix, producer and user accuracies per class, and κ statistic.
 
-## Mapping post-fire forest regeneration and vegetation recovery using a combination of very high spatial resolution and hyperspectral satellite imagery
-Year: 2013
-
-Main content: 
-The aim of this work was to map post-fire forest regeneration and vegetation recovery on the Mediterranean island of Thasos by using a combination of very high spatial (VHS) resolution (QuickBird) and hyperspectral (EO-1 Hyperion) imagery and by employing object-based image analysis. More specifically, the work focused on (1) the separation and mapping of three major post-fire classes (forest regeneration, other vegetation recovery, unburned vegetation) existing within the fire perimeter, and (2) the differentiation and mapping of the two main forest regeneration classes, namely, Pinus brutia regeneration, and Pinus nigra regeneration. The data used in this study consisted of satellite images and field observations of homogeneous regenerated and revegetated areas.
-
-## Long-Term Satellite Detection of Post-Fire Vegetation Trends in Boreal Forests of China
-Year: 2013
-
 ## Landscape-scale effects of fire severity on mixed-conifer and red fir forest structure in Yosemite National Park
 Year: 2013
 
 Main content: 
 We estimated and stratified burned area by fire severity using the Landsat-derived Relativized differenced Normalized Burn Ratio (RdNBR). Airborne LiDAR data, acquired in July 2010, measured the vertical and horizontal structure of canopy material and landscape patterning of canopy patches and gaps.
 
-## Forest Fire Monitoring in Nagarjunasagar-Srisailam Tiger Reserve, Andhra Pradesh, India Using Geospatial Techniques
-Year: 2013
-
-Main content: 
-In order to prepare the forest burnt area map and analyse fire prone areas in Nagarjunasagar-Srisailam Tiger Reserve (NSTR), Andhra Pradesh, India using multi-temporal satellite data, Unsupervised classification and visual image interpretation techniques were used. 
-
 ## Synergy of VSWIR (0.4–2.5 μm) and MTIR (3.5–12.5 μm) data for post-fire assessments
 Year: 2012
 
 We have used MODIS/ASTER (MASTER) airborne simulator data over the 2011 Canyon fire in California, USA to evaluate the potential synergy between visible to short-wave infrared (VSWIR, 0.4–2.5 μm) and mid to thermal infrared (MTIR, 3.5–12.5 μm) data in a post-fire assessment task. We applied Multiple Endmember Spectral Mixture Analysis (MESMA) inputting five endmembers: char, green vegetation, non-photosynthetic vegetation (NPV), substrate and shadow.
 
-## Spectral mixture analysis to assess post-fire vegetation regeneration using Landsat Thematic Mapper imagery_ Accounting for soil brightness variation
-Year: 2012
-
 ## Monitoring Trends and Burn Severity (MTBS): Monitoring Wildfire Activity for the Past Quarter Century Using Landsat Data
 Year: 2012
 
 Considering the MTBS project, which produces geospatial and tabular data using a consistent protocol for fire trend analysis at a range of spatial, temporal, and thematic scales, have huge contribution, this paper reviews the objectives of the MTBS project, describes the data sets and information provided, and presents results of the analysis of the 1984-2010 MTBS data set for the United States.
-
-## Fire Damage Assessment in Sardinia the use of ALOSPALSAR data for post fre effects management
-Year: 2012
-
-## Assessing post-fire vegetation recovery using red–near infrared vegetation indices_ Accounting for background and vegetation variability
-Year: 2012
 
 ## An alternative spectral index for rapid fire severity assessments
 Year: 2012
@@ -259,25 +207,25 @@ The authors have developed an alternative index based on single date short-wave 
 ## A method for extracting burned areas from Landsat TM_ETM+ images by soft aggregation of multiple Spectral Indices and a region growing algorithm
 Year: 2012
 
+Main content: 
+In this article we present a multi-criteria approach based on Spectral Indices, soft computing techniques and a region growing algorithm; theoretically this approach relies on the convergence of partial evidence of burning provided by the indices. Our proposal features several innovative aspects: it is flexible in adapting to a variable number of indices and to missing data; it exploits positive and negative evidence (bipolar information) and it offers different criteria for aggregating partial evidence in order to derive the layers of candidate seeds and candidate region growing boundaries. 
+
 ## Modeling of multi-strata forest fire severity using Landsat TM Data
 Year: 2011
 
 In this study, using field measured fire severity across five forest strata of dominant tree, intermediate-sized tree, shrub, herb, substrate layers, and the aggregated measure of CBI as response variables, we fit statistical models with predictors of Landsat TM bands, Landsat derived NBR or dNBR, image differencing, and image ratioing data. We model multi-strata forest fire in the historical recorded largest wildfire in California, the Big Sur Basin Complex fire. We explore the potential contributions of the post-fire Landsat bands, image differencing, image ratioing to fire severity modeling and compare with the widely used NBR and dNBR. Models using combinations of post-fire Landsat bands perform much better than NBR, dNBR, image differencing, and image ratioing. We predict and map multi-strata forest fire severity across the whole Big Sur fire areas, and find that the overall measure CBI is not optimal to represent multi-strata forest fire severity.
 
-## Estimation of Biomass Burned Areas Using Multiple-Satellite-Observed Active Fires
-Year: 2011
-
-## Detecting trends in forest disturbance and recovery using yearly Landsat time series_ 2. TimeSync — Tools for calibration and validation
-Year: 2011
-
-## Analyzing the Impacts of Frequency and Severity of Forest Fire on the Recovery of Disturbed Forest using Landsat Time Series and EO-1 Hyperion in the Southern Brazilian Amazon
-2011
-
 ## A time-integrated MODIS burn severity assessment using the multi-temporal differenced normalized burn ratio (dNBRMT)
 Year: 2011
 
+Main content:
+A multi-temporal burn severity approach based on coarse spatial, high temporal resolution moderate resolution imaging spectroradiometer (MODIS) imagery is presented in this study.  The multi-temporal dNBR (dNBRMT) is defined as the 1-year integrated difference between burned pixels and their unique control pixels. These control pixels were selected based on time series similarity and spatial context and reflect how burned pixels would have behaved in the case no fire had occurred.
+
 ## The temporal dimension of differenced Normalized Burn Ratio (dNBR) fire_burn severity studies_ The case of the large 2007 Peloponnese wildfires in Greece
 Year: 2010
+
+Main content; 
+The temporal dimension of differenced Normalized Burn Ratio (dNBR) fire/burn severity studies was studied for the case of the large 2007 Peloponnese wildfires in Greece. Fire severity is defined as the degree of environmental change as measured immediately post-fire, whereas burn severity combines the direct fire impact and ecosystems responses. Geo Composite Burn Index (GeoCBI), two pre-/post-fire differenced Thematic Mapper (TM) dNBR assessments and a Moderate Resolution Imaging Spectroradiometer (MODIS) dNBR time series were used to analyze the temporal dimension. MODIS dNBR time series were calculated based on the difference between the NBR of the burned and control pixels, which were retrieved using time series similarity of a pre-fire year. The analysis incorporated the optimality statistic, which evaluates index performance based on displacements in the mid-infrared–near infrared bi-spectral space.
 
 ## Estimating burn severity from Landsat dNBR and RdNBR indices across western Canada
 Year: 2010
@@ -287,8 +235,14 @@ To predict burn severity, the differenced Normalized Burn Ratio (dNBR) algorithm
 ## Detecting trends in forest disturbance and recovery using yearly Landsat time series_ 1. LandTrendr — Temporal segmentation algorithms
 Year: 2010
 
+Main content: 
+We introduce and test LandTrendr (Landsat-based detection of Trends in Disturbance and Recovery), a new approach to extract spectral trajectories of land surface change from yearly Landsat time-series stacks (LTS). The method brings together two themes in time-series analysis of LTS: capture of short-duration events and smoothing of long-term trends. Our strategy is founded on the recognition that change is not simply a contrast between conditions at two points in time, but rather a continual process operating at both fast and slow rates on landscapes. In the LandTrendr approach, we use relative radiometric normalization and simple cloud screening rules to create onthe-fly mosaics of multiple images per year, and extract temporal trajectories of spectral data on a pixel-by-pixel basis. We then apply temporal segmentation strategies with both regression-based and point-to-point fitting of spectral indices as a function of time, allowing capture of both slowly-evolving processes, such as regrowth, and abrupt events, such as forest harvest. Because any temporal trajectory pattern is allowable, we use control parameters and threshold-based filtering to reduce the role of false positive detections. 
+
 ## Combining ASTER multispectral imagery analysis and support vector machines for rapid and cost-effective post-fire assessment: a case study from the Greek wildland fires of 2007
 Year: 2010
+
+Main content: 
+The present study investigates the use of the support vector machine (SVM) classification method with multispectral data from the Advanced Spectral Emission and Reflection Radiometer (ASTER) for obtaining a rapid and cost effective post-fire assessment in a Mediterranean setting. Two ASTER scenes were acquired, one before and one closely after the fire episode. Cartography of the burnt area was obtained by classifying each multiband ASTER image into a number of discrete classes using the SVM classifier supported by land use/cover information from the CORINE 2000 land nomenclature.
 
 ## Combining spectral mixture analysis and object-based classification for fire severity mapping
 Year: 2009
@@ -315,8 +269,6 @@ It in introduce the details about the Landscape Assessment which primarily addre
 Note: 
 Here, the burn severity is defined as a scaled index gauging the magnitude of ecological change caused by fire.
 
-## Remote Sensing of Forest Fire Severity and Vegetation Recovery
-Year: 1996
 
 
 
