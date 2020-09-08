@@ -3,7 +3,13 @@ Year: 2020
 
 Main content: 
 
+## On the Mapping of Burned Areas and Burn Severity Using Self Organizing Map and Sentinel-2 Data
+Year: 2020
 
+Journey: IEEE GEOSCIENCE AND REMOTE SENSING LETTERS
+
+Main content: 
+In this letter, we propose an approach based on the use of Sentinel-2 spectral indices and self-organizing map (SOM) to automatically map burned areas and burned severity. To identify different levels of fire severity without using fixed thresholds, we applied SOM to the three spectral indices normalized difference vegetation index (NDVI), normalized burn ratio (NBR), and burned area index for sentinel (BAIS) used to enhance burned areas. The methodological approach herein proposed is based on three steps: 1) indices computation; 2) maps of the difference of the three indices computed using the data acquired from prefire and postfire occurrences; and 3) unsupervised classification obtained processing all the difference maps using the SOM.
 ## Global Forest Resources Assessment 2020 (main Report)
 Year: 2020
 
@@ -145,7 +151,7 @@ Year: 2016
 Year: 2016
 
 Main content: 
-In this paper, a new index is proposed by considering Land Surface Temperature and enhanced vegetation index (EVI) together. The accuracy of the proposed index was evaluated by using 264 composite burn index (CBI) field sample data of the five fires across different regional eco-type areas in the Western United States.
+In this paper, a new index is proposed by considering Land Surface Temperature (LST) and enhanced vegetation index (EVI) together. The accuracy of the proposed index was evaluated by using 264 composite burn index (CBI) field sample data of the five fires across different regional eco-type areas in the Western United States.
 
 ## Object-based assessment of burn severity in diseased forests using high-spatial and high-spectral resolution MASTER airborne imagery
 Year: 2015
@@ -204,6 +210,7 @@ We estimated and stratified burned area by fire severity using the Landsat-deriv
 ## Synergy of VSWIR (0.4–2.5 μm) and MTIR (3.5–12.5 μm) data for post-fire assessments
 Year: 2012
 
+Main content: 
 We have used MODIS/ASTER (MASTER) airborne simulator data over the 2011 Canyon fire in California, USA to evaluate the potential synergy between visible to short-wave infrared (VSWIR, 0.4–2.5 μm) and mid to thermal infrared (MTIR, 3.5–12.5 μm) data in a post-fire assessment task. We applied Multiple Endmember Spectral Mixture Analysis (MESMA) inputting five endmembers: char, green vegetation, non-photosynthetic vegetation (NPV), substrate and shadow.
 
 ## Monitoring Trends and Burn Severity (MTBS): Monitoring Wildfire Activity for the Past Quarter Century Using Landsat Data
