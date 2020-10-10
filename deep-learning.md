@@ -25,8 +25,13 @@ Its parameter "dilation rate" defines a spacing between the values in a kernel. 
   <img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif"  width="300" alt=".." title="Optional title" />
   <figcaption>2D convolution using a 3 kernel with a dilation rate of 2 and no padding</figcaption>
 </figure>
+This delivers a wider field of view at the same computational cost. Dilated convolutions are particularly popular in the field of real-time segmentation. Use them if you need a wide field of view and cannot afford multiple convolutions or larger kernels.
 
-![image](https://miro.medium.com/max/474/1*Lpn4nag_KRMfGkx1k6bV-g.gif)
+### Transposed Convolutions
+
+
+
+
 
 
 
