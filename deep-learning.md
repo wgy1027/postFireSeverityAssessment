@@ -24,7 +24,7 @@ Its parameter "dilation rate" defines a spacing between the values in a kernel. 
 
 ![image](https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif)
 
-<img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" width="23">
+<img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" width="100">
 2D convolution using a 3 kernel with a dilation rate of 2 and no padding
 
 ![image](https://miro.medium.com/max/474/1*Lpn4nag_KRMfGkx1k6bV-g.gif)
