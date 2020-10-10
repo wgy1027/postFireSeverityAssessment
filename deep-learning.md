@@ -20,10 +20,15 @@ PatternNet is a large-scale high-resolution remote sensing dataset collected for
 
 ## different Types of Convolutions in Deep Learning
 ### Dilated Convolutions
-Its parameter "dilation rate" defines a spacing between the values in a kernel. A 3x3 kernel with a dilation rate of 2 will have the same field of view as a 5x5 kernel, while only using 9 parameters. Imagine taking a 5x5 kernel and deleting every second column and row.
+Its parameter "dilation rate" defines a spacing between the values in a kernel. A 3x3 kernel with a dilation rate of 2 will have the same field of view as a 5x5 kernel, while only using 9 parameters. Imagine taking a 5x5 kernel and deleting every second column and row. It's as follows.
 
 <img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" width="300">
 2D convolution using a 3 kernel with a dilation rate of 2 and no padding
+
+<figure>
+  <img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" alt=".." title="Optional title" />
+  <figcaption>Optional title</figcaption>
+</figure>
 
 ![image](https://miro.medium.com/max/474/1*Lpn4nag_KRMfGkx1k6bV-g.gif)
 
