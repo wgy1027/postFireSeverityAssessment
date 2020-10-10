@@ -22,9 +22,7 @@ PatternNet is a large-scale high-resolution remote sensing dataset collected for
 ### Dilated Convolutions
 Its parameter "dilation rate" defines a spacing between the values in a kernel. A 3x3 kernel with a dilation rate of 2 will have the same field of view as a 5x5 kernel, while only using 9 parameters. Imagine taking a 5x5 kernel and deleting every second column and row.
 
-![image](https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif)
-
-<img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" width="100">
+<img src="https://miro.medium.com/max/474/1*SVkgHoFoiMZkjy54zM_SUw.gif" width="300">
 2D convolution using a 3 kernel with a dilation rate of 2 and no padding
 
 ![image](https://miro.medium.com/max/474/1*Lpn4nag_KRMfGkx1k6bV-g.gif)
