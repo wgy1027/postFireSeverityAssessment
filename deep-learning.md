@@ -21,7 +21,7 @@ model = fit(train)
 skill = evaluate(model, test)
 ```
 ## Use the k-fold cross-validation
-Cross-validation is a resampling procedure used to evaluate machine learning models on a limited dataset. The procedure has a single parameter called $k$ that refers to the number of groups that a given dataset is to be split into. As such, the procedure is oftern called $k$-fold cross-validation.
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited dataset. The procedure has a single parameter called ![](https://latex.codecogs.com/gif.latex?k) that refers to the number of groups that a given dataset is to be split into. As such, the procedure is oftern called ![](https://latex.codecogs.com/gif.latex?k)-fold cross-validation.
 We can make it concrete with the pseudocode as follows:
 ```
 # split data
