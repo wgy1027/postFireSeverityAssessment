@@ -1,4 +1,25 @@
 
+## Definitions of Train, Validation, and Test Datasets
+The following provides unambiguous definitions of the three terms.
+- Training Dataset: The sample of data used to fit the model.
+- Validation Dataset: The sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters.
+- Test Dataset: The sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+```
+# split data
+data = ...
+train, validation, test = split(data)
+
+# tune model hyperparameters
+parameters = ...
+for params in parameters:
+	model = fit(train, params)
+	skill = evaluate(model, validation)
+
+# evaluate final model for comparison with other models
+model = fit(train)
+skill = evaluate(model, test)
+```
+
 # Dataset
 The dataset for remote sensing with deep learning:
 ## PatternNet
