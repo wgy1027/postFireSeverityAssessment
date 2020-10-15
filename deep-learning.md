@@ -4,6 +4,7 @@ The following provides unambiguous definitions of the three terms.
 - Training Dataset: The sample of data used to fit the model.
 - Validation Dataset: The sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters.
 - Test Dataset: The sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+We make this concrete with a pseudocode sketch.
 ```
 # split data
 data = ...
@@ -14,6 +15,29 @@ parameters = ...
 for params in parameters:
 	model = fit(train, params)
 	skill = evaluate(model, validation)
+
+# evaluate final model for comparison with other models
+model = fit(train)
+skill = evaluate(model, test)
+```
+## Use the k-fold cross-validation
+We can make it concrete with the pseudocode as follows:
+```
+# split data
+data = ...
+train, test = split(data)
+
+# tune model hyperparameters
+parameters = ...
+k = ...
+for params in parameters:
+	skills = list()
+	for i in k:
+		fold_train, fold_val = cv_split(i, k, train)
+		model = fit(fold_train, params)
+		skill_estimate = evaluate(model, fold_val)
+		skills.append(skill_estimate)
+	skill = summarize(skills)
 
 # evaluate final model for comparison with other models
 model = fit(train)
