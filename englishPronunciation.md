@@ -457,3 +457,20 @@ Sound [w] is usually spelled w or wh, as in way[weɪ], or where[weɻ]. In the vi
 
 For the method to pronounce the [w] consonant, please refer to the video in [Rachel's English](http://www.youtube.com/watch?v=jt5huPbR7zU)
 
+# Pronunciation of Plural Nouns in English
+
+| Rule        | Example         |
+| ------------- |:-------------:|
+| Voiced consonant + /z/ Vowel sound + /z/ | bins, bags, peas, boys |
+| Unvoiced consonant + /s/      | books, bats, lights |
+| Sibilant + /IZ/ | watches, kisses, wishes  |
+
+# Pronunciation of Past Tense for Regular Verbs (-ed) in English
+
+| Rule        | Example         |
+| ------------- |:-------------:|
+| Voiced consonant + /d/ | opened, remembered |
+| Unvoiced consonant + /t/      | worked, watched |
+| /t/ or /d/ + /Id/ | ended, wanted   |
+
+
