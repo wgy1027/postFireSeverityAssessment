@@ -168,6 +168,8 @@ polygon 多边形
 
 vegetation index 植被指数
 
+synthetic aperture radar 激光雷达
+
 # 地理学
 subtropical 亚热带的 semitropical 亚热带的 arid 干旱的 semi-arid 半干旱的 alpine 高山的 subalpine 亚高山带的 biophysical characteristics 生物物理特征 microclimate 小气候; 微气候 micrometeorology 微气候学 elevation 海拔；高程 digital elevation model 数字高程模型 slope 坡度 aspect 方位 at regional and global scales 在地区和全球尺度上 broad-scale 大尺度的
 
