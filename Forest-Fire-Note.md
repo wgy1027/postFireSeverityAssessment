@@ -1,3 +1,7 @@
+
+The stand-replacing fire is a fire in which most or all overstory trees are killed.
+
+
 Fire behaviour refers to the manner in which fuel ignites, flame develops and fire spreads. In wildland fires, this behaviour is influenced by how fuels (such as needles, leaves and twigs), weather and topography interact. Once a fire starts, it will continue burning only if heat, oxygen and more fuel are present. Together, these three elements are said to make up the “fire triangle.” To put out a fire requires eliminating one or more of the fire triangle’s elements. Firefighters work to do that by: (1) cooling fuels below the combustion temperature through the use of water, foam, retardant or dirt; (2) cutting off the oxygen supply through the use of water, retardant or dirt; (3) removing fuel by clearing a swath of trees and brush ahead of the advancing fire.
 
 
@@ -21,6 +25,7 @@ Although not widely used except in the Southwest, Merriam's Life Zones are usefu
 Lower Sonoran Life Zone—Encompasses what we normally consider desert and also desert grassland. El Paso is in the Lower Sonoran Life Zone. Typical plants include Black Grama (Bouteloua eriopoda), Lechuguilla (Agave lechuguilla), Creosotebush (Larrea tridentata), Tarbush (Flourensia cernua), and Ocotillo (Fouquieria splendens). Some typical mammals include Merriam's Kangaroo Rat (Dipodomys merriami) and Mearns Grasshopper Mouse (Onychomys arenicola).
 
 Upper Sonoran Life Zone—Encompasses cooler grasslands (such as those in northern New Mexico) and woodland. Woodlands are usually open (that is, of widely spaced trees) forests of short trees or tree-like shrubs, usually less than 30 feet tall. The most common woodland in our area is pinyon-juniper woodland. However, pinyon-juniper-oak and oak-pine woodlands also occur within the boundaries of the Chihuahuan Desert Region. Generally, woodlands occur on shallower and topographically more diverse soils than the Upper Sonoran grasslands, though overgrazing and other mistreatments of the grasslands may result in invasion by woodlands. Some typical plants include Blue Grama grass (Bouteloua gracilis) and several species of piñon (Pinus) and juniper (Juniperus), the species involved varying with the geographic area. Some common mammals include the Pronghorn (Antilocapra americana), sometimes wrongly called antelope, the Cliff Chipmunk (Tamias dorsalis), and Black-tailed Prairie Dog (Cynomys ludovicianus).
+
 
 Transition Life Zone—In the northern Chihuahuan Desert, generally Ponderosa Pine forest, though other pines occur at similar elevations farther south. The zone often includes Gambel Oak, particularly where burned or logged off, and Douglas Fir is an ingredient in the higher portions.
 
