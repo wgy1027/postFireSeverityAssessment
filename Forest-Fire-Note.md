@@ -30,6 +30,7 @@ Hudsonian Life Zone—This and the following life zone occurs almost entirely no
 
 Arctic-Alpine Life Zone—In the Southwest, this is the area above timberline (in the arctic, the area north of timberline), inhabited by grasses, sedges, and various herbs. We do not have representatives of this zone nearby (the nearest are in northern New Mexico). We frequently, as on Sierra Blanca, see extensive meadows without trees (balds), but these are not above true timberline (such balds usually are on westerly slopes—on north and northeastern slope, trees continue to the top of the mountains, indicating that cold temperatures are not limiting tree growth, as would be the case with true arctic-alpine conditions).
 
+For more information, please go to [Merriam’s Life Zones definition in Radford University](https://php.radford.edu/~swoodwar/biomes/?page_id=317).
 
 # Reference:
 
