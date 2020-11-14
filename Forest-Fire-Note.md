@@ -15,6 +15,22 @@ higher slopes increase the rate of spread and intensity, but usually reduce the 
 than in broadleaved forests [[Fernandes et al. 2010](#Fernandes2010)]. The pre-fire tree species composition could play an important role in determining post-fire reflectance and recovery and, subsequently, burn severity [[Dragozi et al., 2016](#Dragozi2016)]. Even more, the season of the year when each fire takes place is expected to influence the initial fire severity, and delayed vegetation response [[Fernandes et al., 2017](#Fernandes2010)].
 
 
+## Life Zone
+Although not widely used except in the Southwest, Merriam's Life Zones are useful to quickly characterize the different biotas seen at different elevations. Although the desert proper falls entirely within the Lower Sonoran Life Zone, mountain islands within the desert or bounding it often support one or more higher-elevation zones. Following is a brief (overly brief) rundown.
+
+Lower Sonoran Life Zone—Encompasses what we normally consider desert and also desert grassland. El Paso is in the Lower Sonoran Life Zone. Typical plants include Black Grama (Bouteloua eriopoda), Lechuguilla (Agave lechuguilla), Creosotebush (Larrea tridentata), Tarbush (Flourensia cernua), and Ocotillo (Fouquieria splendens). Some typical mammals include Merriam's Kangaroo Rat (Dipodomys merriami) and Mearns Grasshopper Mouse (Onychomys arenicola).
+
+Upper Sonoran Life Zone—Encompasses cooler grasslands (such as those in northern New Mexico) and woodland. Woodlands are usually open (that is, of widely spaced trees) forests of short trees or tree-like shrubs, usually less than 30 feet tall. The most common woodland in our area is pinyon-juniper woodland. However, pinyon-juniper-oak and oak-pine woodlands also occur within the boundaries of the Chihuahuan Desert Region. Generally, woodlands occur on shallower and topographically more diverse soils than the Upper Sonoran grasslands, though overgrazing and other mistreatments of the grasslands may result in invasion by woodlands. Some typical plants include Blue Grama grass (Bouteloua gracilis) and several species of piñon (Pinus) and juniper (Juniperus), the species involved varying with the geographic area. Some common mammals include the Pronghorn (Antilocapra americana), sometimes wrongly called antelope, the Cliff Chipmunk (Tamias dorsalis), and Black-tailed Prairie Dog (Cynomys ludovicianus).
+
+Transition Life Zone—In the northern Chihuahuan Desert, generally Ponderosa Pine forest, though other pines occur at similar elevations farther south. The zone often includes Gambel Oak, particularly where burned or logged off, and Douglas Fir is an ingredient in the higher portions.
+
+Canadian Life Zone—Spruce-fir forest, similar in overall appearance to the trans-Canadian spruce-fir forest, or taiga. Aspen replaces Gambel Oak as the main disturbance tree. This forest essentially is a boreal (northern) forest extending far south along the higher elevations of the Rockies and, south of the Rocky Mountains, into the northern desert region at high elevations of the Basin and Range mountains, such as Sierra Blanca and the Sacramento Mountains.
+
+Hudsonian Life Zone—This and the following life zone occurs almost entirely north of our region at high elevations. As one nears the climatic timberline (either at high elevations or in the Far North), the coniferous forest trees become stunted (and a few different taxa appear). Sierra Blanca is considered by some to have a small representation of this zone.
+
+Arctic-Alpine Life Zone—In the Southwest, this is the area above timberline (in the arctic, the area north of timberline), inhabited by grasses, sedges, and various herbs. We do not have representatives of this zone nearby (the nearest are in northern New Mexico). We frequently, as on Sierra Blanca, see extensive meadows without trees (balds), but these are not above true timberline (such balds usually are on westerly slopes—on north and northeastern slope, trees continue to the top of the mountains, indicating that cold temperatures are not limiting tree growth, as would be the case with true arctic-alpine conditions).
+
+
 # Reference:
 
 <span id="Valor2017">[Valor2017] Valor, T., Olabarria, J., Pique, M., Casals, P., 2017. The effects of burning season and severity on the mortality over time of Pinus nigra spp. salzmannii (Dunal) Franco and P. sylvestris L. For. Ecol. Manag. 406, 172–183.</span>
