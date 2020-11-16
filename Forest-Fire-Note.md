@@ -37,6 +37,9 @@ Arctic-Alpine Life Zone—In the Southwest, this is the area above timberline (i
 
 For more information, please go to [Merriam’s Life Zones definition in Radford University](https://php.radford.edu/~swoodwar/biomes/?page_id=317).
 
+
+在遥感影像解译中，反演就是不知道影像上的地面物体是什么，而根据光谱信息等反求地面物体。
+
 # Reference:
 
 <span id="Valor2017">[Valor2017] Valor, T., Olabarria, J., Pique, M., Casals, P., 2017. The effects of burning season and severity on the mortality over time of Pinus nigra spp. salzmannii (Dunal) Franco and P. sylvestris L. For. Ecol. Manag. 406, 172–183.</span>
