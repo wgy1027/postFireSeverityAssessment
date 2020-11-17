@@ -166,7 +166,7 @@ linear unmixing 线性分离
 
 polygon 多边形
 
-vegetation index 植被指数
+vegetation index 植被指数 land-cover classification 土地覆盖分类 multi-source information fusion 多源信息融合 requantize 再量化 preprocess 预处理
 
 synthetic aperture radar 激光雷达
 
