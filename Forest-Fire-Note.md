@@ -1,3 +1,22 @@
+
+# National Burned Area Emergency (BAER)
+## BAER Team
+### Mission
+
+The National Burned Area Emergency Response Coordinators Group exists to provide program recommendations and guidelines for implementing Burned Area Emergency Stabilization and Rehabilitation programs. They accomplish this by functioning as a seamless interagency group to coordinate program issues, implementation, training, oversight, sharing of information, and evaluation.
+
+### Who
+
+While many lands sustaining wildfire are naturally stimulated and recover to healthy conditions, some catastrophic fire can damage the land, causing threats to human life, property, and biological and cultural resources downstream. In these situations, land managers may decide to apply "first-aid" immediately after the wildfire to help stabilize and repair the landscape.
+
+BAER teams are staffed by specially trained professionals: hydrologists, soil scientists, engineers, biologists, vegetation specialists, archeologists, and others who evaluate the burned area and prescribe emergency stabilization treatments. A BAER assessment usually begins before the wildfire has been fully contained.
+
+The interdisciplinary teams determine the need for, prescribe, and sometimes implement, emergency treatments to minimize threats to life or property or to stabilize and prevent further unacceptable degradation to natural and cultural resources resulting from the effects of wildfire. Based on the assessments written by team specialists, treatment recommendations are made to affect agencies for the protection of human life, health and safety, critical cultural and natural resources, and infrastructure.
+
+### Objectives
+
+The objectives set for the BAER team will largely be determined by land management standards, which apply to the area impacted by the fire and the severity of the fire on that area. When the need for a BAER team is recognized and assembled, its mission in the fire area must coordinate with the incident management team and safe integration with the ongoing strategies and tactics.
+
 # Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program
 The Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program assesses post-fire vegetation condition for large wildfires on forested National Forest System (NFS) lands. RAVG data are produced by the USFS Geospatial Technology and Applications Center (GTAC) by way of a multispectral change detection process. Standard products are calculated using regression equations that relate derivatives of Landsat or other similar imagery to three estimates of burn severity: percent change in basal area (BA), percent change in canopy cover (CC), and a standardized composite burn index (CBI).
 
