@@ -1,4 +1,12 @@
+# Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program
+The Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program assesses post-fire vegetation condition for large wildfires on forested National Forest System (NFS) lands. RAVG data are produced by the USFS Geospatial Technology and Applications Center (GTAC) by way of a multispectral change detection process. Standard products are calculated using regression equations that relate derivatives of Landsat or other similar imagery to three estimates of burn severity: percent change in basal area (BA), percent change in canopy cover (CC), and a standardized composite burn index (CBI).
 
+Standard thematic products include 7-class percent change in basal area (BA-7), 5-class percent change in canopy cover (CC-5), and 4-class CBI (CBI-4). National mosaics of each thematic product are prepared annually.
+
+RAVG data are produced to assist in post-fire vegetation management planning. They are intended to enhance decision-making capabilities and reduce planning and implementation costs associated with post-fire vegetation management. RAVG analysis provides a first approximation of areas that may require reforestation treatments after a fire. This initial approximation may be followed by site-specific diagnosis and development of a silvicultural prescription to more precisely identify reforestation needs.
+
+
+# other
 The stand-replacing fire is a fire in which most or all overstory trees are killed.
 
 
