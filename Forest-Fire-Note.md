@@ -4,6 +4,84 @@ The Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program asses
 Standard thematic products include 7-class percent change in basal area (BA-7), 5-class percent change in canopy cover (CC-5), and 4-class CBI (CBI-4). National mosaics of each thematic product are prepared annually.
 
 RAVG data are produced to assist in post-fire vegetation management planning. They are intended to enhance decision-making capabilities and reduce planning and implementation costs associated with post-fire vegetation management. RAVG analysis provides a first approximation of areas that may require reforestation treatments after a fire. This initial approximation may be followed by site-specific diagnosis and development of a silvicultural prescription to more precisely identify reforestation needs.
+## Method
+RAVG burn severity data are derived from multi-spectral imagery. A Relative Differenced Normalized Burn Ratio (RdNBR) image, which portrays the variation of burn severity within a burn area, is derived from a pair of multi-spectral images: a post-fire scene and a corresponding pre-fire scene. Whenever possible, the RAVG project uses Landsat images that have been geometrically rectified, terrain corrected, and converted to top-of-atmosphere (at-satellite) reflectance. The following process was developed for Landsat imagery but applies to other multi-spectral satellite imagery that includes a near-infrared (NIR) band and a short-wave infrared (SWIR) band (approximately 2.2 micrometers).
+
+The Normalized Burn Ratio (NBR) is computed for each image using the NIR and SWIR bands:
+
+NBR = (NIR - SWIR) / (NIR + SWIR)
+
+The Differenced NBR (dNBR) is computed as the change in NBR, scaled by 1000 (for representation as integer values):
+
+dNBR = (PreNBR - PostNBR)*1000
+
+The Relative dNBR (RdNBR) includes an additional scale factor designed to reduce the correlation with pre-fire vegetation density. It also includes an offset calculated from the dNBR in an unburned area in the vicinity of the fire having vegetation cover similar to that of the burned area. The offset is intended to account for seasonal or interannual differences between the two images.
+
+RdNBR = (dNBR - offset)/sqrt(abs(PreNBR/1000))
+
+RdNBR is the index used for vegetation burn severity assessments in the RAVG program. Higher RdNBR values are correlated with more severe burns.
+
+Three burn severity indices form the complement of RAVG products: Composite Burn Index (CBI), percent change in basal area (BA), and percent change in canopy cover (CC). Values are estimated from RdNBR via regression models, which were developed from field data and Landsat imagery, both acquired approximately one year post-fire. The field data were collected from a number of fires that burned in the Sierra Nevada and Klamath Mountains in California between 1999 and 2006. RdNBR values were derived from post-fire imagery acquired at approximately the same time, and seasonally matching imagery from before each fire.
+
+The CBI is a composite linear combination of fire effects experienced at a site and encompasses all vegetation strata from the forest floor to the upper canopy. The composite value ranges from 0 to 3. Thematic CBI-based severity classes were "calibrated" from field data collected about one year post-fire, meaning that field data collected on a given fire or fires that occurred in similar vegetation types were used to classify burn severity as unchanged, low, moderate or high severity. CBI values of 0.1, 1.25, and 2.25 were selected as the breakpoints between the successive classes, which are defined as follows:
+
+Unchanged: Areas indistinguishable from pre-fire conditions. This does not necessarily indicate that the area was unburned.
+
+Low: Areas of surface fire with little change in cover and little mortality of the structurally dominant vegetation.
+
+Moderate: Areas between low and high severity, with a mixture of effects on the structurally dominant vegetation.
+
+High: Areas where the dominant vegetation has high to complete mortality.
+
+Percent change in basal area was calibrated through regression analysis of the RdNBR index to basal area change as measured in the same field plots where the CBI data were collected. For this measure, a tree with no green foliage one year post-fire was defined as being dead. Percent change in canopy cover was likewise calibrated through regression analysis of the RdNBR index to measured or calculated tree canopy cover change. Pre-fire canopy cover was determined through photo interpretation of pre-fire digital orthophotos or by way of the Forest Vegetation Simulator (FVS) (https://www.fs.fed.us/fmsc/fvs/).
+
+The following models were used for extended assessments; that is, assessments based on post-fire imagery acquired during the growing season one year after the fire:
+
+CBI = (1/0.6124)*LN((RdNBR + 123.3)/196.8) [2016 and earlier]
+CBI = (1/0.3890)*LN((RdNBR + 369.0)/421.7) [2017 and later]
+BA Percent Change = 100*(SIN((RdNBR-166.5)/389))^2
+CC Percent Change = 100*(SIN((RdNBR-161.0)/392.6))^2
+
+Calibrated thresholds for initial assessments were derived through regression modeling of satellite reflectance values from imagery collected one year post-fire to imagery acquired immediately post-fire. Application of the calculated correction factor yields the following initial assessment models:
+
+CBI = (1/0.6124)*LN((RdNBR/1.1438 + 123.3)/196.8) [2016 and earlier]
+CBI = (1/0.3890)*LN((RdNBR/1.1438 + 369.0)/421.7) [2017 and later]
+BA Percent Change = 100*(SIN((RdNBR/1.1438-166.5)/389))^2
+CC Percent Change = 100*(SIN((RdNBR/1.1438-161.0)/392.6))^2
+
+A thematic version of each continuous burn severity raster was created based on the following class breaks:
+
+Four-category severity classification based on CBI:
+0 = outside perimeter
+1 = unchanged (0 &lt;= CBI &lt; 0.1)
+2 = low severity (0.1 &lt;= CBI &lt; 1.25)
+3 = moderate severity (1.25 &lt;= CBI &lt; 2.25)
+4 = high severity (2.25 &lt;= CBI &lt;= 3.0)
+9 = unmappable
+
+Seven-category percent change in basal area (BA):
+0 = outside perimeter
+1 = 0% BA loss
+2 = 0% &lt; BA loss &lt; 10%
+3 = 10% &lt;= BA loss &lt; 25%
+4 = 25% &lt;= BA loss &lt; 50%
+5 = 50% &lt;= BA loss &lt; 75%
+6 = 75% &lt;= BA loss &lt; 90%
+7 = BA loss &gt;= 90%
+9 = unmappable
+
+Five-category percent change in canopy cover (CC):
+0 = outside perimeter
+1 = 0% CC loss
+2 = 0% &lt; CC loss &lt; 25%
+3 = 25% &lt;= CC loss &lt; 50%
+4 = 50% &lt;= CC loss &lt; 75%
+5 = CC loss &gt;= 75%
+9 = unmappable
+
+When a perimeter for a given fire was available from the incident management team or local unit, it was used as the initial approximation for the RAVG burned area perimeter. In many cases, supplied perimeters were edited to account for obvious discrepancies with the visible burned area (based on the post-fire imagery). If no perimeter was provided, the burned area boundary was delineated from the dNBR and post-fire reflectance imagery. Open water and areas obscured by clouds, shadows, active fire, smoke, or snow were masked and identified as "unmappable".
+
+Note that derived burn severity products represent a snapshot in time and that the models are applied to the entire extent of each burned area without regard to vegetation type. Factors such as delayed mortality, resprouting, the presence of non-tree vegetation, and the occurrence of non-fire disturbances can contribute to errors in the burn severity estimates.
 
 
 # other
