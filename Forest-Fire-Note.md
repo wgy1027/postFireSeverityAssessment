@@ -126,6 +126,8 @@ When a perimeter for a given fire was available from the incident management tea
 
 Note that derived burn severity products represent a snapshot in time and that the models are applied to the entire extent of each burned area without regard to vegetation type. Factors such as delayed mortality, resprouting, the presence of non-tree vegetation, and the occurrence of non-fire disturbances can contribute to errors in the burn severity estimates.
 
+[Online Download Linkage](https://fsapps.nwcg.gov/ravg/data-access)
+
 
 # other
 The stand-replacing fire is a fire in which most or all overstory trees are killed.
