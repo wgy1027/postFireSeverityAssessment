@@ -39,6 +39,8 @@ General descriptions of the severity classes are below:
 
 (4) High:     Areas where the canopy has high to complete consumption. Changes to soil structure, color and condition are significant and hydrophobicity may have occured.
 
+[Online Linkage](https://fsapps.nwcg.gov/baer/baer-imagery-support-data-download)
+
 # Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program
 The Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program assesses post-fire vegetation condition for large wildfires on forested National Forest System (NFS) lands. RAVG data are produced by the USFS Geospatial Technology and Applications Center (GTAC) by way of a multispectral change detection process. Standard products are calculated using regression equations that relate derivatives of Landsat or other similar imagery to three estimates of burn severity: percent change in basal area (BA), percent change in canopy cover (CC), and a standardized composite burn index (CBI).
 
