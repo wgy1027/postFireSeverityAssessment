@@ -17,6 +17,28 @@ The interdisciplinary teams determine the need for, prescribe, and sometimes imp
 
 The objectives set for the BAER team will largely be determined by land management standards, which apply to the area impacted by the fire and the severity of the fire on that area. When the need for a BAER team is recognized and assembled, its mission in the fire area must coordinate with the incident management team and safe integration with the ongoing strategies and tactics.
 
+## Method
+This soil burn severity dataset was derived from Sentinel 2 data and field validated by a Forest Service Burned Area Emergency Response (BAER) team. It is based upon an initial Burned Area Reflectance Classification (BARC) dataset created by analyzing satellite imagery. A pre-fire and post-fire Sentinel 2 scene were processed to develop a differenced Normalized Burn Ratio (dNBR) image. The dNBR image attempts to portray the variation of burn severity within a fire and captures the combined effects of the fire to vegetation and soil components of the ecosytem. The preliminary BARC dataset was assessed by a Forest Service BAER team and modified, if necessary, based on field conditions. Purpose: These data were created by the USDA Forest Service Geospatial Technology and Applications Center (GTAC) to support Burned Area Emergency Response (BAER) teams.
+
+Process Description: These data products are derived from Sentinel 2 data. Pre-fire and post-fire scenes are analyzed to create a differenced Normalized Burn Ratio (dNBR) image. The dNBR image portrays the variation of burn severity within the fire. The pre- and post-fire images are terrain corrected and further processed to convert top of atmosphere reflectance. The Normalized Burn Ratio (NBR) is computed for the pre- and post-fire images using the following formula: (NIR Band - SWIR Band) / (NIR Band + SWIR Band) = NBR
+
+The Differenced NBR is computed to determine severity by subtracting the post-fire NBR from the pre-fire NBR: (PreNBR - PostNBR) = dNBR
+            
+One example of BARC threshold set is:
+Original BARC thresholds:
+Unburned/Low threshold = 76
+Low/Moderate threshold = 118
+Moderate/High threshold = 217
+
+General descriptions of the severity classes are below:
+(1) Unburned / Very low: The area after the fire was indistinguishable from pre-fire conditions. This does not always indicate the area did not burn (i.e. canopy may be occluding the burn signal).
+
+(2) Low:      Areas of surface fire with little detected change in cover and little detected mortality of the dominant vegetation. Little to no change in the soil color, structure and condition occured.
+
+(3) Moderate: This severity class is between low and high and means there is a mixture of detected effects on the dominant vegetation.
+
+(4) High:     Areas where the canopy has high to complete consumption. Changes to soil structure, color and condition are significant and hydrophobicity may have occured.
+
 # Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program
 The Rapid Assessment of Vegetation Condition after Wildfire (RAVG) program assesses post-fire vegetation condition for large wildfires on forested National Forest System (NFS) lands. RAVG data are produced by the USFS Geospatial Technology and Applications Center (GTAC) by way of a multispectral change detection process. Standard products are calculated using regression equations that relate derivatives of Landsat or other similar imagery to three estimates of burn severity: percent change in basal area (BA), percent change in canopy cover (CC), and a standardized composite burn index (CBI).
 
